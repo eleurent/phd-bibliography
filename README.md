@@ -1,6 +1,6 @@
 # Bibliography
 
-
+![RL Diagram](https://raw.githubusercontent.com/eleurent/phd-bibliography/master/reinforcement-learning.svg)
 
 # Table of contents
   * [Reinforcement Learning](#reinforcement-learning)
