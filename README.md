@@ -1,9 +1,6 @@
 # Bibliography
 
 # Table of contents
-* [Optimal Control](#optimal-control)
-  * [Dynamic Programming](#dynamic-programming)
-  * [Control Theory](#control-theory)
 * [Reinforcement Learning](#reinforcement-learning)
   * [Value-based](#value-based)
   * [Policy-based](#policy-based)
@@ -18,23 +15,11 @@
   * [Imitation Learning](#imitation-learning)
   * [Inverse Reinforcement Learning](#inverse-reinforcement-learning)
     * [IRL applications](#irl-applications)
+* [Optimal Control](#optimal-control)
+  * [Control Theory](#control-theory)
+  * [Dynamic Programming](#dynamic-programming)
 
 ![RL Diagram](https://rawgit.com/eleurent/phd-bibliography/master/reinforcement-learning.svg)
-
-
-## Optimal Control
-
-### Dynamic programming
-
-* [Dynamic Programming](https://press.princeton.edu/titles/9234.html), Bellman R., 1957.
-* [Dynamic Programming and Optimal Control, Volumes 1 and 2](http://web.mit.edu/dimitrib/www/dpchapter.html), Bertsekas D., 1995.
-* [Markov Decision Processes - Discrete Stochastic Dynamic Programming](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118625870.html), Puterman M., 1995.
-
-### Control theory
-
-* [A generalized iterative LQG method for locally-optimal feedback control of constrained nonlinear stochastic systems](http://maeresearch.ucsd.edu/skelton/publications/weiwei_ilqg_CDC43.pdf), Todorov E., *iLQG*, 2005.
-* [Synthesis and stabilization of complex behaviors through online trajectory optimization](https://homes.cs.washington.edu/~todorov/papers/TassaIROS12.pdf), Tassa Y., *iLQG+*, 2012.
-
 
 ## Reinforcement Learning
 
@@ -104,3 +89,19 @@
 * [Planning-based Prediction for Pedestrians](http://ieeexplore.ieee.org/abstract/document/5354147/), Ziebart B. et al, 2009.
 * [Watch This: Scalable Cost-Function Learning for Path Planning in Urban Environments](https://arxiv.org/abs/1607.02329), Wulfmeier M., 2016.
 * [Learning Driving Styles for Autonomous Vehicles from Demonstration](http://ieeexplore.ieee.org/document/7139555/), Kuderer M. et al, 2015.
+
+## Optimal Control
+
+### Control theory
+
+* [Model Predictive Control](http://een.iust.ac.ir/profs/Shamaghdari/MPC/Resources/), Camacho E., 1995.
+* [Predictive Control With Constraints](https://books.google.fr/books/about/Predictive_Control.html?id=HV_Y58c7KiwC&redir_esc=y), Maciejowski J. M., 2002.
+* [Constrained Control and Estimation](http://www.springer.com/gp/book/9781852335489),  Goodwin G., 2005.
+* [A generalized iterative LQG method for locally-optimal feedback control of constrained nonlinear stochastic systems](http://maeresearch.ucsd.edu/skelton/publications/weiwei_ilqg_CDC43.pdf), Todorov E., *iLQG*, 2005.
+* [Synthesis and stabilization of complex behaviors through online trajectory optimization](https://homes.cs.washington.edu/~todorov/papers/TassaIROS12.pdf), Tassa Y., *iLQG+*, 2012.
+
+### Dynamic programming
+
+* [Dynamic Programming](https://press.princeton.edu/titles/9234.html), Bellman R., 1957.
+* [Dynamic Programming and Optimal Control, Volumes 1 and 2](http://web.mit.edu/dimitrib/www/dpchapter.html), Bertsekas D., 1995.
+* [Markov Decision Processes - Discrete Stochastic Dynamic Programming](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118625870.html), Puterman M., 1995.
