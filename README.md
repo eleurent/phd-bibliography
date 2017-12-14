@@ -1,6 +1,9 @@
 # Bibliography
 
 # Table of contents
+* [Optimal Control](#optimal-control)
+  * [Dynamic Programming](#dynamic-programming)
+  * [Control Theory](#control-theory)
 * [Reinforcement Learning](#reinforcement-learning)
   * [Value-based](#value-based)
   * [Policy-based](#policy-based)
@@ -17,6 +20,21 @@
     * [IRL applications](#irl-applications)
 
 ![RL Diagram](https://rawgit.com/eleurent/phd-bibliography/master/reinforcement-learning.svg)
+
+
+## Optimal Control
+
+### Dynamic programming
+
+* [Dynamic Programming](https://press.princeton.edu/titles/9234.html), Bellman R., 1957.
+* [Dynamic Programming and Optimal Control, Volumes 1 and 2](http://web.mit.edu/dimitrib/www/dpchapter.html), Bertsekas D., 1995.
+* [Markov Decision Processes - Discrete Stochastic Dynamic Programming](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118625870.html), Puterman M., 1995.
+
+### Control theory
+
+* [A generalized iterative LQG method for locally-optimal feedback control of constrained nonlinear stochastic systems](http://maeresearch.ucsd.edu/skelton/publications/weiwei_ilqg_CDC43.pdf), Todorov E., *iLQG*, 2005.
+* [Synthesis and stabilization of complex behaviors through online trajectory optimization](https://homes.cs.washington.edu/~todorov/papers/TassaIROS12.pdf), Tassa Y., *iLQG+*, 2012.
+
 
 ## Reinforcement Learning
 
