@@ -49,6 +49,8 @@
 #### Derivative-free
 
 * [Learning Tetris Using the Noisy Cross-Entropy Method](http://iew3.technion.ac.il/CE/files/papers/Learning%20Tetris%20Using%20the%20Noisy%20Cross-Entropy%20Method.pdf), Szita I. Lörincz A., *CEM*, 2006.
+* [Completely Derandomized Self-Adaptation in Evolution Strategies](https://dl.acm.org/citation.cfm?id=1108843), Hansen N. Ostermeier A., *CMAES*, 2001.
+* [Evolving Neural Networks through Augmenting Topologies](http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf), Stanley K., *NEAT*, 2002.
 
 ### Temporal abstraction
 
