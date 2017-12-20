@@ -13,6 +13,7 @@
   * [Multi-agent](#multi-agent)
 * [Learning from Demonstrations](#learning-from-demonstrations)
   * [Imitation Learning](#imitation-learning)
+    * [IL applications](#il-applications)
   * [Inverse Reinforcement Learning](#inverse-reinforcement-learning)
     * [IRL applications](#irl-applications)
 * [Optimal Control](#optimal-control)
@@ -76,6 +77,14 @@
 ### Imitation Learning
 
 * [Learning from Demonstrations for Real World Reinforcement Learning](https://pdfs.semanticscholar.org/a7fb/199f85943b3fb6b5f7e9f1680b2e2a445cce.pdf), Hester T. et al, *DQfD*, 2017.
+* [Value Iteration Networks](https://arxiv.org/abs/1602.02867), Tamar A. et al , 2016.
+* [Value Prediction Network](https://arxiv.org/abs/1707.03497), Oh J. et al, 2017
+
+### IL applications
+
+* [ALVINN, an autonomous land vehicle in a neural network](https://papers.nips.cc/paper/95-alvinn-an-autonomous-land-vehicle-in-a-neural-network), Pomerleau D., 1989.
+* [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316), Bojarski M. et al (NVIDIA), 2016.
+* [End-to-End Deep Learning for Steering Autonomous Vehicles Considering Temporal Dependencies](https://arxiv.org/abs/1710.03804), Eraqi H. et al, 2017.
 
 ### Inverse Reinforcement Learning
 
