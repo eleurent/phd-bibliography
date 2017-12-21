@@ -80,7 +80,7 @@
 * [Value Iteration Networks](https://arxiv.org/abs/1602.02867), Tamar A. et al , 2016.
 * [Value Prediction Network](https://arxiv.org/abs/1707.03497), Oh J. et al, 2017
 
-### IL applications
+### IL applications
 
 * [ALVINN, an autonomous land vehicle in a neural network](https://papers.nips.cc/paper/95-alvinn-an-autonomous-land-vehicle-in-a-neural-network), Pomerleau D., 1989.
 * [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316), Bojarski M. et al (NVIDIA), 2016.
