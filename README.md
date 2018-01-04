@@ -9,8 +9,9 @@
     * [Derivative-free](#derivative-free)
   * [Temporal abstraction](#temporal-abstraction)
   * [Partial observability](#partial-observability)
-  * [Performances and acceleration](#performances-and-acceleration)
+  * [Safety](#safety)
   * [Multi-agent](#multi-agent)
+  * [Performances and acceleration](#performances-and-acceleration)
 * [Learning from Demonstrations](#learning-from-demonstrations)
   * [Imitation Learning](#imitation-learning)
     * [IL applications](#il-applications)
@@ -64,15 +65,20 @@
 * [Point-based Value Iteration: An anytime algorithm for POMDPs](https://www.ri.cmu.edu/pub_files/pub4/pineau_joelle_2003_3/pineau_joelle_2003_3.pdf), Pineau J. et al, 2003.
 * [Point-Based Value Iteration for Continuous POMDPs](http://www.jmlr.org/papers/volume7/porta06a/porta06a.pdf), Porta J. et al, 2006.
 
-### Performances and acceleration
+### Safety
 
-* [Near-optimal Regret Bounds for Reinforcement Learning](http://www.jmlr.org/papers/volume11/jaksch10a/jaksch10a.pdf), Jaksch T., *UCRL2*, ‎2010.
-* [Integrated Architectures for Learning, Planning, and Reacting Based on Approximating Dynamic Programming](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.84.6983&rep=rep1&type=pdf), Sutton R., *Dyna*, 1990.
+* [A Comprehensive Survey on Safe Reinforcement Learning](http://jmlr.org/papers/v16/garcia15a.html), García J., Fernández F., 2015.
+* [Safe, Multi-Agent, Reinforcement Learning for Autonomous Driving](https://arxiv.org/abs/1610.03295), Shalev-Shwartz S. et al, 2016.
+
 
 ### Multi-agent
 
 * [MAgent: A Many-Agent Reinforcement Learning Platform for Artificial Collective Intelligence](https://arxiv.org/abs/1712.00600), Zheng L. et al, 2017.
-* [Safe, Multi-Agent, Reinforcement Learning for Autonomous Driving](https://arxiv.org/abs/1610.03295), Shalev-Shwartz S. et al, 2016.
+
+### Performances and acceleration
+
+* [Near-optimal Regret Bounds for Reinforcement Learning](http://www.jmlr.org/papers/volume11/jaksch10a/jaksch10a.pdf), Jaksch T., *UCRL2*, ‎2010.
+* [Integrated Architectures for Learning, Planning, and Reacting Based on Approximating Dynamic Programming](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.84.6983&rep=rep1&type=pdf), Sutton R., *Dyna*, 1990.
 
 
 ## Learning from Demonstrations
@@ -83,7 +89,7 @@
 * [Value Iteration Networks](https://arxiv.org/abs/1602.02867), Tamar A. et al , 2016.
 * [Value Prediction Network](https://arxiv.org/abs/1707.03497), Oh J. et al, 2017
 
-### IL applications
+#### IL applications
 
 * [ALVINN, an autonomous land vehicle in a neural network](https://papers.nips.cc/paper/95-alvinn-an-autonomous-land-vehicle-in-a-neural-network), Pomerleau D., 1989.
 * [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316), Bojarski M. et al (NVIDIA), 2016.
