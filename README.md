@@ -18,10 +18,14 @@
     * [IL applications](#il-applications)
   * [Inverse Reinforcement Learning](#inverse-reinforcement-learning)
     * [IRL applications](#irl-applications)
+* [Tree Search](#tree-search)
 * [Optimal Control](#optimal-control)
   * [Control Theory](#control-theory)
   * [Dynamic Programming](#dynamic-programming)
-* [Tree Search](#tree-search)
+* [Motion Planning](#motion-planning)
+  * [Search](#search)
+  * [Sampling](#sampling)
+  * [MP applications](#mp-applications)
 
 ![RL Diagram](https://rawgit.com/eleurent/phd-bibliography/master/reinforcement-learning.svg)
 
@@ -87,6 +91,7 @@
 # Tree Search
 
 * [Mastering the game of Go with deep neural networks and tree search](https://www.nature.com/articles/nature16961), Silver D. et al, 2016.
+* [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/abs/1712.01815), Silver D. et al, 2017.
 
 # Learning from Demonstrations
 
@@ -137,5 +142,25 @@
 * (book) [Dynamic Programming and Optimal Control, Volumes 1 and 2](http://web.mit.edu/dimitrib/www/dpchapter.html), Bertsekas D., 1995.
 * (book) [Markov Decision Processes - Discrete Stochastic Dynamic Programming](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118625870.html), Puterman M., 1995.
 
+# Motion Planning
+
 ## Search
 
+* [3D perception and planning for self-driving and cooperative automobiles](http://www.mrt.kit.edu/z/publ/download/2012/StillerZiegler2012SSD.pdf), Stiller C., Ziegler J., 2012.
+* [Motion Planning under Uncertainty for On-Road Autonomous Driving](https://www.ri.cmu.edu/pub_files/2014/6/ICRA14_0863_Final.pdf), Xu W. et al, 2014.
+* [Monte Carlo Tree Search for Simulated Car Racing](http://julian.togelius.com/Fischer2015Monte.pdf), Fischer J. et al, 2015. ([video](https://www.youtube.com/watch?v=GbUMssvolvU))
+
+## Sampling
+
+* [Sampling-based Algorithms for Optimal Motion Planning](https://arxiv.org/abs/1105.1186), Karaman S., Frazzoli E., 2011. *RRT*\*. ([video](https://www.youtube.com/watch?v=p3nZHnOWhrg))
+* [LQG-MP: Optimized Path Planning for Robots with Motion Uncertainty and Imperfect State Information](https://people.eecs.berkeley.edu/~pabbeel/papers/vandenBergAbbeelGoldberg_RSS2010.pdf), van den Berg J. et al, 2010.
+* [Motion Planning under Uncertainty using Differential Dynamic Programming in Belief Space](http://rll.berkeley.edu/~sachin/papers/Berg-ISRR2011.pdf), van den Berg J. et al, 2011.
+* [Rapidly-exploring Random Belief Trees for Motion Planning Under Uncertainty](https://groups.csail.mit.edu/rrg/papers/abry_icra11.pdf), Bry A., Roy N., 2011.
+
+## MP applications
+
+* [A Review of Motion Planning Techniques for Automated Vehicles](http://ieeexplore.ieee.org/document/7339478/), González D. et al, 2016.
+* [A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles](https://arxiv.org/abs/1604.07446), Paden B. et al, 2016.
+* [Autonomous driving in urban environments: Boss and the Urban Challenge](https://www.ri.cmu.edu/publications/autonomous-driving-in-urban-environments-boss-and-the-urban-challenge/), Urmson C. et al, 2008.
+* [The MIT-Cornell collision and why it happened](http://onlinelibrary.wiley.com/doi/10.1002/rob.20266/pdf), Fletcher L. et al, 2008.
+* [Making bertha drive-an autonomous journey on a historic route](http://ieeexplore.ieee.org/document/6803933/), Ziegler J. et al, 2014.
