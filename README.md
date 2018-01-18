@@ -33,9 +33,9 @@
 
 ## Value-based
 
-* [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf), Mnih V. et al, 2013. *DQN*.
+* [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf), Mnih V. et al, 2013. *DQN*. ([video](https://www.youtube.com/watch?v=iqXKQf2BOSE))
 * [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461), van Hasselt H. Silver D. et al, 2015. *DDQN*.
-* [Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1511.06581), Wang Z. et al, 2015. *DDDQN*.
+* [Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1511.06581), Wang Z. et al, 2015. *DDDQN*. ([video](https://www.youtube.com/watch?v=qJd3yaEN9Sw))
 * [Prioritized Experience Replay](https://arxiv.org/abs/1511.05952), Schaul T. et al, 2015. *PDDDQN*.
 * [Continuous Deep Q-Learning with Model-based Acceleration](https://arxiv.org/abs/1603.00748), Gu S. et al, 2016. *NAF*.
 
@@ -44,28 +44,28 @@
 ### Policy gradient
 
 * [Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning](http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf), Williams R., 1992. *REINFORCE*.
-* [End-to-End Training of Deep Visuomotor Policies](https://arxiv.org/abs/1504.00702), Levine S. et al, 2015. *GPS*.
-* [Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477), Schulman J. et al, 2015. *TRPO*.
-* [Proximal Policy Optimization Algorithms ](https://arxiv.org/abs/1707.06347), Schulman J. et al, 2017. *PPO*.
+* [End-to-End Training of Deep Visuomotor Policies](https://arxiv.org/abs/1504.00702), Levine S. et al, 2015. *GPS*. ([video](https://www.youtube.com/watch?v=Q4bMcUk6pcw))
+* [Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477), Schulman J. et al, 2015. *TRPO*. ([video](https://www.youtube.com/watch?v=KJ15iGGJFvQ))
+* [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347), Schulman J. et al, 2017. *PPO*. ([video](https://www.youtube.com/watch?v=bqdjsmSoSgI))
 
 ### Actor-critic
 
 * [Policy Gradient Methods for Reinforcement Learning with Function Approximation](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf), Sutton R. et al, 1999. *AC*.
 * [Natural Actor-Critic](https://homes.cs.washington.edu/~todorov/courses/amath579/reading/NaturalActorCritic.pdf), Peters J. et al, 2005. *NAC*.
-* [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783), Mnih V. et al 2016. *A3C*.
-* [Continuous Control With Deep Reinforcement Learning](https://arxiv.org/abs/1509.02971), Lillicrap T. et al, 2016. *DDPG*.
+* [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783), Mnih V. et al 2016. *A3C*. ([video 1](https://www.youtube.com/watch?v=Ajjc08-iPx8) | [2](https://www.youtube.com/watch?v=0xo1Ldx3L5Q) | [3](https://www.youtube.com/watch?v=nMR5mjCFZCw))
+* [Continuous Control With Deep Reinforcement Learning](https://arxiv.org/abs/1509.02971), Lillicrap T. et al, 2016. *DDPG*. ([video 1](https://www.youtube.com/watch?v=lV5JhxsrSH8) | [2](https://www.youtube.com/watch?v=8CNck-hdys8) | [3](https://www.youtube.com/watch?v=xw73qehvSRQ) | [4](https://www.youtube.com/watch?v=vWxBmHRnQMI))
 
 ### Derivative-free
 
-* [Learning Tetris Using the Noisy Cross-Entropy Method](http://iew3.technion.ac.il/CE/files/papers/Learning%20Tetris%20Using%20the%20Noisy%20Cross-Entropy%20Method.pdf), Szita I. Lörincz A., 2006. *CEM*.
+* [Learning Tetris Using the Noisy Cross-Entropy Method](http://iew3.technion.ac.il/CE/files/papers/Learning%20Tetris%20Using%20the%20Noisy%20Cross-Entropy%20Method.pdf), Szita I. Lörincz A., 2006. *CEM*. ([video](https://www.youtube.com/watch?v=UZnDYGk1j2c))
 * [Completely Derandomized Self-Adaptation in Evolution Strategies](https://dl.acm.org/citation.cfm?id=1108843), Hansen N. Ostermeier A., 2001. *CMAES*.
-* [Evolving Neural Networks through Augmenting Topologies](http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf), Stanley K., 2002. *NEAT*.
+* [Evolving Neural Networks through Augmenting Topologies](http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf), Stanley K., 2002. *NEAT*. ([video](https://www.youtube.com/watch?v=5lJuEW-5vr8))
 
 ## Temporal abstraction
 
 * [Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning](http://www-anw.cs.umass.edu/~barto/courses/cs687/Sutton-Precup-Singh-AIJ99.pdf), Sutton R. et al, 1999.
 * [Intrinsically motivated learning of hierarchical collections of skills](http://www-anw.cs.umass.edu/pubs/2004/barto_sc_ICDL04.pdf), Barto A. et al, 2004.
-* [Learning and Transfer of Modulated Locomotor Controllers](https://arxiv.org/abs/1610.05182), Heess N. et al, 2016.
+* [Learning and Transfer of Modulated Locomotor Controllers](https://arxiv.org/abs/1610.05182), Heess N. et al, 2016. ([video](https://www.youtube.com/watch?v=sboPYvhpraQ&feature=youtu.be))
 * [FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1703.01161), Vezhnevets A. et al, 2017. *FuNs*.
 * [On a Formal Model of Safe and Scalable Self-driving Cars](https://arxiv.org/abs/1708.06374), Shalev-Shwartz S. et al, 2017.
 
@@ -81,7 +81,7 @@
 
 ## Multi-agent
 
-* [MAgent: A Many-Agent Reinforcement Learning Platform for Artificial Collective Intelligence](https://arxiv.org/abs/1712.00600), Zheng L. et al, 2017.
+* [MAgent: A Many-Agent Reinforcement Learning Platform for Artificial Collective Intelligence](https://arxiv.org/abs/1712.00600), Zheng L. et al, 2017. ([video](https://www.youtube.com/watch?v=HCSm0kVolqI))
 
 ## Performances and acceleration
 
@@ -97,14 +97,14 @@
 
 ## Imitation Learning
 
-* [Learning from Demonstrations for Real World Reinforcement Learning](https://pdfs.semanticscholar.org/a7fb/199f85943b3fb6b5f7e9f1680b2e2a445cce.pdf), Hester T. et al, 2017. *DQfD*.
-* [Value Iteration Networks](https://arxiv.org/abs/1602.02867), Tamar A. et al , 2016. *VIN*.
+* [Learning from Demonstrations for Real World Reinforcement Learning](https://pdfs.semanticscholar.org/a7fb/199f85943b3fb6b5f7e9f1680b2e2a445cce.pdf), Hester T. et al, 2017. *DQfD*. ([videos](https://www.youtube.com/watch?v=JR6wmLaYuu4&list=PLdjpGm3xcO-0aqVf--sBZHxCKg-RZfa5T))
+* [Value Iteration Networks](https://arxiv.org/abs/1602.02867), Tamar A. et al , 2016. *VIN*. ([video](https://www.youtube.com/watch?v=RcRkog93ZRU))
 * [Value Prediction Network](https://arxiv.org/abs/1707.03497), Oh J. et al, 2017. *VPN*.
 
 ### IL applications
 
 * [ALVINN, an autonomous land vehicle in a neural network](https://papers.nips.cc/paper/95-alvinn-an-autonomous-land-vehicle-in-a-neural-network), Pomerleau D., 1989.
-* [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316), Bojarski M. et al (NVIDIA), 2016.
+* [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316), Bojarski M. et al (NVIDIA), 2016. ([video](https://www.youtube.com/watch?v=qhUvQiKec2U))
 * [End-to-End Deep Learning for Steering Autonomous Vehicles Considering Temporal Dependencies](https://arxiv.org/abs/1710.03804), Eraqi H. et al, 2017.
 
 ## Inverse Reinforcement Learning
@@ -113,15 +113,15 @@
 * [Bayesian inverse reinforcement learning](https://www.aaai.org/Papers/IJCAI/2007/IJCAI07-416.pdf), Ramachandran D. Amir E., 2007. *BIRL*.
 * [Maximum Entropy Inverse Reinforcement Learning](https://www.aaai.org/Papers/AAAI/2008/AAAI08-227.pdf), Ziebart B. et al, 2008. *MEIRL*.
 * [Maximum Entropy Deep Inverse Reinforcement Learning](https://arxiv.org/abs/1507.04888), Wulfmeier M., 2015. *MEDIRL*.
-* [Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization](https://arxiv.org/abs/1603.00448), Finn C. et al, 2016. *GCL*.
+* [Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization](https://arxiv.org/abs/1603.00448), Finn C. et al, 2016. *GCL*. ([video](https://www.youtube.com/watch?v=hXxaepw0zAw))
 * [Generative Adversarial Imitation Learning](https://arxiv.org/abs/1606.03476), Ho J., Ermon S., 2016. *GAIL*.
 * [Bridging the Gap Between Imitation Learning and Inverse Reinforcement Learning](http://ieeexplore.ieee.org/document/7464854/), Piot B. et al, 2017.
 
 ### IRL applications
 
 * [Apprenticeship Learning for Motion Planning, with Application to Parking Lot Navigation](http://ieeexplore.ieee.org/document/4651222/), Abbeel P. et al, 2008.
-* [Planning-based Prediction for Pedestrians](http://ieeexplore.ieee.org/abstract/document/5354147/), Ziebart B. et al, 2009.
-* [Watch This: Scalable Cost-Function Learning for Path Planning in Urban Environments](https://arxiv.org/abs/1607.02329), Wulfmeier M., 2016.
+* [Planning-based Prediction for Pedestrians](http://ieeexplore.ieee.org/abstract/document/5354147/), Ziebart B. et al, 2009. ([video](https://www.youtube.com/watch?v=XOZ69Bg4JKg))
+* [Watch This: Scalable Cost-Function Learning for Path Planning in Urban Environments](https://arxiv.org/abs/1607.02329), Wulfmeier M., 2016. ([video](https://www.youtube.com/watch?v=Sdfir_1T-UQ))
 * [Learning Driving Styles for Autonomous Vehicles from Demonstration](http://ieeexplore.ieee.org/document/7139555/), Kuderer M. et al, 2015.
 
 # Optimal Control
