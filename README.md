@@ -74,6 +74,7 @@
 
 * [Point-based Value Iteration: An anytime algorithm for POMDPs](https://www.ri.cmu.edu/pub_files/pub4/pineau_joelle_2003_3/pineau_joelle_2003_3.pdf), Pineau J. et al, 2003.
 * [Point-Based Value Iteration for Continuous POMDPs](http://www.jmlr.org/papers/volume7/porta06a/porta06a.pdf), Porta J. et al, 2006.
+* [Solving Continuous POMDPs: Value Iteration with Incremental Learning of an Efficient Space Representation](http://proceedings.mlr.press/v28/brechtel13.pdf), Brechtel S. et al, 2013.
 
 ## Safety
 
