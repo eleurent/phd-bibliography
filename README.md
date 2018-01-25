@@ -25,7 +25,7 @@
 * [Motion Planning](#motion-planning)
   * [Search](#search)
   * [Sampling](#sampling)
-  * [MP applications](#mp-applications)
+  * [Architecture and applications](#architecture-and-applications)
 
 ![RL Diagram](https://rawgit.com/eleurent/phd-bibliography/master/reinforcement-learning.svg)
 
@@ -83,6 +83,7 @@
 ## Multi-agent
 
 * [MAgent: A Many-Agent Reinforcement Learning Platform for Artificial Collective Intelligence](https://arxiv.org/abs/1712.00600), Zheng L. et al, 2017. ([video](https://www.youtube.com/watch?v=HCSm0kVolqI))
+* [Socially Aware Motion Planning with Deep Reinforcement Learning](https://arxiv.org/abs/1703.08862), Chen Y. et al, 2017. ([video](https://www.youtube.com/watch?v=CK1szio7PyA))
 
 ## Performances and acceleration
 
@@ -159,7 +160,9 @@
 * [Motion Planning under Uncertainty using Differential Dynamic Programming in Belief Space](http://rll.berkeley.edu/~sachin/papers/Berg-ISRR2011.pdf), van den Berg J. et al, 2011.
 * [Rapidly-exploring Random Belief Trees for Motion Planning Under Uncertainty](https://groups.csail.mit.edu/rrg/papers/abry_icra11.pdf), Bry A., Roy N., 2011.
 
-## MP applications
+## [Optimal Control](#optimal-control)
+
+## Architecture and applications
 
 * [A Review of Motion Planning Techniques for Automated Vehicles](http://ieeexplore.ieee.org/document/7339478/), González D. et al, 2016.
 * [A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles](https://arxiv.org/abs/1604.07446), Paden B. et al, 2016.
