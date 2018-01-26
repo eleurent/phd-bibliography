@@ -80,6 +80,7 @@
 
 * [A Comprehensive Survey on Safe Reinforcement Learning](http://jmlr.org/papers/v16/garcia15a.html), García J., Fernández F., 2015.
 * [Safe, Multi-Agent, Reinforcement Learning for Autonomous Driving](https://arxiv.org/abs/1610.03295), Shalev-Shwartz S. et al, 2016.
+* [Will the Driver Seat Ever Be Empty?](https://hal.inria.fr/hal-00965176), Fraichard T., 2014.
 
 ## Multi-agent
 
