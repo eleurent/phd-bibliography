@@ -121,6 +121,7 @@
 * [Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization](https://arxiv.org/abs/1603.00448), Finn C. et al, 2016. *GCL*. ([video](https://www.youtube.com/watch?v=hXxaepw0zAw))
 * [Generative Adversarial Imitation Learning](https://arxiv.org/abs/1606.03476), Ho J., Ermon S., 2016. *GAIL*.
 * [Bridging the Gap Between Imitation Learning and Inverse Reinforcement Learning](http://ieeexplore.ieee.org/document/7464854/), Piot B. et al, 2017.
+* [Repeated Inverse Reinforcement Learning](https://arxiv.org/abs/1705.05427), Amin K. et al, 2017. *RIRL*
 
 ### IRL applications
 
