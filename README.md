@@ -86,6 +86,7 @@
 
 * [MAgent: A Many-Agent Reinforcement Learning Platform for Artificial Collective Intelligence](https://arxiv.org/abs/1712.00600), Zheng L. et al, 2017. ([video](https://www.youtube.com/watch?v=HCSm0kVolqI))
 * [Socially Aware Motion Planning with Deep Reinforcement Learning](https://arxiv.org/abs/1703.08862), Chen Y. et al, 2017. ([video](https://www.youtube.com/watch?v=CK1szio7PyA))
+* [Online decision-making for scalable autonomous systems](https://www.ijcai.org/proceedings/2017/664), Wray K. et al, 2017.
 
 ## Performances and acceleration
 
