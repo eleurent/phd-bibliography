@@ -8,17 +8,18 @@
     * [Policy gradient](#policy-gradient)
     * [Actor-critic](#actor-critic)
     * [Derivative-free](#derivative-free)
+  * [Model-based](#model-based)
   * [Temporal abstraction](#temporal-abstraction)
   * [Partial observability](#partial-observability)
   * [Safety](#safety)
   * [Multi-agent](#multi-agent)
-  * [Performances and acceleration](#performances-and-acceleration)
+  * [Tree Search](#tree-search)
+  * [Performance bounds](#performance-bounds)
 * [Learning from Demonstrations](#learning-from-demonstrations)
   * [Imitation Learning](#imitation-learning)
-    * [IL applications](#il-applications)
+    * [Applications to Autonomous Driving](#applications-to-autonomous-driving)
   * [Inverse Reinforcement Learning](#inverse-reinforcement-learning)
-    * [IRL applications](#irl-applications)
-* [Tree Search](#tree-search)
+    * [Applications to Autonomous Driving](#applications-to-autonomous-driving)
 * [Optimal Control](#optimal-control)
   * [Control Theory](#control-theory)
   * [Dynamic Programming](#dynamic-programming)
@@ -44,7 +45,6 @@
 ### Policy gradient
 
 * [Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning](http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf), Williams R., 1992. *REINFORCE*.
-* [End-to-End Training of Deep Visuomotor Policies](https://arxiv.org/abs/1504.00702), Levine S. et al, 2015. *GPS*. ([video](https://www.youtube.com/watch?v=Q4bMcUk6pcw))
 * [Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477), Schulman J. et al, 2015. *TRPO*. ([video](https://www.youtube.com/watch?v=KJ15iGGJFvQ))
 * [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347), Schulman J. et al, 2017. *PPO*. ([video](https://www.youtube.com/watch?v=bqdjsmSoSgI))
 * [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/abs/1707.02286), Heess N. et al, 2017. *DPPO*. ([video](https://www.youtube.com/watch?v=hx_bgoTF7bs))
@@ -61,6 +61,11 @@
 * [Learning Tetris Using the Noisy Cross-Entropy Method](http://iew3.technion.ac.il/CE/files/papers/Learning%20Tetris%20Using%20the%20Noisy%20Cross-Entropy%20Method.pdf), Szita I. Lörincz A., 2006. *CEM*. ([video](https://www.youtube.com/watch?v=UZnDYGk1j2c))
 * [Completely Derandomized Self-Adaptation in Evolution Strategies](https://dl.acm.org/citation.cfm?id=1108843), Hansen N. Ostermeier A., 2001. *CMAES*.
 * [Evolving Neural Networks through Augmenting Topologies](http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf), Stanley K., 2002. *NEAT*. ([video](https://www.youtube.com/watch?v=5lJuEW-5vr8))
+
+## Model-based
+
+* [Integrated Architectures for Learning, Planning, and Reacting Based on Approximating Dynamic Programming](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.84.6983&rep=rep1&type=pdf), Sutton R., 1990. *Dyna*.
+* [End-to-End Training of Deep Visuomotor Policies](https://arxiv.org/abs/1504.00702), Levine S. et al, 2015. *GPS*. ([video](https://www.youtube.com/watch?v=Q4bMcUk6pcw))
 
 ## Temporal abstraction
 
@@ -89,16 +94,16 @@
 * [Multipolicy decision-making for autonomous driving via changepoint-based behavior prediction: Theory and experiment](https://link.springer.com/article/10.1007/s10514-017-9619-z), Galceran E. et al, 2017.
 * [Online decision-making for scalable autonomous systems](https://www.ijcai.org/proceedings/2017/664), Wray K. et al, 2017.
 
-## Performances and acceleration
-
-* [Near-optimal Regret Bounds for Reinforcement Learning](http://www.jmlr.org/papers/volume11/jaksch10a/jaksch10a.pdf), Jaksch T., ‎2010. *UCRL2*.
-* [Integrated Architectures for Learning, Planning, and Reacting Based on Approximating Dynamic Programming](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.84.6983&rep=rep1&type=pdf), Sutton R., 1990. *Dyna*.
-
-# Tree Search
+## Tree Search
 
 * [Mastering the game of Go with deep neural networks and tree search](https://www.nature.com/articles/nature16961), Silver D. et al, 2016.
 * [Mastering the game of Go without human knowledge](https://www.nature.com/articles/nature24270), Silver D. et al, 2017.
 * [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/abs/1712.01815), Silver D. et al, 2017.
+
+## Performance bounds
+
+* [Near-optimal Regret Bounds for Reinforcement Learning](http://www.jmlr.org/papers/volume11/jaksch10a/jaksch10a.pdf), Jaksch T., ‎2010. *UCRL2*.
+
 
 # Learning from Demonstrations
 
@@ -108,7 +113,7 @@
 * [Value Iteration Networks](https://arxiv.org/abs/1602.02867), Tamar A. et al , 2016. *VIN*. ([video](https://www.youtube.com/watch?v=RcRkog93ZRU))
 * [Value Prediction Network](https://arxiv.org/abs/1707.03497), Oh J. et al, 2017. *VPN*.
 
-### IL applications
+### Applications to Autonomous Driving
 
 * [ALVINN, an autonomous land vehicle in a neural network](https://papers.nips.cc/paper/95-alvinn-an-autonomous-land-vehicle-in-a-neural-network), Pomerleau D., 1989.
 * [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316), Bojarski M. et al (NVIDIA), 2016. ([video](https://www.youtube.com/watch?v=qhUvQiKec2U))
@@ -125,7 +130,7 @@
 * [Bridging the Gap Between Imitation Learning and Inverse Reinforcement Learning](http://ieeexplore.ieee.org/document/7464854/), Piot B. et al, 2017.
 * [Repeated Inverse Reinforcement Learning](https://arxiv.org/abs/1705.05427), Amin K. et al, 2017. *RIRL*
 
-### IRL applications
+### Applications to Autonomous Driving
 
 * [Apprenticeship Learning for Motion Planning, with Application to Parking Lot Navigation](http://ieeexplore.ieee.org/document/4651222/), Abbeel P. et al, 2008.
 * [Planning-based Prediction for Pedestrians](http://ieeexplore.ieee.org/abstract/document/5354147/), Ziebart B. et al, 2009. ([video](https://www.youtube.com/watch?v=XOZ69Bg4JKg))
