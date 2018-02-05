@@ -21,11 +21,12 @@
   * [Inverse Reinforcement Learning](#inverse-reinforcement-learning)
     * [Applications to Autonomous Driving](#applications-to-autonomous-driving)
 * [Optimal Control](#optimal-control)
-  * [Control Theory](#control-theory)
-  * [Dynamic Programming](#dynamic-programming)
+  * [Control Theory and Dynamic Programming](#control-theory-and-dynamic-programming)
+  * [Model Predictive Control](#model-predictive-control)
 * [Motion Planning](#motion-planning)
   * [Search](#search)
   * [Sampling](#sampling)
+  * [Reactive](#reactive)
   * [Architecture and applications](#architecture-and-applications)
 
 ![RL Diagram](https://rawgit.com/eleurent/phd-bibliography/master/reinforcement-learning.svg)
@@ -142,21 +143,24 @@
 
 # Optimal Control
 
-## Control theory
+## Control Theory and Dynamic Programming
 
-* (book) [Model Predictive Control](http://een.iust.ac.ir/profs/Shamaghdari/MPC/Resources/), Camacho E., 1995.
-* (book) [Predictive Control With Constraints](https://books.google.fr/books/about/Predictive_Control.html?id=HV_Y58c7KiwC&redir_esc=y), Maciejowski J. M., 2002.
+* (book) [Dynamic Programming](https://press.princeton.edu/titles/9234.html), Bellman R., 1957.
+* (book) [Dynamic Programming and Optimal Control, Volumes 1 and 2](http://web.mit.edu/dimitrib/www/dpchapter.html), Bertsekas D., 1995.
+* (book) [Markov Decision Processes - Discrete Stochastic Dynamic Programming](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118625870.html), Puterman M., 1995.
 * (book) [Constrained Control and Estimation](http://www.springer.com/gp/book/9781852335489),  Goodwin G., 2005.
 * [A Generalized Path Integral Control Approach to Reinforcement Learning](http://www.jmlr.org/papers/volume11/theodorou10a/theodorou10a.pdf), Theodorou E. et al, 2010. *PI²*
 * [Path Integral Policy Improvement with Covariance Matrix Adaptation](https://arxiv.org/abs/1206.4621), Stulp F., Sigaud O., 2010. *PI²-CMA*.
 * [A generalized iterative LQG method for locally-optimal feedback control of constrained nonlinear stochastic systems](http://maeresearch.ucsd.edu/skelton/publications/weiwei_ilqg_CDC43.pdf), Todorov E., 2005. *iLQG*.
 * [Synthesis and stabilization of complex behaviors through online trajectory optimization](https://homes.cs.washington.edu/~todorov/papers/TassaIROS12.pdf), Tassa Y., 2012. *iLQG+*.
+* [Trajectory planning for Bertha - A local, continuous method](), Ziegler J. et al, 2014.
 
-### Dynamic programming
+## Model Predictive Control
 
-* (book) [Dynamic Programming](https://press.princeton.edu/titles/9234.html), Bellman R., 1957.
-* (book) [Dynamic Programming and Optimal Control, Volumes 1 and 2](http://web.mit.edu/dimitrib/www/dpchapter.html), Bertsekas D., 1995.
-* (book) [Markov Decision Processes - Discrete Stochastic Dynamic Programming](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118625870.html), Puterman M., 1995.
+* (book) [Model Predictive Control](http://een.iust.ac.ir/profs/Shamaghdari/MPC/Resources/), Camacho E., 1995.
+* (book) [Predictive Control With Constraints](https://books.google.fr/books/about/Predictive_Control.html?id=HV_Y58c7KiwC&redir_esc=y), Maciejowski J. M., 2002.
+* [Linear Model Predictive Control for Lane Keeping and Obstacle Avoidance on Low Curvature Roads](http://ieeexplore.ieee.org/document/6728261/), Turri V. et al, 2013.
+
 
 # Motion Planning
 
@@ -173,7 +177,13 @@
 * [Motion Planning under Uncertainty using Differential Dynamic Programming in Belief Space](http://rll.berkeley.edu/~sachin/papers/Berg-ISRR2011.pdf), van den Berg J. et al, 2011.
 * [Rapidly-exploring Random Belief Trees for Motion Planning Under Uncertainty](https://groups.csail.mit.edu/rrg/papers/abry_icra11.pdf), Bry A., Roy N., 2011.
 
-## [Optimal Control](#optimal-control)
+## Reactive
+
+* [Real-time obstacle avoidance for manipulators and mobile robots](http://ieeexplore.ieee.org/document/1087247/), Khatib O., 1986. *PF*.
+* [Motion planning in dynamic environments using velocity obstacles](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.56.6352&rep=rep1&type=pdf), Fiorini P., Shillert Z., 1998. *Velocity Obstacles*.
+* [The Vector Field Histogram - Fast Obstacle Avoidance For Mobile Robots](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=88137), Borenstein J., 1991. *VFH*.
+* [VFH+: Reliable Obstacle Avoidance for Fast Mobile Robots](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.438.3464&rep=rep1&type=pdf), Ulrich I.,
+Borenstein J., 1998. *VFH+*.
 
 ## Architecture and applications
 
