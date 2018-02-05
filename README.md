@@ -26,6 +26,7 @@
 * [Motion Planning](#motion-planning)
   * [Search](#search)
   * [Sampling](#sampling)
+  * [Optimization](#optimization)
   * [Reactive](#reactive)
   * [Architecture and applications](#architecture-and-applications)
 
@@ -153,7 +154,6 @@
 * [Path Integral Policy Improvement with Covariance Matrix Adaptation](https://arxiv.org/abs/1206.4621), Stulp F., Sigaud O., 2010. *PI²-CMA*.
 * [A generalized iterative LQG method for locally-optimal feedback control of constrained nonlinear stochastic systems](http://maeresearch.ucsd.edu/skelton/publications/weiwei_ilqg_CDC43.pdf), Todorov E., 2005. *iLQG*.
 * [Synthesis and stabilization of complex behaviors through online trajectory optimization](https://homes.cs.washington.edu/~todorov/papers/TassaIROS12.pdf), Tassa Y., 2012. *iLQG+*.
-* [Trajectory planning for Bertha - A local, continuous method](), Ziegler J. et al, 2014.
 
 ## Model Predictive Control
 
@@ -166,8 +166,10 @@
 
 ## Search
 
+* [A Note on Two Problems in Connexion with Graphs](http://www-m3.ma.tum.de/foswiki/pub/MN0506/WebHome/dijkstra.pdf), Dijkstra E. W., 1959.
+* [ A Formal Basis for the Heuristic Determination of Minimum Cost Paths ](http://ieeexplore.ieee.org/document/4082128/), Hart P. et al, 1968. *A\**
 * [3D perception and planning for self-driving and cooperative automobiles](http://www.mrt.kit.edu/z/publ/download/2012/StillerZiegler2012SSD.pdf), Stiller C., Ziegler J., 2012.
-* [Motion Planning under Uncertainty for On-Road Autonomous Driving](https://www.ri.cmu.edu/pub_files/2014/6/ICRA14_0863_Final.pdf), Xu W. et al, 2014.
+* [Planning Long Dynamically-Feasible Maneuvers For Autonomous Vehicles], Likhachev M., Ferguson D., 2008.
 * [Monte Carlo Tree Search for Simulated Car Racing](http://julian.togelius.com/Fischer2015Monte.pdf), Fischer J. et al, 2015. ([video](https://www.youtube.com/watch?v=GbUMssvolvU))
 
 ## Sampling
@@ -176,6 +178,11 @@
 * [LQG-MP: Optimized Path Planning for Robots with Motion Uncertainty and Imperfect State Information](https://people.eecs.berkeley.edu/~pabbeel/papers/vandenBergAbbeelGoldberg_RSS2010.pdf), van den Berg J. et al, 2010.
 * [Motion Planning under Uncertainty using Differential Dynamic Programming in Belief Space](http://rll.berkeley.edu/~sachin/papers/Berg-ISRR2011.pdf), van den Berg J. et al, 2011.
 * [Rapidly-exploring Random Belief Trees for Motion Planning Under Uncertainty](https://groups.csail.mit.edu/rrg/papers/abry_icra11.pdf), Bry A., Roy N., 2011.
+
+## Optimization
+
+* [Trajectory planning for Bertha - A local, continuous method](https://pdfs.semanticscholar.org/bdca/7fe83f8444bb4e75402a417053519758d36b.pdf), Ziegler J. et al, 2014.
+* [Motion Planning under Uncertainty for On-Road Autonomous Driving](https://www.ri.cmu.edu/pub_files/2014/6/ICRA14_0863_Final.pdf), Xu W. et al, 2014.
 
 ## Reactive
 
