@@ -183,14 +183,14 @@
 
 * [Trajectory planning for Bertha - A local, continuous method](https://pdfs.semanticscholar.org/bdca/7fe83f8444bb4e75402a417053519758d36b.pdf), Ziegler J. et al, 2014.
 * [Motion Planning under Uncertainty for On-Road Autonomous Driving](https://www.ri.cmu.edu/pub_files/2014/6/ICRA14_0863_Final.pdf), Xu W. et al, 2014.
+* [Learning Attractor Landscapes for Learning Motor Primitives](https://papers.nips.cc/paper/2140-learning-attractor-landscapes-for-learning-motor-primitives.pdf), Ijspeert A. et al, 2002.
 
 ## Reactive
 
 * [Real-time obstacle avoidance for manipulators and mobile robots](http://ieeexplore.ieee.org/document/1087247/), Khatib O., 1986. *PF*.
-* [Motion planning in dynamic environments using velocity obstacles](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.56.6352&rep=rep1&type=pdf), Fiorini P., Shillert Z., 1998. *Velocity Obstacles*.
 * [The Vector Field Histogram - Fast Obstacle Avoidance For Mobile Robots](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=88137), Borenstein J., 1991. *VFH*.
-* [VFH+: Reliable Obstacle Avoidance for Fast Mobile Robots](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.438.3464&rep=rep1&type=pdf), Ulrich I.,
-Borenstein J., 1998. *VFH+*.
+* [VFH+: Reliable Obstacle Avoidance for Fast Mobile Robots](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.438.3464&rep=rep1&type=pdf), Ulrich I., Borenstein J., 1998. *VFH+*.
+* [Motion planning in dynamic environments using velocity obstacles](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.56.6352&rep=rep1&type=pdf), Fiorini P., Shillert Z., 1998. *Velocity Obstacles*.
 
 ## Architecture and applications
 
