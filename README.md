@@ -175,9 +175,10 @@
 ## Sampling
 
 * [Sampling-based Algorithms for Optimal Motion Planning](https://arxiv.org/abs/1105.1186), Karaman S., Frazzoli E., 2011. *RRT*\*. ([video](https://www.youtube.com/watch?v=p3nZHnOWhrg))
-* [LQG-MP: Optimized Path Planning for Robots with Motion Uncertainty and Imperfect State Information](https://people.eecs.berkeley.edu/~pabbeel/papers/vandenBergAbbeelGoldberg_RSS2010.pdf), van den Berg J. et al, 2010.
+* [LQG-MP: Optimized Path Planning for Robots with Motion Uncertainty and Imperfect State Information](https://people.eecs.berkeley.edu/~pabbeel/papers/vandenBergAbbeelGoldberg_RSS2010.pdf), van den Berg J. et al, 2010. *LQG-MP*.
 * [Motion Planning under Uncertainty using Differential Dynamic Programming in Belief Space](http://rll.berkeley.edu/~sachin/papers/Berg-ISRR2011.pdf), van den Berg J. et al, 2011.
 * [Rapidly-exploring Random Belief Trees for Motion Planning Under Uncertainty](https://groups.csail.mit.edu/rrg/papers/abry_icra11.pdf), Bry A., Roy N., 2011.
+* [PRM-RL: Long-range Robotic Navigation Tasks by Combining Reinforcement Learning and Sampling-based Planning](https://arxiv.org/abs/1710.03937), Faust A. et al, 2017. *PRM-RL*.
 
 ## Optimization
 
