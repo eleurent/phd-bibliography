@@ -13,7 +13,6 @@
   * [Partial observability](#partial-observability)
   * [Safety](#safety)
   * [Multi-agent](#multi-agent)
-  * [Performance bounds](#performance-bounds)
 * [Learning from Demonstrations](#learning-from-demonstrations)
   * [Imitation Learning](#imitation-learning)
     * [Applications to Autonomous Driving](#applications-to-autonomous-driving)
@@ -65,10 +64,12 @@
 
 ## Model-based
 
+* [A sparse sampling algorithm for near-optimal planning in large Markov decision processes](https://www.cis.upenn.edu/~mkearns/papers/sparsesampling-journal.pdf), Kearns M. et al, 2002. *Sparse sampling*.
+* [Near-optimal Regret Bounds for Reinforcement Learning](http://www.jmlr.org/papers/volume11/jaksch10a/jaksch10a.pdf), Jaksch T., ‎2010. *UCRL2*.
+* [Mastering the game of Go with deep neural networks and tree search](https://www.nature.com/articles/nature16961), Silver D. et al, 2016. *AlphaGo*.
+* [Mastering the game of Go without human knowledge](https://www.nature.com/articles/nature24270), Silver D. et al, 2017. *AlphaGo Zero*.
+* [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/abs/1712.01815), Silver D. et al, 2017. *AlphaZero*.
 * [Integrated Architectures for Learning, Planning, and Reacting Based on Approximating Dynamic Programming](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.84.6983&rep=rep1&type=pdf), Sutton R., 1990. *Dyna*.
-* [Mastering the game of Go with deep neural networks and tree search](https://www.nature.com/articles/nature16961), Silver D. et al, 2016.
-* [Mastering the game of Go without human knowledge](https://www.nature.com/articles/nature24270), Silver D. et al, 2017.
-* [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/abs/1712.01815), Silver D. et al, 2017.
 * [End-to-End Training of Deep Visuomotor Policies](https://arxiv.org/abs/1504.00702), Levine S. et al, 2015. *GPS*. ([video](https://www.youtube.com/watch?v=Q4bMcUk6pcw))
 * [DeepMPC: Learning Deep Latent Features for Model Predictive Control](https://www.cs.stanford.edu/people/asaxena/papers/deepmpc_rss2015.pdf), Lenz I. et al, 2015. *DeepMPC*. ([video](https://www.youtube.com/watch?v=BwA90MmkvPU))
 * [Learning Continuous Control Policies by Stochastic Value Gradients](https://arxiv.org/abs/1510.09142), Heess N. et al, 2015. *SVG*. ([video](https://www.youtube.com/watch?v=PYdL7bcn_cM))
@@ -101,9 +102,6 @@
 * [Multipolicy decision-making for autonomous driving via changepoint-based behavior prediction: Theory and experiment](https://link.springer.com/article/10.1007/s10514-017-9619-z), Galceran E. et al, 2017.
 * [Online decision-making for scalable autonomous systems](https://www.ijcai.org/proceedings/2017/664), Wray K. et al, 2017.
 
-## Performance bounds
-
-* [Near-optimal Regret Bounds for Reinforcement Learning](http://www.jmlr.org/papers/volume11/jaksch10a/jaksch10a.pdf), Jaksch T., ‎2010. *UCRL2*.
 
 
 # Learning from Demonstrations
