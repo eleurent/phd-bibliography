@@ -71,6 +71,7 @@
 * [Mastering the game of Go with deep neural networks and tree search](https://www.nature.com/articles/nature16961), Silver D. et al, 2016. *AlphaGo*.
 * [Mastering the game of Go without human knowledge](https://www.nature.com/articles/nature24270), Silver D. et al, 2017. *AlphaGo Zero*.
 * [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/abs/1712.01815), Silver D. et al, 2017. *AlphaZero*.
+* [Probabilistic MDP-behavior planning for cars](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6082928), Brechtel S. et al, 2011.
 * [Integrated Architectures for Learning, Planning, and Reacting Based on Approximating Dynamic Programming](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.84.6983&rep=rep1&type=pdf), Sutton R., 1990. *Dyna*.
 * [End-to-End Training of Deep Visuomotor Policies](https://arxiv.org/abs/1504.00702), Levine S. et al, 2015. *GPS*. ([video](https://www.youtube.com/watch?v=Q4bMcUk6pcw))
 * [DeepMPC: Learning Deep Latent Features for Model Predictive Control](https://www.cs.stanford.edu/people/asaxena/papers/deepmpc_rss2015.pdf), Lenz I. et al, 2015. *DeepMPC*. ([video](https://www.youtube.com/watch?v=BwA90MmkvPU))
