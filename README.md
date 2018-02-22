@@ -2,6 +2,11 @@
 
 # Table of contents
 
+* [Optimal Control](#optimal-control)
+  * [Dynamic Programming](#dynamic-programming)
+  * [Monte-Carlo Planning](#monte-carlo-planning)
+  * [Control Theory](#control-theory)
+  * [Model Predictive Control](#model-predictive-control)
 * [Reinforcement Learning](#reinforcement-learning)
   * [Value-based](#value-based)
   * [Policy-based](#policy-based)
@@ -18,9 +23,6 @@
     * [Applications to Autonomous Driving](#applications-to-autonomous-driving)
   * [Inverse Reinforcement Learning](#inverse-reinforcement-learning)
     * [Applications to Autonomous Driving](#applications-to-autonomous-driving)
-* [Optimal Control](#optimal-control)
-  * [Control Theory and Dynamic Programming](#control-theory-and-dynamic-programming)
-  * [Model Predictive Control](#model-predictive-control)
 * [Motion Planning](#motion-planning)
   * [Search](#search)
   * [Sampling](#sampling)
@@ -29,6 +31,41 @@
   * [Architecture and applications](#architecture-and-applications)
 
 ![RL Diagram](https://rawgit.com/eleurent/phd-bibliography/master/reinforcement-learning.svg)
+
+# Optimal Control
+
+## Dynamic Programming
+
+* (book) [Dynamic Programming](https://press.princeton.edu/titles/9234.html), Bellman R., 1957.
+* (book) [Dynamic Programming and Optimal Control, Volumes 1 and 2](http://web.mit.edu/dimitrib/www/dpchapter.html), Bertsekas D., 1995.
+* (book) [Markov Decision Processes - Discrete Stochastic Dynamic Programming](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118625870.html), Puterman M., 1995.
+
+## Monte-Carlo Planning
+
+* [Optimal strategy in games with chance nodes](http://www.inf.u-szeged.hu/actacybernetica/edb/vol18n2/pdf/Melko_2007_ActaCybernetica.pdf), Melkó E., Nagy B., 2007. *ExpectiMinimax*.
+* [A sparse sampling algorithm for near-optimal planning in large Markov decision processes](https://www.cis.upenn.edu/~mkearns/papers/sparsesampling-journal.pdf), Kearns M. et al, 2002. *Sparse sampling*.
+* [Bandit based Monte-Carlo Planning](http://ggp.stanford.edu/readings/uct.pdf), Kocsis L., Szepesvári C., 2006. *UCT*.
+* [Mastering the game of Go with deep neural networks and tree search](https://www.nature.com/articles/nature16961), Silver D. et al, 2016. *AlphaGo*.
+* [Mastering the game of Go without human knowledge](https://www.nature.com/articles/nature24270), Silver D. et al, 2017. *AlphaGo Zero*.
+* [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/abs/1712.01815), Silver D. et al, 2017. *AlphaZero*.
+* [Blazing the trails before beating the path: Sample-efficient Monte-Carlo planning](https://papers.nips.cc/paper/6253-blazing-the-trails-before-beating-the-path-sample-efficient-monte-carlo-planning.pdf), Grill J. B., Valko M., Munos R., 2017. *TrailBlazer*.
+
+## Control Theory
+
+* (book) [Constrained Control and Estimation](http://www.springer.com/gp/book/9781852335489),  Goodwin G., 2005.
+* [A Generalized Path Integral Control Approach to Reinforcement Learning](http://www.jmlr.org/papers/volume11/theodorou10a/theodorou10a.pdf), Theodorou E. et al, 2010. *PI²*
+* [Path Integral Policy Improvement with Covariance Matrix Adaptation](https://arxiv.org/abs/1206.4621), Stulp F., Sigaud O., 2010. *PI²-CMA*.
+* [A generalized iterative LQG method for locally-optimal feedback control of constrained nonlinear stochastic systems](http://maeresearch.ucsd.edu/skelton/publications/weiwei_ilqg_CDC43.pdf), Todorov E., 2005. *iLQG*.
+* [Synthesis and stabilization of complex behaviors through online trajectory optimization](https://homes.cs.washington.edu/~todorov/papers/TassaIROS12.pdf), Tassa Y., 2012. *iLQG+*.
+
+## Model Predictive Control
+
+* (book) [Model Predictive Control](http://een.iust.ac.ir/profs/Shamaghdari/MPC/Resources/), Camacho E., 1995.
+* (book) [Predictive Control With Constraints](https://books.google.fr/books/about/Predictive_Control.html?id=HV_Y58c7KiwC&redir_esc=y), Maciejowski J. M., 2002.
+* [Linear Model Predictive Control for Lane Keeping and Obstacle Avoidance on Low Curvature Roads](http://ieeexplore.ieee.org/document/6728261/), Turri V. et al, 2013.
+
+
+
 
 # Reinforcement Learning
 
@@ -64,14 +101,7 @@
 
 ## Model-based
 
-* [Optimal strategy in games with chance nodes](http://www.inf.u-szeged.hu/actacybernetica/edb/vol18n2/pdf/Melko_2007_ActaCybernetica.pdf), Melkó E., Nagy B., 2007. *ExpectiMinimax*.
-* [A sparse sampling algorithm for near-optimal planning in large Markov decision processes](https://www.cis.upenn.edu/~mkearns/papers/sparsesampling-journal.pdf), Kearns M. et al, 2002. *Sparse sampling*.
-* [Bandit based Monte-Carlo Planning](http://ggp.stanford.edu/readings/uct.pdf), Kocsis L., Szepesvári C., 2006. *UCT*.
 * [Near-optimal Regret Bounds for Reinforcement Learning](http://www.jmlr.org/papers/volume11/jaksch10a/jaksch10a.pdf), Jaksch T., ‎2010. *UCRL2*.
-* [Mastering the game of Go with deep neural networks and tree search](https://www.nature.com/articles/nature16961), Silver D. et al, 2016. *AlphaGo*.
-* [Mastering the game of Go without human knowledge](https://www.nature.com/articles/nature24270), Silver D. et al, 2017. *AlphaGo Zero*.
-* [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/abs/1712.01815), Silver D. et al, 2017. *AlphaZero*.
-* [Blazing the trails before beating the path: Sample-efficient Monte-Carlo planning](https://papers.nips.cc/paper/6253-blazing-the-trails-before-beating-the-path-sample-efficient-monte-carlo-planning.pdf), Grill J. B., Valko M., Munos R., 2017. *TrailBlazer*.
 * [Integrated Architectures for Learning, Planning, and Reacting Based on Approximating Dynamic Programming](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.84.6983&rep=rep1&type=pdf), Sutton R., 1990. *Dyna*.
 * [Probabilistic MDP-behavior planning for cars](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6082928), Brechtel S. et al, 2011.
 * [End-to-End Training of Deep Visuomotor Policies](https://arxiv.org/abs/1504.00702), Levine S. et al, 2015. *GPS*. ([video](https://www.youtube.com/watch?v=Q4bMcUk6pcw))
@@ -147,24 +177,6 @@
 * [Watch This: Scalable Cost-Function Learning for Path Planning in Urban Environments](https://arxiv.org/abs/1607.02329), Wulfmeier M., 2016. ([video](https://www.youtube.com/watch?v=Sdfir_1T-UQ))
 * [Learning Driving Styles for Autonomous Vehicles from Demonstration](http://ieeexplore.ieee.org/document/7139555/), Kuderer M. et al, 2015.
 
-# Optimal Control
-
-## Control Theory and Dynamic Programming
-
-* (book) [Dynamic Programming](https://press.princeton.edu/titles/9234.html), Bellman R., 1957.
-* (book) [Dynamic Programming and Optimal Control, Volumes 1 and 2](http://web.mit.edu/dimitrib/www/dpchapter.html), Bertsekas D., 1995.
-* (book) [Markov Decision Processes - Discrete Stochastic Dynamic Programming](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118625870.html), Puterman M., 1995.
-* (book) [Constrained Control and Estimation](http://www.springer.com/gp/book/9781852335489),  Goodwin G., 2005.
-* [A Generalized Path Integral Control Approach to Reinforcement Learning](http://www.jmlr.org/papers/volume11/theodorou10a/theodorou10a.pdf), Theodorou E. et al, 2010. *PI²*
-* [Path Integral Policy Improvement with Covariance Matrix Adaptation](https://arxiv.org/abs/1206.4621), Stulp F., Sigaud O., 2010. *PI²-CMA*.
-* [A generalized iterative LQG method for locally-optimal feedback control of constrained nonlinear stochastic systems](http://maeresearch.ucsd.edu/skelton/publications/weiwei_ilqg_CDC43.pdf), Todorov E., 2005. *iLQG*.
-* [Synthesis and stabilization of complex behaviors through online trajectory optimization](https://homes.cs.washington.edu/~todorov/papers/TassaIROS12.pdf), Tassa Y., 2012. *iLQG+*.
-
-## Model Predictive Control
-
-* (book) [Model Predictive Control](http://een.iust.ac.ir/profs/Shamaghdari/MPC/Resources/), Camacho E., 1995.
-* (book) [Predictive Control With Constraints](https://books.google.fr/books/about/Predictive_Control.html?id=HV_Y58c7KiwC&redir_esc=y), Maciejowski J. M., 2002.
-* [Linear Model Predictive Control for Lane Keeping and Obstacle Avoidance on Low Curvature Roads](http://ieeexplore.ieee.org/document/6728261/), Turri V. et al, 2013.
 
 
 # Motion Planning
