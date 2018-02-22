@@ -119,6 +119,7 @@
 * [Learning from Demonstrations for Real World Reinforcement Learning](https://pdfs.semanticscholar.org/a7fb/199f85943b3fb6b5f7e9f1680b2e2a445cce.pdf), Hester T. et al, 2017. *DQfD*. ([videos](https://www.youtube.com/watch?v=JR6wmLaYuu4&list=PLdjpGm3xcO-0aqVf--sBZHxCKg-RZfa5T))
 * [Value Iteration Networks](https://arxiv.org/abs/1602.02867), Tamar A. et al , 2016. *VIN*. ([video](https://www.youtube.com/watch?v=RcRkog93ZRU))
 * [Value Prediction Network](https://arxiv.org/abs/1707.03497), Oh J. et al, 2017. *VPN*.
+* [Reinforcement Learning via Recurrent Convolutional Neural Networks](https://arxiv.org/abs/1701.02392), Shankar T. et al, 2016. *QMDP-RCNN*. ([talk](https://www.youtube.com/watch?v=gpwA3QNTPOQ))
 * [From perception to decision: A data-driven approach to end-to-end motion planning for autonomous ground robots](https://arxiv.org/abs/1609.07910), Pfeiffer M. et al, 2017. ([video](https://www.youtube.com/watch?v=ZedKmXzwdgI))
 
 ### Applications to Autonomous Driving
