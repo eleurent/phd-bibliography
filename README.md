@@ -186,7 +186,7 @@
 * [A Note on Two Problems in Connexion with Graphs](http://www-m3.ma.tum.de/foswiki/pub/MN0506/WebHome/dijkstra.pdf), Dijkstra E. W., 1959.
 * [ A Formal Basis for the Heuristic Determination of Minimum Cost Paths ](http://ieeexplore.ieee.org/document/4082128/), Hart P. et al, 1968. *A\**
 * [3D perception and planning for self-driving and cooperative automobiles](http://www.mrt.kit.edu/z/publ/download/2012/StillerZiegler2012SSD.pdf), Stiller C., Ziegler J., 2012.
-* [Planning Long Dynamically-Feasible Maneuvers For Autonomous Vehicles], Likhachev M., Ferguson D., 2008.
+* [Planning Long Dynamically-Feasible Maneuvers For Autonomous Vehicles](https://www.cs.cmu.edu/~maxim/files/planlongdynfeasmotions_rss08.pdf), Likhachev M., Ferguson D., 2008.
 * [Monte Carlo Tree Search for Simulated Car Racing](http://julian.togelius.com/Fischer2015Monte.pdf), Fischer J. et al, 2015. ([video](https://www.youtube.com/watch?v=GbUMssvolvU))
 
 ## Sampling
