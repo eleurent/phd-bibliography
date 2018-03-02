@@ -82,6 +82,7 @@
 ### Policy gradient
 
 * [Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning](http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf), Williams R., 1992. *REINFORCE*.
+* [Policy Gradient Methods for Robotics](http://www.kyb.mpg.de/fileadmin/user_upload/files/publications/attachments/IROS2006-Peters_%5b0%5d.pdf), Peters J.,  Schaal S., 2006.
 * [Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477), Schulman J. et al, 2015. *TRPO*. ([video](https://www.youtube.com/watch?v=KJ15iGGJFvQ))
 * [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347), Schulman J. et al, 2017. *PPO*. ([video](https://www.youtube.com/watch?v=bqdjsmSoSgI))
 * [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/abs/1707.02286), Heess N. et al, 2017. *DPPO*. ([video](https://www.youtube.com/watch?v=hx_bgoTF7bs))
