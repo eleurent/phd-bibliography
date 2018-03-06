@@ -63,6 +63,7 @@
 * (book) [Model Predictive Control](http://een.iust.ac.ir/profs/Shamaghdari/MPC/Resources/), Camacho E., 1995.
 * (book) [Predictive Control With Constraints](https://books.google.fr/books/about/Predictive_Control.html?id=HV_Y58c7KiwC&redir_esc=y), Maciejowski J. M., 2002.
 * [Linear Model Predictive Control for Lane Keeping and Obstacle Avoidance on Low Curvature Roads](http://ieeexplore.ieee.org/document/6728261/), Turri V. et al, 2013.
+* [Optimization-based autonomous racing of 1:43 scale RC cars](https://arxiv.org/abs/1711.07300), Liniger A. et al, 2014. *MPCC*. ([video 1](https://www.youtube.com/watch?v=mXaElWYQKC4) | [2](https://www.youtube.com/watch?v=JoHfJ6LEKVo))
 
 
 
