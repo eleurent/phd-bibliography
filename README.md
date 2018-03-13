@@ -110,7 +110,8 @@
 * [End-to-End Training of Deep Visuomotor Policies](https://arxiv.org/abs/1504.00702), Levine S. et al, 2015. *GPS*. ([video](https://www.youtube.com/watch?v=Q4bMcUk6pcw))
 * [DeepMPC: Learning Deep Latent Features for Model Predictive Control](https://www.cs.stanford.edu/people/asaxena/papers/deepmpc_rss2015.pdf), Lenz I. et al, 2015. *DeepMPC*. ([video](https://www.youtube.com/watch?v=BwA90MmkvPU))
 * [Learning Continuous Control Policies by Stochastic Value Gradients](https://arxiv.org/abs/1510.09142), Heess N. et al, 2015. *SVG*. ([video](https://www.youtube.com/watch?v=PYdL7bcn_cM))
-* [Deep visual foresight for planning robot motion](https://arxiv.org/abs/1610.00696), Finn C., Levine S., 2017. ([video](https://www.youtube.com/watch?v=6k7GHG4IUCY))
+* [Deep visual foresight for planning robot motion](https://arxiv.org/abs/1610.00696), Finn C., Levine S., 2016. ([video](https://www.youtube.com/watch?v=6k7GHG4IUCY))
+* [Prediction and Control with Temporal Segment Models](https://arxiv.org/abs/1703.04070), Mishra N. et al, 2017.
 * [Model-Ensemble Trust-Region Policy Optimization](https://arxiv.org/abs/1802.10592), Kurutach T. et al, 2018. *ME-TRPO*. ([video](https://www.youtube.com/watch?v=tpS8qj7yhoU))
 
 ## Temporal abstraction
