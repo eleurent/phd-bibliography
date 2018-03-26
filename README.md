@@ -18,6 +18,7 @@
   * [Partial observability](#partial-observability)
   * [Safety](#safety)
   * [Multi-agent](#multi-agent)
+  * [Representation](#Representation)
 * [Learning from Demonstrations](#learning-from-demonstrations)
   * [Imitation Learning](#imitation-learning)
     * [Applications to Autonomous Driving](#applications-to-autonomous-driving)
@@ -71,6 +72,8 @@
 
 # Reinforcement Learning
 
+* [Reinforcement learning: A survey](https://www.jair.org/media/301/live-301-1562-jair.pdf), Kaelbling L. et al, 1996.
+
 ## Value-based
 
 *  **`DQN`** [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf), Mnih V. et al, 2013. ([video](https://www.youtube.com/watch?v=iqXKQf2BOSE))
@@ -84,6 +87,7 @@
 ### Policy gradient
 
 *  **`REINFORCE`** [Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning](http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf), Williams R., 1992.
+*  **`Natural Gradient`** [A Natural Policy Gradient](https://papers.nips.cc/paper/2073-a-natural-policy-gradient.pdf), Kakade S., 2002.
 * [Policy Gradient Methods for Robotics](http://www.kyb.mpg.de/fileadmin/user_upload/files/publications/attachments/IROS2006-Peters_%5b0%5d.pdf), Peters J.,  Schaal S., 2006.
 *  **`TRPO`** [Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477), Schulman J. et al, 2015. ([video](https://www.youtube.com/watch?v=KJ15iGGJFvQ))
 *  **`PPO`** [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347), Schulman J. et al, 2017. ([video](https://www.youtube.com/watch?v=bqdjsmSoSgI))
@@ -93,8 +97,10 @@
 
 *  **`AC`** [Policy Gradient Methods for Reinforcement Learning with Function Approximation](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf), Sutton R. et al, 1999.
 *  **`NAC`** [Natural Actor-Critic](https://homes.cs.washington.edu/~todorov/courses/amath579/reading/NaturalActorCritic.pdf), Peters J. et al, 2005.
+*  **`DPG`** [Deterministic Policy Gradient Algorithms](http://proceedings.mlr.press/v32/silver14.pdf), Silver D. et al, 2014.
+*  **`DDPG`** [Continuous Control With Deep Reinforcement Learning](https://arxiv.org/abs/1509.02971), Lillicrap T. et al, 2015. ([video 1](https://www.youtube.com/watch?v=lV5JhxsrSH8) | [2](https://www.youtube.com/watch?v=8CNck-hdys8) | [3](https://www.youtube.com/watch?v=xw73qehvSRQ) | [4](https://www.youtube.com/watch?v=vWxBmHRnQMI))
 *  **`A3C`** [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783), Mnih V. et al 2016. ([video 1](https://www.youtube.com/watch?v=Ajjc08-iPx8) | [2](https://www.youtube.com/watch?v=0xo1Ldx3L5Q) | [3](https://www.youtube.com/watch?v=nMR5mjCFZCw))
-*  **`DDPG`** [Continuous Control With Deep Reinforcement Learning](https://arxiv.org/abs/1509.02971), Lillicrap T. et al, 2016. ([video 1](https://www.youtube.com/watch?v=lV5JhxsrSH8) | [2](https://www.youtube.com/watch?v=8CNck-hdys8) | [3](https://www.youtube.com/watch?v=xw73qehvSRQ) | [4](https://www.youtube.com/watch?v=vWxBmHRnQMI))
+*  **`SAC`** [Soft Actor-Critic : Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor], Haarnoja T. et al, 2018. ([video](https://vimeo.com/252185258))
 
 ### Derivative-free
 
@@ -121,9 +127,9 @@
 * [Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning](http://www-anw.cs.umass.edu/~barto/courses/cs687/Sutton-Precup-Singh-AIJ99.pdf), Sutton R. et al, 1999.
 * [Intrinsically motivated learning of hierarchical collections of skills](http://www-anw.cs.umass.edu/pubs/2004/barto_sc_ICDL04.pdf), Barto A. et al, 2004.
 * [Learning and Transfer of Modulated Locomotor Controllers](https://arxiv.org/abs/1610.05182), Heess N. et al, 2016. ([video](https://www.youtube.com/watch?v=sboPYvhpraQ&feature=youtu.be))
+* [Safe, Multi-Agent, Reinforcement Learning for Autonomous Driving](https://arxiv.org/abs/1610.03295), Shalev-Shwartz S. et al, 2016.
 *  **`FuNs`** [FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1703.01161), Vezhnevets A. et al, 2017.
 * [Combining Neural Networks and Tree Search for Task and Motion Planning in Challenging Environments](https://arxiv.org/abs/1703.07887), Paxton C. et al, 2017. ([video](https://www.youtube.com/watch?v=MM2U_SGMtk8))
-* [On a Formal Model of Safe and Scalable Self-driving Cars](https://arxiv.org/abs/1708.06374), Shalev-Shwartz S. et al, 2017.
 
 ## Partial observability
 
@@ -140,7 +146,7 @@
 
 * [A Comprehensive Survey on Safe Reinforcement Learning](http://jmlr.org/papers/v16/garcia15a.html), García J., Fernández F., 2015.
 * **`ICS`** [Will the Driver Seat Ever Be Empty?](https://hal.inria.fr/hal-00965176), Fraichard T., 2014.
-* **`RSS`** [Safe, Multi-Agent, Reinforcement Learning for Autonomous Driving](https://arxiv.org/abs/1610.03295), Shalev-Shwartz S. et al, 2016.
+* **`RSS`** [On a Formal Model of Safe and Scalable Self-driving Cars](https://arxiv.org/abs/1708.06374), Shalev-Shwartz S. et al, 2017.
 
 ## Multi-agent
 
@@ -150,6 +156,11 @@
 * [Multipolicy decision-making for autonomous driving via changepoint-based behavior prediction: Theory and experiment](https://link.springer.com/article/10.1007/s10514-017-9619-z), Galceran E. et al, 2017.
 * [Online decision-making for scalable autonomous systems](https://www.ijcai.org/proceedings/2017/664), Wray K. et al, 2017.
 * [Cooperative Motion Planning for Non-Holonomic Agents with Value Iteration Networks](https://arxiv.org/abs/1709.05273), Rehder E. et al, 2017.
+
+## Representation
+
+* **`DeepDriving`** [DeepDriving: Learning Affordance for Direct Perception in Autonomous Driving](http://deepdriving.cs.princeton.edu/paper.pdf), Chen C. et al, 2015. ([video](https://www.youtube.com/watch?v=5hFvoXV9gII))
+* [Virtual to Real Reinforcement Learning for Autonomous Driving](https://arxiv.org/abs/1704.03952), Pan X. et al, 2017. ([video](https://www.youtube.com/watch?v=Bce2ZSlMuqY))
 
 
 
@@ -169,25 +180,32 @@
 * [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316), Bojarski M. et al, 2016. ([video](https://www.youtube.com/watch?v=qhUvQiKec2U))
 * [End-to-end Learning of Driving Models from Large-scale Video Datasets](https://arxiv.org/abs/1612.01079), Xu H., Gao Y. et al, 2016. ([video](https://www.youtube.com/watch?v=jxlNfUzbGAY))
 * [End-to-End Deep Learning for Steering Autonomous Vehicles Considering Temporal Dependencies](https://arxiv.org/abs/1710.03804), Eraqi H. et al, 2017.
+* [Driving Like a Human: Imitation Learning for Path Planning using Convolutional Neural Networks](https://www.semanticscholar.org/paper/Driving-Like-a-Human%3A-Imitation-Learning-for-Path-Rehder-Quehl/a1150417083918c3f5f88b7ddad8841f2ce88188), Rehder E. et al, 2017.
 
 ## Inverse Reinforcement Learning
 
 *  **`Projection`** [Apprenticeship learning via inverse reinforcement learning](http://ai.stanford.edu/~ang/papers/icml04-apprentice.pdf), Abbeel P. Ng A. 2004.
+*  **`MMP`** [Maximum margin planning](https://www.ri.cmu.edu/pub_files/pub4/ratliff_nathan_2006_1/ratliff_nathan_2006_1.pdf), Ratliff N. et al, 2006.
 *  **`BIRL`** [Bayesian inverse reinforcement learning](https://www.aaai.org/Papers/IJCAI/2007/IJCAI07-416.pdf), Ramachandran D. Amir E., 2007.
 *  **`MEIRL`** [Maximum Entropy Inverse Reinforcement Learning](https://www.aaai.org/Papers/AAAI/2008/AAAI08-227.pdf), Ziebart B. et al, 2008.
 *  **`CIOC`** [Continuous Inverse Optimal Control with Locally Optimal Examples](http://graphics.stanford.edu/projects/cioc/), Levine S., Koltun V., 2012. ([video](http://graphics.stanford.edu/projects/cioc/cioc.mp4))
 *  **`MEDIRL`** [Maximum Entropy Deep Inverse Reinforcement Learning](https://arxiv.org/abs/1507.04888), Wulfmeier M., 2015.
 *  **`GCL`** [Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization](https://arxiv.org/abs/1603.00448), Finn C. et al, 2016. ([video](https://www.youtube.com/watch?v=hXxaepw0zAw))
 *  **`GAIL`** [Generative Adversarial Imitation Learning](https://arxiv.org/abs/1606.03476), Ho J., Ermon S., 2016.
-* [Bridging the Gap Between Imitation Learning and Inverse Reinforcement Learning](http://ieeexplore.ieee.org/document/7464854/), Piot B. et al, 2017.
 *  **`RIRL`** [Repeated Inverse Reinforcement Learning](https://arxiv.org/abs/1705.05427), Amin K. et al, 2017.
+* [Bridging the Gap Between Imitation Learning and Inverse Reinforcement Learning](http://ieeexplore.ieee.org/document/7464854/), Piot B. et al, 2017.
 
 ### Applications to Autonomous Driving
 
 * [Apprenticeship Learning for Motion Planning, with Application to Parking Lot Navigation](http://ieeexplore.ieee.org/document/4651222/), Abbeel P. et al, 2008.
+* [Navigate like a cabbie: Probabilistic reasoning from observed context-aware behavior](http://www.cs.cmu.edu/~bziebart/publications/navigate-bziebart.pdf), Ziebart B. et al, 2008.
 * [Planning-based Prediction for Pedestrians](http://ieeexplore.ieee.org/abstract/document/5354147/), Ziebart B. et al, 2009. ([video](https://www.youtube.com/watch?v=XOZ69Bg4JKg))
-* [Watch This: Scalable Cost-Function Learning for Path Planning in Urban Environments](https://arxiv.org/abs/1607.02329), Wulfmeier M., 2016. ([video](https://www.youtube.com/watch?v=Sdfir_1T-UQ))
 * [Learning Driving Styles for Autonomous Vehicles from Demonstration](http://ieeexplore.ieee.org/document/7139555/), Kuderer M. et al, 2015.
+* [Learning to Drive using Inverse Reinforcement Learning and Deep Q-Networks](https://arxiv.org/abs/1612.03653), Sharifzadeh S. et al, 2016.
+* [Watch This: Scalable Cost-Function Learning for Path Planning in Urban Environments](https://arxiv.org/abs/1607.02329), Wulfmeier M., 2016. ([video](https://www.youtube.com/watch?v=Sdfir_1T-UQ))
+* [Planning for Autonomous Cars that Leverage Effects on Human Actions](https://robotics.eecs.berkeley.edu/~sastry/pubs/Pdfs%20of%202016/SadighPlanning2016.pdf), Sadigh D. et al, 2016.
+* [A Learning-Based Framework for Handling Dilemmas in Urban Automated Driving](http://ieeexplore.ieee.org/document/7989172/), Lee S., Seo S., 2017.
+* [Imitating Driver Behavior with Generative Adversarial Networks](https://arxiv.org/abs/1701.06699), Kuefler A. et al, 2017.
 
 
 
