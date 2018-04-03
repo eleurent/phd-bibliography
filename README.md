@@ -162,6 +162,7 @@
 * **`DeepDriving`** [DeepDriving: Learning Affordance for Direct Perception in Autonomous Driving](http://deepdriving.cs.princeton.edu/paper.pdf), Chen C. et al, 2015. ([video](https://www.youtube.com/watch?v=5hFvoXV9gII))
 * [On the Sample Complexity of End-to-end Training vs. Semantic Abstraction Training](https://arxiv.org/abs/1604.06915), Shalev-Shwartz S. et al, 2016.
 * [Virtual to Real Reinforcement Learning for Autonomous Driving](https://arxiv.org/abs/1704.03952), Pan X. et al, 2017. ([video](https://www.youtube.com/watch?v=Bce2ZSlMuqY))
+* **`VAE-MDN-RNN`** [World Models](https://worldmodels.github.io/), Ha D., Schmidhuber J., 2018.
 
 
 
