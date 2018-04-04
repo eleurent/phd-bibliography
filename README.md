@@ -18,7 +18,7 @@
   * [Partial observability](#partial-observability)
   * [Safety](#safety)
   * [Multi-agent](#multi-agent)
-  * [Representation](#Representation)
+  * [Representation](#representation)
 * [Learning from Demonstrations](#learning-from-demonstrations)
   * [Imitation Learning](#imitation-learning)
     * [Applications to Autonomous Driving](#applications-to-autonomous-driving)
