@@ -81,6 +81,7 @@
 *  **`DDDQN`** [Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1511.06581), Wang Z. et al, 2015. ([video](https://www.youtube.com/watch?v=qJd3yaEN9Sw))
 *  **`PDDDQN`** [Prioritized Experience Replay](https://arxiv.org/abs/1511.05952), Schaul T. et al, 2015.
 *  **`NAF`** [Continuous Deep Q-Learning with Model-based Acceleration](https://arxiv.org/abs/1603.00748), Gu S. et al, 2016.
+*  **`VPN`** [Value Prediction Network](https://arxiv.org/abs/1707.03497), Oh J. et al, 2017.
 
 ## Policy-based
 
@@ -172,7 +173,7 @@
 
 *  **`DQfD`** [Learning from Demonstrations for Real World Reinforcement Learning](https://pdfs.semanticscholar.org/a7fb/199f85943b3fb6b5f7e9f1680b2e2a445cce.pdf), Hester T. et al, 2017. ([videos](https://www.youtube.com/watch?v=JR6wmLaYuu4&list=PLdjpGm3xcO-0aqVf--sBZHxCKg-RZfa5T))
 *  **`VIN`** [Value Iteration Networks](https://arxiv.org/abs/1602.02867), Tamar A. et al , 2016. ([video](https://www.youtube.com/watch?v=RcRkog93ZRU))
-*  **`VPN`** [Value Prediction Network](https://arxiv.org/abs/1707.03497), Oh J. et al, 2017.
+*  **`UPN`** [Universal Planning Networks](https://arxiv.org/abs/1804.00645), Srinivas A. et al, 2018. ([videos](https://sites.google.com/view/upn-public/home))
 *  **`QMDP-RCNN`** [Reinforcement Learning via Recurrent Convolutional Neural Networks](https://arxiv.org/abs/1701.02392), Shankar T. et al, 2016. ([talk](https://www.youtube.com/watch?v=gpwA3QNTPOQ))
 * [From perception to decision: A data-driven approach to end-to-end motion planning for autonomous ground robots](https://arxiv.org/abs/1609.07910), Pfeiffer M. et al, 2017. ([video](https://www.youtube.com/watch?v=ZedKmXzwdgI))
 
