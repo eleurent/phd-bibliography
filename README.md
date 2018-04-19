@@ -170,7 +170,10 @@
 * **`VAE-MDN-RNN`** [World Models](https://worldmodels.github.io/), Ha D., Schmidhuber J., 2018.
 * **`MERLIN`** [Unsupervised Predictive Memory in a Goal-Directed Agent](https://arxiv.org/abs/1803.10760), Wayne G. et al, 2018. ([video 1](https://www.youtube.com/watch?v=YFx-D4eEs5A) | [2](https://www.youtube.com/watch?v=IiR_NOomcpk) | [3](https://www.youtube.com/watch?v=dQMKJtLScmk) | [4](https://www.youtube.com/watch?v=xrYDlTXyC6Q) | [5](https://www.youtube.com/watch?v=04H28-qA3f8) [6](https://www.youtube.com/watch?v=3iA19h0Vvq0))
 
+## Other
 
+* [Automatic Bridge Bidding Using Deep Reinforcement Learning](https://arxiv.org/abs/1607.03290), Yeh C. and Lin H., 2016.
+* [Shared Autonomy via Deep Reinforcement Learning](https://arxiv.org/abs/1802.01744), Reddy S. et al, 2018. ([videos](https://sites.google.com/view/deep-assist))
 
 # Learning from Demonstrations
 
