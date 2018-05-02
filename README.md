@@ -71,6 +71,12 @@
 
 
 
+# Bandits
+
+* **`Track-and-Stop`** [Optimal Best Arm Identification with Fixed Confidence](https://arxiv.org/abs/1602.04589), Garivier A., Kaufmann E., 2016.
+
+
+
 
 # Reinforcement Learning
 
