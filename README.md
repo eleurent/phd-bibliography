@@ -14,6 +14,7 @@
     * [Actor-critic](#actor-critic)
     * [Derivative-free](#derivative-free)
   * [Model-based](#model-based)
+  * [Robust control](#robust-control)
   * [Temporal abstraction](#temporal-abstraction)
   * [Partial observability](#partial-observability)
   * [Safety](#safety)
@@ -125,7 +126,11 @@
 * **`DistGBP`** [Model-Based Planning with Discrete and Continuous Actions](https://arxiv.org/abs/1705.07177), Henaff M. et al, 2017. ([video 1](https://www.youtube.com/watch?v=9Xh2TRQ_4nM) | [2](https://www.youtube.com/watch?v=XLdme0TTjiw))
 * [Prediction and Control with Temporal Segment Models](https://arxiv.org/abs/1703.04070), Mishra N. et al, 2017.
 * **`Predictron`** [The Predictron: End-To-End Learning and Planning](https://arxiv.org/abs/1612.08810), Silver D. et al, 2017. ([video](https://www.youtube.com/watch?v=BeaLdaN2C3Q))
+
+## Robust control
+
 * **`ME-TRPO`** [Model-Ensemble Trust-Region Policy Optimization](https://arxiv.org/abs/1802.10592), Kurutach T. et al, 2018. ([video](https://www.youtube.com/watch?v=tpS8qj7yhoU))
+* [Sim-to-Real: Learning Agile Locomotion For Quadruped Robots](https://arxiv.org/abs/1804.10332), Tan J. et al, 2018. ([video](https://www.youtube.com/watch?v=lUZUr7jxoqM))
 
 ## Temporal abstraction
 
@@ -169,6 +174,7 @@
 * [Virtual to Real Reinforcement Learning for Autonomous Driving](https://arxiv.org/abs/1704.03952), Pan X. et al, 2017. ([video](https://www.youtube.com/watch?v=Bce2ZSlMuqY))
 * **`VAE-MDN-RNN`** [World Models](https://worldmodels.github.io/), Ha D., Schmidhuber J., 2018.
 * **`MERLIN`** [Unsupervised Predictive Memory in a Goal-Directed Agent](https://arxiv.org/abs/1803.10760), Wayne G. et al, 2018. ([video 1](https://www.youtube.com/watch?v=YFx-D4eEs5A) | [2](https://www.youtube.com/watch?v=IiR_NOomcpk) | [3](https://www.youtube.com/watch?v=dQMKJtLScmk) | [4](https://www.youtube.com/watch?v=xrYDlTXyC6Q) | [5](https://www.youtube.com/watch?v=04H28-qA3f8) [6](https://www.youtube.com/watch?v=3iA19h0Vvq0))
+
 
 ## Other
 
