@@ -197,6 +197,7 @@
 *  **`UPN`** [Universal Planning Networks](https://arxiv.org/abs/1804.00645), Srinivas A. et al, 2018. ([videos](https://sites.google.com/view/upn-public/home))
 *  **`QMDP-RCNN`** [Reinforcement Learning via Recurrent Convolutional Neural Networks](https://arxiv.org/abs/1701.02392), Shankar T. et al, 2016. ([talk](https://www.youtube.com/watch?v=gpwA3QNTPOQ))
 * [From perception to decision: A data-driven approach to end-to-end motion planning for autonomous ground robots](https://arxiv.org/abs/1609.07910), Pfeiffer M. et al, 2017. ([video](https://www.youtube.com/watch?v=ZedKmXzwdgI))
+* **`Branched`** [End-to-end Driving via Conditional Imitation Learning](https://arxiv.org/abs/1710.02410), Codevilla F. et al, 2017. ([video](https://www.youtube.com/watch?v=cFtnflNe5fM) | [talk](https://www.youtube.com/watch?v=KunVjVHN3-U))
 
 ### Applications to Autonomous Driving
 
