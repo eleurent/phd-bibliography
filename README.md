@@ -7,6 +7,7 @@
   * [Monte-Carlo Planning](#monte-carlo-planning)
   * [Control Theory](#control-theory)
   * [Model Predictive Control](#model-predictive-control)
+* [Multi-Armed Bandit](#multi-armed-bandit)
 * [Reinforcement Learning](#reinforcement-learning)
   * [Value-based](#value-based)
   * [Policy-based](#policy-based)
@@ -71,10 +72,10 @@
 
 
 
-# Bandits
+# Multi-Armed Bandit
 
 * **`Track-and-Stop`** [Optimal Best Arm Identification with Fixed Confidence](https://arxiv.org/abs/1602.04589), Garivier A., Kaufmann E., 2016.
-
+* **`M-LUCB/M-Racing`** [Maximin Action Identification: A New Bandit Framework for Games](https://arxiv.org/abs/1602.04676), Garivier A., Kaufmann E., Koolen W., 2016.
 
 
 
