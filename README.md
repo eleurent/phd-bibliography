@@ -15,7 +15,7 @@
     * [Actor-critic](#actor-critic)
     * [Derivative-free](#derivative-free)
   * [Model-based](#model-based)
-  * [Robust control](#robust-control)
+  * [Transfer and robustness](#transfer-and-robustness)
   * [Temporal abstraction](#temporal-abstraction)
   * [Partial observability](#partial-observability)
   * [Safety](#safety)
@@ -134,10 +134,11 @@
 * [Prediction and Control with Temporal Segment Models](https://arxiv.org/abs/1703.04070), Mishra N. et al, 2017.
 * **`Predictron`** [The Predictron: End-To-End Learning and Planning](https://arxiv.org/abs/1612.08810), Silver D. et al, 2017. ([video](https://www.youtube.com/watch?v=BeaLdaN2C3Q))
 
-## Robust control
+## Transfer and robustness
 
 * **`ME-TRPO`** [Model-Ensemble Trust-Region Policy Optimization](https://arxiv.org/abs/1802.10592), Kurutach T. et al, 2018. ([video](https://www.youtube.com/watch?v=tpS8qj7yhoU))
 * [Sim-to-Real: Learning Agile Locomotion For Quadruped Robots](https://arxiv.org/abs/1804.10332), Tan J. et al, 2018. ([video](https://www.youtube.com/watch?v=lUZUr7jxoqM))
+* [Kickstarting Deep Reinforcement Learning](https://arxiv.org/abs/1803.03835), Schmitt S. et al, 2018.
 
 ## Temporal abstraction
 
