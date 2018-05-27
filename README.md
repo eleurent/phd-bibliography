@@ -91,6 +91,7 @@
 *  **`DDDQN`** [Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1511.06581), Wang Z. et al, 2015. ([video](https://www.youtube.com/watch?v=qJd3yaEN9Sw))
 *  **`PDDDQN`** [Prioritized Experience Replay](https://arxiv.org/abs/1511.05952), Schaul T. et al, 2015.
 *  **`NAF`** [Continuous Deep Q-Learning with Model-based Acceleration](https://arxiv.org/abs/1603.00748), Gu S. et al, 2016.
+*  **`Rainbow`** [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/abs/1710.02298), Hessel M. et al, 2017.
 *  **`VPN`** [Value Prediction Network](https://arxiv.org/abs/1707.03497), Oh J. et al, 2017.
 
 ## Policy-based
