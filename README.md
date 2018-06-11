@@ -203,6 +203,7 @@
 * **`DQfD`** [Learning from Demonstrations for Real World Reinforcement Learning](https://pdfs.semanticscholar.org/a7fb/199f85943b3fb6b5f7e9f1680b2e2a445cce.pdf), Hester T. et al, 2017. ([videos](https://www.youtube.com/watch?v=JR6wmLaYuu4&list=PLdjpGm3xcO-0aqVf--sBZHxCKg-RZfa5T))
 * **`UPN`** [Universal Planning Networks](https://arxiv.org/abs/1804.00645), Srinivas A. et al, 2018. ([videos](https://sites.google.com/view/upn-public/home))
 * **`QMDP-RCNN`** [Reinforcement Learning via Recurrent Convolutional Neural Networks](https://arxiv.org/abs/1701.02392), Shankar T. et al, 2016. ([talk](https://www.youtube.com/watch?v=gpwA3QNTPOQ))
+* **`GAIL`** [Generative Adversarial Imitation Learning](https://arxiv.org/abs/1606.03476), Ho J., Ermon S., 2016.
 * [From perception to decision: A data-driven approach to end-to-end motion planning for autonomous ground robots](https://arxiv.org/abs/1609.07910), Pfeiffer M. et al, 2017. ([video](https://www.youtube.com/watch?v=ZedKmXzwdgI))
 * **`Branched`** [End-to-end Driving via Conditional Imitation Learning](https://arxiv.org/abs/1710.02410), Codevilla F. et al, 2017. ([video](https://www.youtube.com/watch?v=cFtnflNe5fM) | [talk](https://www.youtube.com/watch?v=KunVjVHN3-U))
 * **`DeepMimic`** [DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills](https://xbpeng.github.io/projects/DeepMimic/index.html), Peng X. B. et al, 2018. ([video](https://www.youtube.com/watch?v=vppFvq2quQ0&feature=youtu.be))
@@ -214,6 +215,8 @@
 * [End-to-end Learning of Driving Models from Large-scale Video Datasets](https://arxiv.org/abs/1612.01079), Xu H., Gao Y. et al, 2016. ([video](https://www.youtube.com/watch?v=jxlNfUzbGAY))
 * [End-to-End Deep Learning for Steering Autonomous Vehicles Considering Temporal Dependencies](https://arxiv.org/abs/1710.03804), Eraqi H. et al, 2017.
 * [Driving Like a Human: Imitation Learning for Path Planning using Convolutional Neural Networks](https://www.semanticscholar.org/paper/Driving-Like-a-Human%3A-Imitation-Learning-for-Path-Rehder-Quehl/a1150417083918c3f5f88b7ddad8841f2ce88188), Rehder E. et al, 2017.
+* [Imitating Driver Behavior with Generative Adversarial Networks](https://arxiv.org/abs/1701.06699), Kuefler A. et al, 2017.
+* **`PS-GAIL`** [Multi-Agent Imitation Learning for Driving Simulation](https://arxiv.org/abs/1803.01044), Bhattacharyya R. et al, 2018. ([video](https://github.com/sisl/ngsim_env/blob/master/media/single_multi_model_2_seed_1.gif))
 
 ## Inverse Reinforcement Learning
 
@@ -224,7 +227,6 @@
 * **`CIOC`** [Continuous Inverse Optimal Control with Locally Optimal Examples](http://graphics.stanford.edu/projects/cioc/), Levine S., Koltun V., 2012. ([video](http://graphics.stanford.edu/projects/cioc/cioc.mp4))
 * **`MEDIRL`** [Maximum Entropy Deep Inverse Reinforcement Learning](https://arxiv.org/abs/1507.04888), Wulfmeier M., 2015.
 * **`GCL`** [Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization](https://arxiv.org/abs/1603.00448), Finn C. et al, 2016. ([video](https://www.youtube.com/watch?v=hXxaepw0zAw))
-* **`GAIL`** [Generative Adversarial Imitation Learning](https://arxiv.org/abs/1606.03476), Ho J., Ermon S., 2016.
 * **`RIRL`** [Repeated Inverse Reinforcement Learning](https://arxiv.org/abs/1705.05427), Amin K. et al, 2017.
 * [Bridging the Gap Between Imitation Learning and Inverse Reinforcement Learning](http://ieeexplore.ieee.org/document/7464854/), Piot B. et al, 2017.
 
@@ -238,7 +240,6 @@
 * [Watch This: Scalable Cost-Function Learning for Path Planning in Urban Environments](https://arxiv.org/abs/1607.02329), Wulfmeier M., 2016. ([video](https://www.youtube.com/watch?v=Sdfir_1T-UQ))
 * [Planning for Autonomous Cars that Leverage Effects on Human Actions](https://robotics.eecs.berkeley.edu/~sastry/pubs/Pdfs%20of%202016/SadighPlanning2016.pdf), Sadigh D. et al, 2016.
 * [A Learning-Based Framework for Handling Dilemmas in Urban Automated Driving](http://ieeexplore.ieee.org/document/7989172/), Lee S., Seo S., 2017.
-* [Imitating Driver Behavior with Generative Adversarial Networks](https://arxiv.org/abs/1701.06699), Kuefler A. et al, 2017.
 
 
 
