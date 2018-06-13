@@ -15,7 +15,7 @@
     * [Actor-critic](#actor-critic)
     * [Derivative-free](#derivative-free)
   * [Model-based](#model-based)
-  * [Transfer and robustness](#transfer-and-robustness)
+  * [Robust Control and Transfer](#robust-control-and-transfer)
   * [Temporal abstraction](#temporal-abstraction)
   * [Partial observability](#partial-observability)
   * [Safety](#safety)
@@ -141,11 +141,12 @@
 * **`Predictron`** [The Predictron: End-To-End Learning and Planning](https://arxiv.org/abs/1612.08810), Silver D. et al, 2017. ([video](https://www.youtube.com/watch?v=BeaLdaN2C3Q))
 * [Learning Real-World Robot Policies by Dreaming](https://arxiv.org/abs/1805.07813), Piergiovanni A. et al, 2018.
 
-## Transfer and robustness
+## Robust Control and Transfer
 
+* [Design of interval observers for uncertain dynamical systems](https://hal.inria.fr/hal-01276439/file/Interval_Survey.pdf), Efimov D., Raïssi T., 2016.
 * **`ME-TRPO`** [Model-Ensemble Trust-Region Policy Optimization](https://arxiv.org/abs/1802.10592), Kurutach T. et al, 2018. ([video](https://www.youtube.com/watch?v=tpS8qj7yhoU))
-* [Sim-to-Real: Learning Agile Locomotion For Quadruped Robots](https://arxiv.org/abs/1804.10332), Tan J. et al, 2018. ([video](https://www.youtube.com/watch?v=lUZUr7jxoqM))
 * [Kickstarting Deep Reinforcement Learning](https://arxiv.org/abs/1803.03835), Schmitt S. et al, 2018.
+* [Sim-to-Real: Learning Agile Locomotion For Quadruped Robots](https://arxiv.org/abs/1804.10332), Tan J. et al, 2018. ([video](https://www.youtube.com/watch?v=lUZUr7jxoqM))
 
 ## Temporal abstraction
 
