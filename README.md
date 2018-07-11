@@ -181,6 +181,7 @@
 * [Online decision-making for scalable autonomous systems](https://www.ijcai.org/proceedings/2017/664), Wray K. et al, 2017.
 * [Cooperative Motion Planning for Non-Holonomic Agents with Value Iteration Networks](https://arxiv.org/abs/1709.05273), Rehder E. et al, 2017.
 * **`COMA`** [Counterfactual Multi-Agent Policy Gradients](https://arxiv.org/abs/1709.05273), Foerster J. et al, 2017.
+* **`FTW`** [Human-level performance in first-person multiplayer games with population-based deep reinforcement learning](https://arxiv.org/abs/1807.01281), Jaderberg M. et al, 2018. ([video](https://www.youtube.com/watch?v=dltN4MxV1RI))
 
 ## Representation
 
