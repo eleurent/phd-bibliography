@@ -69,7 +69,7 @@
 * (book) [Predictive Control With Constraints](https://books.google.fr/books/about/Predictive_Control.html?id=HV_Y58c7KiwC&redir_esc=y), Maciejowski J. M., 2002.
 * [Linear Model Predictive Control for Lane Keeping and Obstacle Avoidance on Low Curvature Roads](http://ieeexplore.ieee.org/document/6728261/), Turri V. et al, 2013.
 * **`MPCC`** [Optimization-based autonomous racing of 1:43 scale RC cars](https://arxiv.org/abs/1711.07300), Liniger A. et al, 2014. ([video 1](https://www.youtube.com/watch?v=mXaElWYQKC4) | [2](https://www.youtube.com/watch?v=JoHfJ6LEKVo))
-* [Optimal trajectory planning for autonomous driving integrating logical constraints: An MIQP perspective](https://hal.archives-ouvertes.fr/hal-01342358v1/document), Qian X., Altché F., Bender P., Stiller C. de La Fortelle A., 2016.
+* **`MIQP`** [Optimal trajectory planning for autonomous driving integrating logical constraints: An MIQP perspective](https://hal.archives-ouvertes.fr/hal-01342358v1/document), Qian X., Altché F., Bender P., Stiller C. de La Fortelle A., 2016.
 
 
 
@@ -177,10 +177,11 @@
 ## Multi-agent
 
 * [Autonomous Agents Modelling Other Agents: A Comprehensive Survey and Open Problems](https://arxiv.org/abs/1709.08071), Albrecht S. Stone P., 2017.
-* **`MAgent`** [MAgent: A Many-Agent Reinforcement Learning Platform for Artificial Collective Intelligence](https://arxiv.org/abs/1712.00600), Zheng L. et al, 2017. ([video](https://www.youtube.com/watch?v=HCSm0kVolqI))
+* **`MILP`** [Time-optimal coordination of mobile robots along specified paths](https://arxiv.org/abs/1603.04610), Altché F. et al, 2016. ([video](https://www.youtube.com/watch?v=RiW2OFsdHOY))
 * **`SA-CADRL`** [Socially Aware Motion Planning with Deep Reinforcement Learning](https://arxiv.org/abs/1703.08862), Chen Y. et al, 2017. ([video](https://www.youtube.com/watch?v=CK1szio7PyA))
 * [Multipolicy decision-making for autonomous driving via changepoint-based behavior prediction: Theory and experiment](https://link.springer.com/article/10.1007/s10514-017-9619-z), Galceran E. et al, 2017.
 * [Online decision-making for scalable autonomous systems](https://www.ijcai.org/proceedings/2017/664), Wray K. et al, 2017.
+* **`MAgent`** [MAgent: A Many-Agent Reinforcement Learning Platform for Artificial Collective Intelligence](https://arxiv.org/abs/1712.00600), Zheng L. et al, 2017. ([video](https://www.youtube.com/watch?v=HCSm0kVolqI))
 * [Cooperative Motion Planning for Non-Holonomic Agents with Value Iteration Networks](https://arxiv.org/abs/1709.05273), Rehder E. et al, 2017.
 * **`COMA`** [Counterfactual Multi-Agent Policy Gradients](https://arxiv.org/abs/1709.05273), Foerster J. et al, 2017.
 * **`FTW`** [Human-level performance in first-person multiplayer games with population-based deep reinforcement learning](https://arxiv.org/abs/1807.01281), Jaderberg M. et al, 2018. ([video](https://www.youtube.com/watch?v=dltN4MxV1RI))
