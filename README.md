@@ -178,6 +178,7 @@
 * [Virtual to Real Reinforcement Learning for Autonomous Driving](https://arxiv.org/abs/1704.03952), Pan X. et al, 2017. ([video](https://www.youtube.com/watch?v=Bce2ZSlMuqY))
 * [Sim-to-Real: Learning Agile Locomotion For Quadruped Robots](https://arxiv.org/abs/1804.10332), Tan J. et al, 2018. ([video](https://www.youtube.com/watch?v=lUZUr7jxoqM))
 * [Kickstarting Deep Reinforcement Learning](https://arxiv.org/abs/1803.03835), Schmitt S. et al, 2018.
+* [Learning Dexterous In-Hand Manipulation](https://blog.openai.com/learning-dexterity/), OpenAI, 2018. ([video](https://www.youtube.com/watch?v=DKe8FumoD4E))
 
 ## Multi-agent
 
