@@ -17,7 +17,8 @@
   * [Model-based](#model-based)
   * [Temporal abstraction](#temporal-abstraction)
   * [Partial observability](#partial-observability)
-  * [Safety, Robustness and Transfer](#safety-robustness-and-transfer)
+  * [Safety and Robustness](#safety-and-robustness)
+  * [Transfer](#transfer)
   * [Multi-agent](#multi-agent)
   * [Representation](#representation)
 * [Learning from Demonstrations](#learning-from-demonstrations)
@@ -162,7 +163,7 @@
 * **`MOMDP`** [Intention-Aware Motion Planning](http://ares.lids.mit.edu/fm/documents/intentionawaremotionplanning.pdf), Bandyopadhyay T. et al, 2013.
 * [The value of inferring the internal state of traffic participants for autonomous freeway driving](https://arxiv.org/abs/1702.00858), Sunberg Z. et al, 2017.
 
-## Safety, Robustness and Transfer
+## Safety and Robustness
 
 * [A Comprehensive Survey on Safe Reinforcement Learning](http://jmlr.org/papers/v16/garcia15a.html), García J., Fernández F., 2015.
 * **`ICS`** [Will the Driver Seat Ever Be Empty?](https://hal.inria.fr/hal-00965176), Fraichard T., 2014.
@@ -171,8 +172,12 @@
 * (lecture notes) [Robust Planning and Optimization](https://www.researchgate.net/profile/Francisco_Perez-Galarce/post/can_anyone_recommend_a_report_or_article_on_two_stage_robust_optimization/attachment/59d62578c49f478072e9a500/AS%3A272164542976002%401441900491330/download/2011+-+Robust+planning+and+optimization.pdf), Laumanns M., 2011.
 * [Design of interval observers for uncertain dynamical systems](https://hal.inria.fr/hal-01276439/file/Interval_Survey.pdf), Efimov D., Raïssi T., 2016.
 * **`ME-TRPO`** [Model-Ensemble Trust-Region Policy Optimization](https://arxiv.org/abs/1802.10592), Kurutach T. et al, 2018. ([video](https://www.youtube.com/watch?v=tpS8qj7yhoU))
-* [Kickstarting Deep Reinforcement Learning](https://arxiv.org/abs/1803.03835), Schmitt S. et al, 2018.
+
+## Transfer
+
+* [Virtual to Real Reinforcement Learning for Autonomous Driving](https://arxiv.org/abs/1704.03952), Pan X. et al, 2017. ([video](https://www.youtube.com/watch?v=Bce2ZSlMuqY))
 * [Sim-to-Real: Learning Agile Locomotion For Quadruped Robots](https://arxiv.org/abs/1804.10332), Tan J. et al, 2018. ([video](https://www.youtube.com/watch?v=lUZUr7jxoqM))
+* [Kickstarting Deep Reinforcement Learning](https://arxiv.org/abs/1803.03835), Schmitt S. et al, 2018.
 
 ## Multi-agent
 
@@ -191,7 +196,6 @@
 
 * **`DeepDriving`** [DeepDriving: Learning Affordance for Direct Perception in Autonomous Driving](http://deepdriving.cs.princeton.edu/paper.pdf), Chen C. et al, 2015. ([video](https://www.youtube.com/watch?v=5hFvoXV9gII))
 * [On the Sample Complexity of End-to-end Training vs. Semantic Abstraction Training](https://arxiv.org/abs/1604.06915), Shalev-Shwartz S. et al, 2016.
-* [Virtual to Real Reinforcement Learning for Autonomous Driving](https://arxiv.org/abs/1704.03952), Pan X. et al, 2017. ([video](https://www.youtube.com/watch?v=Bce2ZSlMuqY))
 * **`VAE-MDN-RNN`** [World Models](https://worldmodels.github.io/), Ha D., Schmidhuber J., 2018.
 * **`MERLIN`** [Unsupervised Predictive Memory in a Goal-Directed Agent](https://arxiv.org/abs/1803.10760), Wayne G. et al, 2018. ([video 1](https://www.youtube.com/watch?v=YFx-D4eEs5A) | [2](https://www.youtube.com/watch?v=IiR_NOomcpk) | [3](https://www.youtube.com/watch?v=dQMKJtLScmk) | [4](https://www.youtube.com/watch?v=xrYDlTXyC6Q) | [5](https://www.youtube.com/watch?v=04H28-qA3f8) [6](https://www.youtube.com/watch?v=3iA19h0Vvq0))
 
