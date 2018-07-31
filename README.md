@@ -69,6 +69,7 @@
 * (book) [Predictive Control With Constraints](https://books.google.fr/books/about/Predictive_Control.html?id=HV_Y58c7KiwC&redir_esc=y), Maciejowski J. M., 2002.
 * [Linear Model Predictive Control for Lane Keeping and Obstacle Avoidance on Low Curvature Roads](http://ieeexplore.ieee.org/document/6728261/), Turri V. et al, 2013.
 * **`MPCC`** [Optimization-based autonomous racing of 1:43 scale RC cars](https://arxiv.org/abs/1711.07300), Liniger A. et al, 2014. ([video 1](https://www.youtube.com/watch?v=mXaElWYQKC4) | [2](https://www.youtube.com/watch?v=JoHfJ6LEKVo))
+* [Optimal trajectory planning for autonomous driving integrating logical constraints: An MIQP perspective](https://hal.archives-ouvertes.fr/hal-01342358v1/document), Qian X., Altché F., Bender P., Stiller C. de La Fortelle A., 2016.
 
 
 
