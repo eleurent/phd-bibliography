@@ -131,11 +131,12 @@
 * **`GPS`** [End-to-End Training of Deep Visuomotor Policies](https://arxiv.org/abs/1504.00702), Levine S. et al, 2015. ([video](https://www.youtube.com/watch?v=Q4bMcUk6pcw))
 * **`DeepMPC`** [DeepMPC: Learning Deep Latent Features for Model Predictive Control](https://www.cs.stanford.edu/people/asaxena/papers/deepmpc_rss2015.pdf), Lenz I. et al, 2015. ([video](https://www.youtube.com/watch?v=BwA90MmkvPU))
 * **`SVG`** [Learning Continuous Control Policies by Stochastic Value Gradients](https://arxiv.org/abs/1510.09142), Heess N. et al, 2015. ([video](https://www.youtube.com/watch?v=PYdL7bcn_cM))
-* [Optimal control with learned local models: Application to dexterous manipulation](https://homes.cs.washington.edu/~todorov/papers/KumarICRA16.pdf), Kumar V. et al, 2017. ([video](https://www.youtube.com/watch?v=bD5z1I1TU3w))
+* [Optimal control with learned local models: Application to dexterous manipulation](https://homes.cs.washington.edu/~todorov/papers/KumarICRA16.pdf), Kumar V. et al, 2016. ([video](https://www.youtube.com/watch?v=bD5z1I1TU3w))
 * **`BPTT`** [Long-term Planning by Short-term Prediction](https://arxiv.org/abs/1602.01580), Shalev-Shwartz S. et al, 2016. ([video 1](https://www.youtube.com/watch?v=Nqmv1anUaF4) | [2](https://www.youtube.com/watch?v=UgGZ9lMvey8))
 * [Deep visual foresight for planning robot motion](https://arxiv.org/abs/1610.00696), Finn C., Levine S., 2016. ([video](https://www.youtube.com/watch?v=6k7GHG4IUCY))
 * **`VIN`** [Value Iteration Networks](https://arxiv.org/abs/1602.02867), Tamar A. et al , 2016. ([video](https://www.youtube.com/watch?v=RcRkog93ZRU))
 * **`VPN`** [Value Prediction Network](https://arxiv.org/abs/1707.03497), Oh J. et al, 2017.
+* [An LSTM Network for Highway Trajectory Prediction](https://arxiv.org/abs/1801.07962), Altché F., de La Fortelle A., 2017.
 * **`DistGBP`** [Model-Based Planning with Discrete and Continuous Actions](https://arxiv.org/abs/1705.07177), Henaff M. et al, 2017. ([video 1](https://www.youtube.com/watch?v=9Xh2TRQ_4nM) | [2](https://www.youtube.com/watch?v=XLdme0TTjiw))
 * [Prediction and Control with Temporal Segment Models](https://arxiv.org/abs/1703.04070), Mishra N. et al, 2017.
 * **`Predictron`** [The Predictron: End-To-End Learning and Planning](https://arxiv.org/abs/1612.08810), Silver D. et al, 2017. ([video](https://www.youtube.com/watch?v=BeaLdaN2C3Q))
