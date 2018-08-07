@@ -262,8 +262,10 @@
 
 * **`Dijkstra`** [A Note on Two Problems in Connexion with Graphs](http://www-m3.ma.tum.de/foswiki/pub/MN0506/WebHome/dijkstra.pdf), Dijkstra E. W., 1959.
 * **`A*`** [ A Formal Basis for the Heuristic Determination of Minimum Cost Paths ](http://ieeexplore.ieee.org/document/4082128/), Hart P. et al, 1968.
-* [3D perception and planning for self-driving and cooperative automobiles](http://www.mrt.kit.edu/z/publ/download/2012/StillerZiegler2012SSD.pdf), Stiller C., Ziegler J., 2012.
 * [Planning Long Dynamically-Feasible Maneuvers For Autonomous Vehicles](https://www.cs.cmu.edu/~maxim/files/planlongdynfeasmotions_rss08.pdf), Likhachev M., Ferguson D., 2008.
+* [Optimal Trajectory Generation for Dynamic Street Scenarios in a Frenet Frame](https://www.researchgate.net/profile/Moritz_Werling/publication/224156269_Optimal_Trajectory_Generation_for_Dynamic_Street_Scenarios_in_a_Frenet_Frame/links/54f749df0cf210398e9277af.pdf), Werling M., Kammel S., 2010. ([video](https://www.youtube.com/watch?v=Cj6tAQe7UCY))
+* [3D perception and planning for self-driving and cooperative automobiles](http://www.mrt.kit.edu/z/publ/download/2012/StillerZiegler2012SSD.pdf), Stiller C., Ziegler J., 2012.
+* [Motion Planning under Uncertainty for On-Road Autonomous Driving](https://www.ri.cmu.edu/pub_files/2014/6/ICRA14_0863_Final.pdf), Xu W. et al, 2014.
 * [Monte Carlo Tree Search for Simulated Car Racing](http://julian.togelius.com/Fischer2015Monte.pdf), Fischer J. et al, 2015. ([video](https://www.youtube.com/watch?v=GbUMssvolvU))
 
 ## Sampling
@@ -277,7 +279,6 @@
 ## Optimization
 
 * [Trajectory planning for Bertha - A local, continuous method](https://pdfs.semanticscholar.org/bdca/7fe83f8444bb4e75402a417053519758d36b.pdf), Ziegler J. et al, 2014.
-* [Motion Planning under Uncertainty for On-Road Autonomous Driving](https://www.ri.cmu.edu/pub_files/2014/6/ICRA14_0863_Final.pdf), Xu W. et al, 2014.
 * [Learning Attractor Landscapes for Learning Motor Primitives](https://papers.nips.cc/paper/2140-learning-attractor-landscapes-for-learning-motor-primitives.pdf), Ijspeert A. et al, 2002.
 
 ## Reactive
