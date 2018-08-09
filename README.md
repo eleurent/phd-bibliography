@@ -169,6 +169,7 @@
 * **`ICS`** [Will the Driver Seat Ever Be Empty?](https://hal.inria.fr/hal-00965176), Fraichard T., 2014.
 * [A Comprehensive Survey on Safe Reinforcement Learning](http://jmlr.org/papers/v16/garcia15a.html), García J., Fernández F., 2015.
 * **`RSS`** [On a Formal Model of Safe and Scalable Self-driving Cars](https://arxiv.org/abs/1708.06374), Shalev-Shwartz S. et al, 2017.
+* [Simulation of Controlled Uncertain Nonlinear Systems](https://www.sciencedirect.com/science/article/pii/009630039400112H), Tibken B. Hofer E., 1995.
 * [Design of interval observers for uncertain dynamical systems](https://hal.inria.fr/hal-01276439/file/Interval_Survey.pdf), Efimov D., Raïssi T., 2016.
 * **`Coarse-Id`** [On the Sample Complexity of the Linear Quadratic Regulator](https://arxiv.org/abs/1710.01688), Dean S., Mania H., Matni N., Recht B., Tu S., 2017.
 * **`BFTQ`** [Safe Transfer across Reinforcement Learning Tasks](), Carrara N. et al, 2018.
