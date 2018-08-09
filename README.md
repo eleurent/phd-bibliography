@@ -207,6 +207,7 @@
 ## Other
 
 * [Is the Bellman residual a bad proxy?](https://arxiv.org/abs/1606.07636), Geist M., Piot B., Pietquin O., 2016.
+* [Deep Reinforcement Learning that Matters](https://arxiv.org/abs/1709.06560), Henderson P. et al, 2017.
 * [Automatic Bridge Bidding Using Deep Reinforcement Learning](https://arxiv.org/abs/1607.03290), Yeh C. and Lin H., 2016.
 * [Shared Autonomy via Deep Reinforcement Learning](https://arxiv.org/abs/1802.01744), Reddy S. et al, 2018. ([videos](https://sites.google.com/view/deep-assist))
 * [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review](https://arxiv.org/abs/1805.00909), Levine S., 2018.
