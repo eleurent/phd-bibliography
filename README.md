@@ -171,6 +171,7 @@
 * **`RSS`** [On a Formal Model of Safe and Scalable Self-driving Cars](https://arxiv.org/abs/1708.06374), Shalev-Shwartz S. et al, 2017.
 * [Simulation of Controlled Uncertain Nonlinear Systems](https://www.sciencedirect.com/science/article/pii/009630039400112H), Tibken B. Hofer E., 1995.
 * [Trajectory computation of dynamic uncertain systems](https://ieeexplore.ieee.org/iel5/8969/28479/01272787.pdf), Adrot O. Flaus J-M., 2002.
+* [Simulation of Uncertain Dynamic Systems Described By Interval Models: a Survey](https://www.sciencedirect.com/science/article/pii/S1474667016362206), Puig V. et al, 2005.
 * [Design of interval observers for uncertain dynamical systems](https://hal.inria.fr/hal-01276439/file/Interval_Survey.pdf), Efimov D., Raïssi T., 2016.
 * **`Coarse-Id`** [On the Sample Complexity of the Linear Quadratic Regulator](https://arxiv.org/abs/1710.01688), Dean S., Mania H., Matni N., Recht B., Tu S., 2017.
 * **`BFTQ`** [Safe Transfer across Reinforcement Learning Tasks](), Carrara N. et al, 2018.
