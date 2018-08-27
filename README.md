@@ -83,6 +83,7 @@
 
 ## Robust Control
 
+* [Minimax analysis of stochastic problems](https://www2.isye.gatech.edu/~anton/MinimaxSP.pdf), Shapiro A., Kleywegt A., 2002.
 * (lecture notes) [Robust Planning and Optimization](https://www.researchgate.net/profile/Francisco_Perez-Galarce/post/can_anyone_recommend_a_report_or_article_on_two_stage_robust_optimization/attachment/59d62578c49f478072e9a500/AS%3A272164542976002%401441900491330/download/2011+-+Robust+planning+and+optimization.pdf), Laumanns M., 2011.
 * **`Coarse-Id`** [On the Sample Complexity of the Linear Quadratic Regulator](https://arxiv.org/abs/1710.01688), Dean S., Mania H., Matni N., Recht B., Tu S., 2017.
 
