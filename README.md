@@ -4,23 +4,28 @@
 
 * [Optimal Control](#optimal-control)
   * [Dynamic Programming](#dynamic-programming)
-  * [Monte-Carlo Planning](#monte-carlo-planning)
+  * [Approximate Planning](#approximate-planning)
   * [Control Theory](#control-theory)
   * [Model Predictive Control](#model-predictive-control)
-* [Multi-Armed Bandit](#multi-armed-bandit)
-* [Reinforcement Learning](#reinforcement-learning)
-  * [Value-based](#value-based)
-  * [Policy-based](#policy-based)
-    * [Policy gradient](#policy-gradient)
-    * [Actor-critic](#actor-critic)
-    * [Derivative-free](#derivative-free)
-  * [Model-based](#model-based)
-  * [Temporal abstraction](#temporal-abstraction)
-  * [Partial observability](#partial-observability)
-  * [Safety and Robustness](#safety-and-robustness)
-  * [Transfer](#transfer)
-  * [Multi-agent](#multi-agent)
-  * [Representation](#representation)
+* [Safe Control](#safe-control)
+  * [Robust Control](robust-control)
+  * [Risk-Averse Control](risk-averse-control)
+  * [Constrained Control](constrained-control)
+  * [Uncertain Dynamical Systems](uncertain-dynamical-systems)
+* [Sequential Learning](#sequential-learning)
+  * [Multi-Armed Bandit](#multi-armed-bandit)
+  * [Reinforcement Learning](#reinforcement-learning)
+    * [Value-based](#value-based)
+    * [Policy-based](#policy-based)
+      * [Policy Gradient](#policy-gradient)
+      * [Actor-critic](#actor-critic)
+      * [Derivative-free](#derivative-free)
+    * [Model-based](#model-based)
+    * [Temporal Abstraction](#temporal-abstraction)
+    * [Partial Observability](#partial-observability)
+    * [Transfer](#transfer)
+    * [Multi-agent](#multi-agent)
+    * [Representation](#representation)
 * [Learning from Demonstrations](#learning-from-demonstrations)
   * [Imitation Learning](#imitation-learning)
     * [Applications to Autonomous Driving](#applications-to-autonomous-driving)
@@ -43,7 +48,7 @@
 * (book) [Dynamic Programming and Optimal Control, Volumes 1 and 2](http://web.mit.edu/dimitrib/www/dpchapter.html), Bertsekas D., 1995.
 * (book) [Markov Decision Processes - Discrete Stochastic Dynamic Programming](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118625870.html), Puterman M., 1995.
 
-## Monte-Carlo Planning
+## Approximate Planning
 
 * **`ExpectiMinimax`** [Optimal strategy in games with chance nodes](http://www.inf.u-szeged.hu/actacybernetica/edb/vol18n2/pdf/Melko_2007_ActaCybernetica.pdf), Melkó E., Nagy B., 2007.
 * **`Sparse sampling`** [A sparse sampling algorithm for near-optimal planning in large Markov decision processes](https://www.cis.upenn.edu/~mkearns/papers/sparsesampling-journal.pdf), Kearns M. et al, 2002.
@@ -74,12 +79,42 @@
 
 
 
-# Multi-Armed Bandit
+# Safe Control
+
+## Robust Control
+
+* (lecture notes) [Robust Planning and Optimization](https://www.researchgate.net/profile/Francisco_Perez-Galarce/post/can_anyone_recommend_a_report_or_article_on_two_stage_robust_optimization/attachment/59d62578c49f478072e9a500/AS%3A272164542976002%401441900491330/download/2011+-+Robust+planning+and+optimization.pdf), Laumanns M., 2011.
+* **`Coarse-Id`** [On the Sample Complexity of the Linear Quadratic Regulator](https://arxiv.org/abs/1710.01688), Dean S., Mania H., Matni N., Recht B., Tu S., 2017.
+
+## Risk-Averse Control
+
+* [A Comprehensive Survey on Safe Reinforcement Learning](http://jmlr.org/papers/v16/garcia15a.html), García J., Fernández F., 2015.
+
+## Constrained Control
+
+* **`ICS`** [Will the Driver Seat Ever Be Empty?](https://hal.inria.fr/hal-00965176), Fraichard T., 2014.
+* **`RSS`** [On a Formal Model of Safe and Scalable Self-driving Cars](https://arxiv.org/abs/1708.06374), Shalev-Shwartz S. et al, 2017.
+* **`BFTQ`** [Safe Transfer across Reinforcement Learning Tasks](), Carrara N. et al, 2018.
+
+## Uncertain Dynamical Systems
+
+* [Simulation of Controlled Uncertain Nonlinear Systems](https://www.sciencedirect.com/science/article/pii/009630039400112H), Tibken B. Hofer E., 1995.
+* [Trajectory computation of dynamic uncertain systems](https://ieeexplore.ieee.org/iel5/8969/28479/01272787.pdf), Adrot O. Flaus J-M., 2002.
+* [Simulation of Uncertain Dynamic Systems Described By Interval Models: a Survey](https://www.sciencedirect.com/science/article/pii/S1474667016362206), Puig V. et al, 2005.
+* [Design of interval observers for uncertain dynamical systems](https://hal.inria.fr/hal-01276439/file/Interval_Survey.pdf), Efimov D., Raïssi T., 2016.
+
+
+
+
+# Sequential Learning
+
+## Multi-Armed Bandit
 
 * **`LUCB`** [PAC Subset Selection in Stochastic Multi-armed Bandits](https://www.cse.iitb.ac.in/~shivaram/papers/ktas_icml_2012.pdf), Kalyanakrishnan S. et al, 2012.
 * **`Track-and-Stop`** [Optimal Best Arm Identification with Fixed Confidence](https://arxiv.org/abs/1602.04589), Garivier A., Kaufmann E., 2016.
 * **`M-LUCB/M-Racing`** [Maximin Action Identification: A New Bandit Framework for Games](https://arxiv.org/abs/1602.04676), Garivier A., Kaufmann E., Koolen W., 2016.
 * **`LUCB-micro`** [Structured Best Arm Identification with Fixed Confidence](https://arxiv.org/abs/1706.05198), Huang R. et al, 2017.
+
 
 
 
@@ -143,7 +178,7 @@
 * **`Predictron`** [The Predictron: End-To-End Learning and Planning](https://arxiv.org/abs/1612.08810), Silver D. et al, 2017. ([video](https://www.youtube.com/watch?v=BeaLdaN2C3Q))
 * [Learning Real-World Robot Policies by Dreaming](https://arxiv.org/abs/1805.07813), Piergiovanni A. et al, 2018.
 
-## Temporal abstraction
+## Temporal Abstraction
 
 * [Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning](http://www-anw.cs.umass.edu/~barto/courses/cs687/Sutton-Precup-Singh-AIJ99.pdf), Sutton R. et al, 1999.
 * [Intrinsically motivated learning of hierarchical collections of skills](http://www-anw.cs.umass.edu/pubs/2004/barto_sc_ICDL04.pdf), Barto A. et al, 2004.
@@ -152,7 +187,7 @@
 * **`FuNs`** [FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1703.01161), Vezhnevets A. et al, 2017.
 * [Combining Neural Networks and Tree Search for Task and Motion Planning in Challenging Environments](https://arxiv.org/abs/1703.07887), Paxton C. et al, 2017. ([video](https://www.youtube.com/watch?v=MM2U_SGMtk8))
 
-## Partial observability
+## Partial Observability
 
 * **`PBVI`** [Point-based Value Iteration: An anytime algorithm for POMDPs](https://www.ri.cmu.edu/pub_files/pub4/pineau_joelle_2003_3/pineau_joelle_2003_3.pdf), Pineau J. et al, 2003.
 * **`cPBVI`** [Point-Based Value Iteration for Continuous POMDPs](http://www.jmlr.org/papers/volume7/porta06a/porta06a.pdf), Porta J. et al, 2006.
@@ -163,26 +198,14 @@
 * **`MOMDP`** [Intention-Aware Motion Planning](http://ares.lids.mit.edu/fm/documents/intentionawaremotionplanning.pdf), Bandyopadhyay T. et al, 2013.
 * [The value of inferring the internal state of traffic participants for autonomous freeway driving](https://arxiv.org/abs/1702.00858), Sunberg Z. et al, 2017.
 
-## Safety and Robustness
-
-* (lecture notes) [Robust Planning and Optimization](https://www.researchgate.net/profile/Francisco_Perez-Galarce/post/can_anyone_recommend_a_report_or_article_on_two_stage_robust_optimization/attachment/59d62578c49f478072e9a500/AS%3A272164542976002%401441900491330/download/2011+-+Robust+planning+and+optimization.pdf), Laumanns M., 2011.
-* **`ICS`** [Will the Driver Seat Ever Be Empty?](https://hal.inria.fr/hal-00965176), Fraichard T., 2014.
-* [A Comprehensive Survey on Safe Reinforcement Learning](http://jmlr.org/papers/v16/garcia15a.html), García J., Fernández F., 2015.
-* **`RSS`** [On a Formal Model of Safe and Scalable Self-driving Cars](https://arxiv.org/abs/1708.06374), Shalev-Shwartz S. et al, 2017.
-* [Simulation of Controlled Uncertain Nonlinear Systems](https://www.sciencedirect.com/science/article/pii/009630039400112H), Tibken B. Hofer E., 1995.
-* [Trajectory computation of dynamic uncertain systems](https://ieeexplore.ieee.org/iel5/8969/28479/01272787.pdf), Adrot O. Flaus J-M., 2002.
-* [Simulation of Uncertain Dynamic Systems Described By Interval Models: a Survey](https://www.sciencedirect.com/science/article/pii/S1474667016362206), Puig V. et al, 2005.
-* [Design of interval observers for uncertain dynamical systems](https://hal.inria.fr/hal-01276439/file/Interval_Survey.pdf), Efimov D., Raïssi T., 2016.
-* **`Coarse-Id`** [On the Sample Complexity of the Linear Quadratic Regulator](https://arxiv.org/abs/1710.01688), Dean S., Mania H., Matni N., Recht B., Tu S., 2017.
-* **`BFTQ`** [Safe Transfer across Reinforcement Learning Tasks](), Carrara N. et al, 2018.
-* **`ME-TRPO`** [Model-Ensemble Trust-Region Policy Optimization](https://arxiv.org/abs/1802.10592), Kurutach T. et al, 2018. ([video](https://www.youtube.com/watch?v=tpS8qj7yhoU))
-
 ## Transfer
 
 * [Virtual to Real Reinforcement Learning for Autonomous Driving](https://arxiv.org/abs/1704.03952), Pan X. et al, 2017. ([video](https://www.youtube.com/watch?v=Bce2ZSlMuqY))
 * [Sim-to-Real: Learning Agile Locomotion For Quadruped Robots](https://arxiv.org/abs/1804.10332), Tan J. et al, 2018. ([video](https://www.youtube.com/watch?v=lUZUr7jxoqM))
+* **`ME-TRPO`** [Model-Ensemble Trust-Region Policy Optimization](https://arxiv.org/abs/1802.10592), Kurutach T. et al, 2018. ([video](https://www.youtube.com/watch?v=tpS8qj7yhoU))
 * [Kickstarting Deep Reinforcement Learning](https://arxiv.org/abs/1803.03835), Schmitt S. et al, 2018.
 * [Learning Dexterous In-Hand Manipulation](https://blog.openai.com/learning-dexterity/), OpenAI, 2018. ([video](https://www.youtube.com/watch?v=DKe8FumoD4E))
+
 
 ## Multi-agent
 
@@ -204,7 +227,6 @@
 * **`VAE-MDN-RNN`** [World Models](https://worldmodels.github.io/), Ha D., Schmidhuber J., 2018.
 * **`MERLIN`** [Unsupervised Predictive Memory in a Goal-Directed Agent](https://arxiv.org/abs/1803.10760), Wayne G. et al, 2018. ([video 1](https://www.youtube.com/watch?v=YFx-D4eEs5A) | [2](https://www.youtube.com/watch?v=IiR_NOomcpk) | [3](https://www.youtube.com/watch?v=dQMKJtLScmk) | [4](https://www.youtube.com/watch?v=xrYDlTXyC6Q) | [5](https://www.youtube.com/watch?v=04H28-qA3f8) [6](https://www.youtube.com/watch?v=3iA19h0Vvq0))
 
-
 ## Other
 
 * [Is the Bellman residual a bad proxy?](https://arxiv.org/abs/1606.07636), Geist M., Piot B., Pietquin O., 2016.
@@ -212,6 +234,7 @@
 * [Automatic Bridge Bidding Using Deep Reinforcement Learning](https://arxiv.org/abs/1607.03290), Yeh C. and Lin H., 2016.
 * [Shared Autonomy via Deep Reinforcement Learning](https://arxiv.org/abs/1802.01744), Reddy S. et al, 2018. ([videos](https://sites.google.com/view/deep-assist))
 * [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review](https://arxiv.org/abs/1805.00909), Levine S., 2018.
+
 
 # Learning from Demonstrations
 
