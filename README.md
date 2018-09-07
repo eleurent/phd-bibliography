@@ -88,7 +88,7 @@
 * [Robust Planning and Optimization](https://www.researchgate.net/profile/Francisco_Perez-Galarce/post/can_anyone_recommend_a_report_or_article_on_two_stage_robust_optimization/attachment/59d62578c49f478072e9a500/AS%3A272164542976002%401441900491330/download/2011+-+Robust+planning+and+optimization.pdf), Laumanns M., 2011. (lecture notes)
 * [Robust Markov Decision Processes](https://pubsonline.informs.org/doi/pdf/10.1287/moor.1120.0566), Wiesemann W., Kuhn D., Rustem B., 2012.
 * **`Coarse-Id`** [On the Sample Complexity of the Linear Quadratic Regulator](https://arxiv.org/abs/1710.01688), Dean S., Mania H., Matni N., Recht B., Tu S., 2017.
-* **`Tube-MPPI`** [Robust Sampling Based Model Predictive Control with Sparse Objective Information](http://www.roboticsproceedings.org/rss14/p42.pdf), Williams G. et al, 2018. ([video](https://www.youtube.com/watch?v=1AR2-OHCxsQ))
+* **`Tube-MPPI`** [Robust Sampling Based Model Predictive Control with Sparse Objective Information](http://www.roboticsproceedings.org/rss14/p42.pdf), Williams G. et al, 2018. ([video](https://www.youtube.com/watch?v=32v-e3dptjo))
 
 ## Risk-Averse Control
 
@@ -180,6 +180,7 @@
 * **`DistGBP`** [Model-Based Planning with Discrete and Continuous Actions](https://arxiv.org/abs/1705.07177), Henaff M. et al, 2017. ([video 1](https://www.youtube.com/watch?v=9Xh2TRQ_4nM) | [2](https://www.youtube.com/watch?v=XLdme0TTjiw))
 * [Prediction and Control with Temporal Segment Models](https://arxiv.org/abs/1703.04070), Mishra N. et al, 2017.
 * **`Predictron`** [The Predictron: End-To-End Learning and Planning](https://arxiv.org/abs/1612.08810), Silver D. et al, 2017. ([video](https://www.youtube.com/watch?v=BeaLdaN2C3Q))
+* **`MPPI`** [Information Theoretic MPC for Model-Based Reinforcement Learning](https://ieeexplore.ieee.org/document/7989202/), Williams G. et al, 2017. ([video](https://www.youtube.com/watch?v=f2at-cqaJMM))
 * [Learning Real-World Robot Policies by Dreaming](https://arxiv.org/abs/1805.07813), Piergiovanni A. et al, 2018.
 
 ## Temporal Abstraction
