@@ -279,6 +279,7 @@
 * **`MMP`** [Maximum margin planning](https://www.ri.cmu.edu/pub_files/pub4/ratliff_nathan_2006_1/ratliff_nathan_2006_1.pdf), Ratliff N. et al. (2006).
 * **`BIRL`** [Bayesian inverse reinforcement learning](https://www.aaai.org/Papers/IJCAI/2007/IJCAI07-416.pdf), Ramachandran D., Amir E. (2007).
 * **`MEIRL`** [Maximum Entropy Inverse Reinforcement Learning](https://www.aaai.org/Papers/AAAI/2008/AAAI08-227.pdf), Ziebart B. et al. (2008).
+* **`LEARCH`** [Learning to search: Functional gradient techniques for imitation learning](https://www.ri.cmu.edu/pub_files/2009/7/learch.pdf), Ratliff N., Siver D. Bagnell A. (2009).
 * **`CIOC`** [Continuous Inverse Optimal Control with Locally Optimal Examples](http://graphics.stanford.edu/projects/cioc/), Levine S., Koltun V. (2012). ([video](http://graphics.stanford.edu/projects/cioc/cioc.mp4))
 * **`MEDIRL`** [Maximum Entropy Deep Inverse Reinforcement Learning](https://arxiv.org/abs/1507.04888), Wulfmeier M. (2015).
 * **`GCL`** [Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization](https://arxiv.org/abs/1603.00448), Finn C. et al. (2016). ([video](https://www.youtube.com/watch?v=hXxaepw0zAw))
