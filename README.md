@@ -240,6 +240,7 @@
 * [Learning to Drive in a Day](https://arxiv.org/abs/1807.00412), Kendall A. et al. (2018). ([video](https://www.youtube.com/watch?v=eRwTbRtnT1I))
 * **`MERLIN`** [Unsupervised Predictive Memory in a Goal-Directed Agent](https://arxiv.org/abs/1803.10760), Wayne G. et al. (2018). ([video 1](https://www.youtube.com/watch?v=YFx-D4eEs5A) | [2](https://www.youtube.com/watch?v=IiR_NOomcpk) | [3](https://www.youtube.com/watch?v=dQMKJtLScmk) | [4](https://www.youtube.com/watch?v=xrYDlTXyC6Q) | [5](https://www.youtube.com/watch?v=04H28-qA3f8) [6](https://www.youtube.com/watch?v=3iA19h0Vvq0))
 * [Variational End-to-End Navigation and Localization](https://arxiv.org/abs/1811.10119), Amini A. et al. (2018). ([video](https://www.youtube.com/watch?v=aXI4a_Nvcew))
+* [Making Sense of Vision and Touch: Self-Supervised Learning of Multimodal Representations for Contact-Rich Tasks](https://arxiv.org/pdf/1810.10191.pdf), Lee M. et al. (2018). ([video](https://www.youtube.com/watch?v=TjwDJ_R2204))
 
 ## Other
 
