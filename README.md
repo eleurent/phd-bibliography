@@ -25,7 +25,7 @@
     * [Partial Observability](#partial-observability)
     * [Transfer](#transfer)
     * [Multi-agent](#multi-agent)
-    * [Representation](#representation)
+    * [Representation Learning](#representation-learning)
 * [Learning from Demonstrations](#learning-from-demonstrations)
   * [Imitation Learning](#imitation-learning)
     * [Applications to Autonomous Driving](#applications-to-autonomous-driving)
@@ -101,6 +101,7 @@
 * **`ICS`** [Will the Driver Seat Ever Be Empty?](https://hal.inria.fr/hal-00965176), Fraichard T. (2014).
 * **`RSS`** [On a Formal Model of Safe and Scalable Self-driving Cars](https://arxiv.org/abs/1708.06374), Shalev-Shwartz S. et al. (2017).
 * **`BFTQ`** [Safe Transfer across Reinforcement Learning Tasks](), Carrara N. et al. (2018).
+* **`MPC-HJI`**[On Infusing Reachability-Based Safety Assurance within Probabilistic Planning Frameworks for Human-Robot Vehicle Interactions](https://stanfordasl.github.io/wp-content/papercite-data/pdf/Leung.Schmerling.Chen.ea.ISER18.pdf), Leung K. et al. (2018).
 
 ## Uncertain Dynamical Systems
 
@@ -229,7 +230,7 @@
 * **`COMA`** [Counterfactual Multi-Agent Policy Gradients](https://arxiv.org/abs/1709.05273), Foerster J. et al. (2017).
 * **`FTW`** [Human-level performance in first-person multiplayer games with population-based deep reinforcement learning](https://arxiv.org/abs/1807.01281), Jaderberg M. et al. (2018). ([video](https://www.youtube.com/watch?v=dltN4MxV1RI))
 
-## Representation
+## Representation Learning
 
 * **`DeepDriving`** [DeepDriving: Learning Affordance for Direct Perception in Autonomous Driving](http://deepdriving.cs.princeton.edu/paper.pdf), Chen C. et al. (2015). ([video](https://www.youtube.com/watch?v=5hFvoXV9gII))
 * [On the Sample Complexity of End-to-end Training vs. Semantic Abstraction Training](https://arxiv.org/abs/1604.06915), Shalev-Shwartz S. et al. (2016).
