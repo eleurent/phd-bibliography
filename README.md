@@ -258,6 +258,7 @@
 * **`Branched`** [End-to-end Driving via Conditional Imitation Learning](https://arxiv.org/abs/1710.02410), Codevilla F. et al. (2017). ([video](https://www.youtube.com/watch?v=cFtnflNe5fM) | [talk](https://www.youtube.com/watch?v=KunVjVHN3-U))
 * **`UPN`** [Universal Planning Networks](https://arxiv.org/abs/1804.00645), Srinivas A. et al. (2018). ([videos](https://sites.google.com/view/upn-public/home))
 * **`DeepMimic`** [DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills](https://xbpeng.github.io/projects/DeepMimic/index.html), Peng X. B. et al. (2018). ([video](https://www.youtube.com/watch?v=vppFvq2quQ0&feature=youtu.be))
+* **`R2P2`** [Deep Imitative Models for Flexible Inference, Planning, and Control](https://arxiv.org/abs/1810.06544), Rhinehart N. et al. (2018). ([videos](https://sites.google.com/view/imitativeforecastingcontrol))
 
 ### Applications to Autonomous Driving
 
