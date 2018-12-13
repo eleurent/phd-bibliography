@@ -290,6 +290,7 @@
 
 * [Apprenticeship Learning for Motion Planning, with Application to Parking Lot Navigation](http://ieeexplore.ieee.org/document/4651222/), Abbeel P. et al. (2008).
 * [Navigate like a cabbie: Probabilistic reasoning from observed context-aware behavior](http://www.cs.cmu.edu/~bziebart/publications/navigate-bziebart.pdf), Ziebart B. et al. (2008).
+* [Learning for autonomous navigation](https://www.ri.cmu.edu/pub_files/2010/6/Learning%20for%20Autonomous%20Navigation-%20Advances%20in%20Machine%20Learning%20for%20Rough%20Terrain%20Mobility.pdf), Bagnell A. et al. (2010).
 * [Planning-based Prediction for Pedestrians](http://ieeexplore.ieee.org/abstract/document/5354147/), Ziebart B. et al. (2009). ([video](https://www.youtube.com/watch?v=XOZ69Bg4JKg))
 * [Learning Driving Styles for Autonomous Vehicles from Demonstration](http://ieeexplore.ieee.org/document/7139555/), Kuderer M. et al. (2015).
 * [Learning to Drive using Inverse Reinforcement Learning and Deep Q-Networks](https://arxiv.org/abs/1612.03653), Sharifzadeh S. et al. (2016).
