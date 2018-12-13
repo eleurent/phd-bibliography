@@ -95,13 +95,14 @@
 ## Risk-Averse Control
 
 * [A Comprehensive Survey on Safe Reinforcement Learning](http://jmlr.org/papers/v16/garcia15a.html), García J., Fernández F. (2015).
+* **`RA-QMDP`** [Risk-averse Behavior Planning for Autonomous Driving under Uncertainty](https://arxiv.org/abs/1812.01254), Naghshvar M. et al. (2018).
 
 ## Constrained Control
 
 * **`ICS`** [Will the Driver Seat Ever Be Empty?](https://hal.inria.fr/hal-00965176), Fraichard T. (2014).
 * **`RSS`** [On a Formal Model of Safe and Scalable Self-driving Cars](https://arxiv.org/abs/1708.06374), Shalev-Shwartz S. et al. (2017).
 * **`BFTQ`** [Safe Transfer across Reinforcement Learning Tasks](), Carrara N. et al. (2018).
-* **`MPC-HJI`**[On Infusing Reachability-Based Safety Assurance within Probabilistic Planning Frameworks for Human-Robot Vehicle Interactions](https://stanfordasl.github.io/wp-content/papercite-data/pdf/Leung.Schmerling.Chen.ea.ISER18.pdf), Leung K. et al. (2018).
+* **`MPC-HJI`** [On Infusing Reachability-Based Safety Assurance within Probabilistic Planning Frameworks for Human-Robot Vehicle Interactions](https://stanfordasl.github.io/wp-content/papercite-data/pdf/Leung.Schmerling.Chen.ea.ISER18.pdf), Leung K. et al. (2018).
 
 ## Uncertain Dynamical Systems
 
