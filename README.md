@@ -56,6 +56,7 @@
 * **`UCT`** [Bandit based Monte-Carlo Planning](http://ggp.stanford.edu/readings/uct.pdf), Kocsis L., Szepesvári C. (2006).
 * **`OPD`** [Optimistic Planning for Deterministic Systems](https://hal.inria.fr/hal-00830182), Hren J., Munos R. (2008).
 * **`OLOP`** [Open Loop Optimistic Planning](http://sbubeck.com/COLT10_BM.pdf), Bubeck S., Munos R. (2010).
+* **`LGP`** [Logic-Geometric Programming: An Optimization-Based Approach to Combined Task and Motion Planning](https://ipvs.informatik.uni-stuttgart.de/mlr/papers/15-toussaint-IJCAI.pdf), Toussaint M. (2015). ([video](https://www.youtube.com/watch?v=B2s85xfo2uE))
 * **`AlphaGo`** [Mastering the game of Go with deep neural networks and tree search](https://www.nature.com/articles/nature16961), Silver D. et al. (2016).
 * **`AlphaGo Zero`** [Mastering the game of Go without human knowledge](https://www.nature.com/articles/nature24270), Silver D. et al. (2017).
 * **`AlphaZero`** [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/abs/1712.01815), Silver D. et al. (2017).
