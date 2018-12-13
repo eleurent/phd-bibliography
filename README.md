@@ -250,12 +250,13 @@
 
 ## Imitation Learning
 
-* **`DQfD`** [Learning from Demonstrations for Real World Reinforcement Learning](https://pdfs.semanticscholar.org/a7fb/199f85943b3fb6b5f7e9f1680b2e2a445cce.pdf), Hester T. et al. (2017). ([videos](https://www.youtube.com/watch?v=JR6wmLaYuu4&list=PLdjpGm3xcO-0aqVf--sBZHxCKg-RZfa5T))
-* **`UPN`** [Universal Planning Networks](https://arxiv.org/abs/1804.00645), Srinivas A. et al. (2018). ([videos](https://sites.google.com/view/upn-public/home))
 * **`QMDP-RCNN`** [Reinforcement Learning via Recurrent Convolutional Neural Networks](https://arxiv.org/abs/1701.02392), Shankar T. et al. (2016). ([talk](https://www.youtube.com/watch?v=gpwA3QNTPOQ))
+* **`DQfD`** [Learning from Demonstrations for Real World Reinforcement Learning](https://pdfs.semanticscholar.org/a7fb/199f85943b3fb6b5f7e9f1680b2e2a445cce.pdf), Hester T. et al. (2017). ([videos](https://www.youtube.com/watch?v=JR6wmLaYuu4&list=PLdjpGm3xcO-0aqVf--sBZHxCKg-RZfa5T))
+* [Find Your Own Way: Weakly-Supervised Segmentation of Path Proposals for Urban Autonomy](https://arxiv.org/abs/1610.01238), Barnes D., Maddern W., Posner I. (2016). ([video](https://www.youtube.com/watch?v=rbZ8ck_1nZk))
 * **`GAIL`** [Generative Adversarial Imitation Learning](https://arxiv.org/abs/1606.03476), Ho J., Ermon S. (2016).
 * [From perception to decision: A data-driven approach to end-to-end motion planning for autonomous ground robots](https://arxiv.org/abs/1609.07910), Pfeiffer M. et al. (2017). ([video](https://www.youtube.com/watch?v=ZedKmXzwdgI))
 * **`Branched`** [End-to-end Driving via Conditional Imitation Learning](https://arxiv.org/abs/1710.02410), Codevilla F. et al. (2017). ([video](https://www.youtube.com/watch?v=cFtnflNe5fM) | [talk](https://www.youtube.com/watch?v=KunVjVHN3-U))
+* **`UPN`** [Universal Planning Networks](https://arxiv.org/abs/1804.00645), Srinivas A. et al. (2018). ([videos](https://sites.google.com/view/upn-public/home))
 * **`DeepMimic`** [DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills](https://xbpeng.github.io/projects/DeepMimic/index.html), Peng X. B. et al. (2018). ([video](https://www.youtube.com/watch?v=vppFvq2quQ0&feature=youtu.be))
 
 ### Applications to Autonomous Driving
