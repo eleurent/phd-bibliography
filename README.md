@@ -135,6 +135,7 @@
 
 ## Value-based
 
+* **`NFQ`** [Neural fitted Q iteration - First experiences with a data efficient neural Reinforcement Learning method](http://ml.informatik.uni-freiburg.de/former/_media/publications/rieecml05.pdf), Riedmiller M. (2005).
 * **`DQN`** [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf), Mnih V. et al. (2013). [🎞️](https://www.youtube.com/watch?v=iqXKQf2BOSE)
 * **`DDQN`** [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461), van Hasselt H., Silver D. et al. (2015).
 * **`DDDQN`** [Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1511.06581), Wang Z. et al. (2015). [🎞️](https://www.youtube.com/watch?v=qJd3yaEN9Sw)
