@@ -125,6 +125,7 @@
 * **`Track-and-Stop`** [Optimal Best Arm Identification with Fixed Confidence](https://arxiv.org/abs/1602.04589), Garivier A., Kaufmann E. (2016).
 * **`M-LUCB/M-Racing`** [Maximin Action Identification: A New Bandit Framework for Games](https://arxiv.org/abs/1602.04676), Garivier A., Kaufmann E., Koolen W. (2016).
 * **`LUCB-micro`** [Structured Best Arm Identification with Fixed Confidence](https://arxiv.org/abs/1706.05198), Huang R. et al. (2017).
+* [Bayesian Optimization in AlphaGo](https://arxiv.org/abs/1812.06855), Chen Y. et al. (2018)
 
 
 
