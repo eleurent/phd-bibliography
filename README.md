@@ -241,6 +241,7 @@
 
 ## Representation Learning
 
+* [Variable Resolution Discretization in Optimal Control](https://rd.springer.com/content/pdf/10.1023%2FA%3A1017992615625.pdf), Munos R., Moore A. (2002). [🎞️](http://researchers.lille.inria.fr/~munos/variable/index.html)
 * **`DeepDriving`** [DeepDriving: Learning Affordance for Direct Perception in Autonomous Driving](http://deepdriving.cs.princeton.edu/paper.pdf), Chen C. et al. (2015). [🎞️](https://www.youtube.com/watch?v=5hFvoXV9gII)
 * [On the Sample Complexity of End-to-end Training vs. Semantic Abstraction Training](https://arxiv.org/abs/1604.06915), Shalev-Shwartz S. et al. (2016).
 * [Learning sparse representations in reinforcement learning with sparse coding](https://arxiv.org/abs/1707.08316), Le L., Kumaraswamy M., White M. (2017).
