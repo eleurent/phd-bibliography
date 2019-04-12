@@ -64,6 +64,7 @@
 * **`TrailBlazer`** [Blazing the trails before beating the path: Sample-efficient Monte-Carlo planning](https://papers.nips.cc/paper/6253-blazing-the-trails-before-beating-the-path-sample-efficient-monte-carlo-planning.pdf), Grill J. B., Valko M., Munos R. (2017).
 * **`MCTSnets`** [Learning to search with MCTSnets](https://arxiv.org/abs/1802.04697), Guez A. et al. (2018).
 * **`ADI`** [Solving the Rubik's Cube Without Human Knowledge](https://arxiv.org/abs/1805.07470), McAleer S. et al. (2018).
+* **`(S)OPC`** [Continuous-action planning for discounted inﬁnite-horizon nonlinear optimal control with Lipschitz values](http://busoniu.net/files/papers/aut18.pdf), Busoniu L., Pall E., Munos R. (2018).
 
 ## Control Theory
 
