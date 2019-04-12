@@ -64,7 +64,7 @@
 * **`TrailBlazer`** [Blazing the trails before beating the path: Sample-efficient Monte-Carlo planning](https://papers.nips.cc/paper/6253-blazing-the-trails-before-beating-the-path-sample-efficient-monte-carlo-planning.pdf), Grill J. B., Valko M., Munos R. (2017).
 * **`MCTSnets`** [Learning to search with MCTSnets](https://arxiv.org/abs/1802.04697), Guez A. et al. (2018).
 * **`ADI`** [Solving the Rubik's Cube Without Human Knowledge](https://arxiv.org/abs/1805.07470), McAleer S. et al. (2018).
-* **`(S)OPC`** [Continuous-action planning for discounted inﬁnite-horizon nonlinear optimal control with Lipschitz values](http://busoniu.net/files/papers/aut18.pdf), Busoniu L., Pall E., Munos R. (2018).
+* **`OPC/SOPC`** [Continuous-action planning for discounted inﬁnite-horizon nonlinear optimal control with Lipschitz values](http://busoniu.net/files/papers/aut18.pdf), Busoniu L., Pall E., Munos R. (2018).
 
 ## Control Theory
 
@@ -105,7 +105,6 @@
 * **`ICS`** [Will the Driver Seat Ever Be Empty?](https://hal.inria.fr/hal-00965176), Fraichard T. (2014).
 * **`RSS`** [On a Formal Model of Safe and Scalable Self-driving Cars](https://arxiv.org/abs/1708.06374), Shalev-Shwartz S. et al. (2017).
 * **`HJI-reachability`** [Safe learning for control: Combining disturbance estimation, reachability analysis and reinforcement learning with systematic exploration](http://kth.diva-portal.org/smash/get/diva2:1140173/FULLTEXT01.pdf), Heidenreich C. (2017).
-
 * **`BFTQ`** [A Fitted-Q Algorithm for Budgeted MDPs](https://hal.archives-ouvertes.fr/hal-01867353), Carrara N. et al. (2018).
 * **`MPC-HJI`** [On Infusing Reachability-Based Safety Assurance within Probabilistic Planning Frameworks for Human-Robot Vehicle Interactions](https://stanfordasl.github.io/wp-content/papercite-data/pdf/Leung.Schmerling.Chen.ea.ISER18.pdf), Leung K. et al. (2018).
 
@@ -124,6 +123,7 @@
 ## Multi-Armed Bandit
 
 * **`UCB1/UCB2`** [Finite-time Analysis of the Multiarmed Bandit Problem](https://homes.di.unimi.it/~cesabian/Pubblicazioni/ml-02.pdf), Auer P., Cesa-Bianchi N., Fischer P. (2002).
+* **`GP-UCB`** [Gaussian Process Optimization in the Bandit Setting: No Regret and Experimental Design](https://arxiv.org/abs/0912.3995), Srinivas N., Krause A., Kakade S., Seeger M. (2009).
 * **`kl-UCB`** [The KL-UCB Algorithm for Bounded Stochastic Bandits and Beyond](https://arxiv.org/abs/1102.2490), Garivier A., Cappé O. (2011).
 * **`KL-UCB`** [Kullback-Leibler Upper Confidence Bounds for Optimal Sequential Allocation](https://projecteuclid.org/euclid.aos/1375362558), Cappé O. et al. (2013).
 * **`LUCB`** [PAC Subset Selection in Stochastic Multi-armed Bandits](https://www.cse.iitb.ac.in/~shivaram/papers/ktas_icml_2012.pdf), Kalyanakrishnan S. et al. (2012).
