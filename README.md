@@ -21,6 +21,7 @@
       * [Actor-critic](#actor-critic)
       * [Derivative-free](#derivative-free)
     * [Model-based](#model-based)
+    * [Exploration](#exploration)
     * [Temporal Abstraction](#temporal-abstraction)
     * [Partial Observability](#partial-observability)
     * [Transfer](#transfer)
@@ -199,6 +200,13 @@
 * [Learning Real-World Robot Policies by Dreaming](https://arxiv.org/abs/1805.07813), Piergiovanni A. et al. (2018).
 * **`PlaNet`** [Learning Latent Dynamics for Planning from Pixels](https://planetrl.github.io/), Hafner et al. (2018).  [🎞️](https://www.youtube.com/watch?v=tZk1eof_VNA)
 
+## Exploration
+
+* **`HER`** [Hindsight Experience Replay](https://arxiv.org/abs/1707.01495), Andrychowicz M. et al. (2017). [🎞️](https://www.youtube.com/watch?v=Dz_HuzgMxzo)
+* **`VHER`** [Visual Hindsight Experience Replay](https://arxiv.org/abs/1901.11529), Sahni H. et al. (2019).
+* **`RND`** [Exploration by Random Network Distillation](https://arxiv.org/abs/1810.12894), Burda Y. et al. (OpenAI) (2018).  [🎞️](https://openai.com/blog/reinforcement-learning-with-prediction-based-rewards/)
+* **`Go-Explore`** [Go-Explore: a New Approach for Hard-Exploration Problems](https://arxiv.org/abs/1901.10995), Ecoffet A. et al. (Uber) (2018). [🎞️](https://www.youtube.com/watch?v=gnGyUPd_4Eo)
+
 ## Temporal Abstraction
 
 * [Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning](http://www-anw.cs.umass.edu/~barto/courses/cs687/Sutton-Precup-Singh-AIJ99.pdf), Sutton R. et al. (1999).
@@ -226,9 +234,6 @@
 * **`ME-TRPO`** [Model-Ensemble Trust-Region Policy Optimization](https://arxiv.org/abs/1802.10592), Kurutach T. et al. (2018). [🎞️](https://www.youtube.com/watch?v=tpS8qj7yhoU)
 * [Kickstarting Deep Reinforcement Learning](https://arxiv.org/abs/1803.03835), Schmitt S. et al. (2018).
 * [Learning Dexterous In-Hand Manipulation](https://blog.openai.com/learning-dexterity/), OpenAI (2018). [🎞️](https://www.youtube.com/watch?v=DKe8FumoD4E)
-* **`HER`** [Hindsight Experience Replay](https://arxiv.org/abs/1707.01495), Andrychowicz M. et al. (2017). [🎞️](https://www.youtube.com/watch?v=Dz_HuzgMxzo)
-* **`VHER`** [Visual Hindsight Experience Replay](https://arxiv.org/abs/1901.11529), Sahni H. et al. (2019).
-
 
 ## Multi-agent
 
