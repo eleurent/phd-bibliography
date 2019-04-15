@@ -22,7 +22,7 @@
       * [Derivative-free](#derivative-free)
     * [Model-based](#model-based)
     * [Exploration](#exploration)
-    * [Temporal Abstraction](#temporal-abstraction)
+    * [Hierarchy and Temporal Abstraction](#hierarchy-and-temporal-abstraction)
     * [Partial Observability](#partial-observability)
     * [Transfer](#transfer)
     * [Multi-agent](#multi-agent)
@@ -215,6 +215,7 @@
 * [Safe, Multi-Agent, Reinforcement Learning for Autonomous Driving](https://arxiv.org/abs/1610.03295), Shalev-Shwartz S. et al. (2016).
 * **`FuNs`** [FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1703.01161), Vezhnevets A. et al. (2017).
 * [Combining Neural Networks and Tree Search for Task and Motion Planning in Challenging Environments](https://arxiv.org/abs/1703.07887), Paxton C. et al. (2017). [🎞️](https://www.youtube.com/watch?v=MM2U_SGMtk8)
+* **`DeepLoco`** [DeepLoco: Dynamic Locomotion Skills Using Hierarchical Deep Reinforcement Learning ](https://www.cs.ubc.ca/~van/papers/2017-TOG-deepLoco/), Peng X. et al. (2017). [🎞️](https://www.youtube.com/watch?v=hd1yvLWm6oA) | [🎞️](https://www.youtube.com/watch?v=x-HrYko_MRU)
 
 ## Partial Observability
 
