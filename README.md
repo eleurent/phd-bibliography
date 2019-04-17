@@ -238,6 +238,7 @@
 * **`ME-TRPO`** [Model-Ensemble Trust-Region Policy Optimization](https://arxiv.org/abs/1802.10592), Kurutach T. et al. (2018). [🎞️](https://www.youtube.com/watch?v=tpS8qj7yhoU)
 * [Kickstarting Deep Reinforcement Learning](https://arxiv.org/abs/1803.03835), Schmitt S. et al. (2018).
 * [Learning Dexterous In-Hand Manipulation](https://blog.openai.com/learning-dexterity/), OpenAI (2018). [🎞️](https://www.youtube.com/watch?v=DKe8FumoD4E)
+* [Learning agile and dynamic motor skills for legged robots](https://robotics.sciencemag.org/content/4/26/eaau5872), Hwangbo J. et al. (ETH Zurich / Intel ISL) (2018). [🎞️](https://www.youtube.com/watch?v=ITfBKjBH46E)
 
 ## Multi-agent
 
