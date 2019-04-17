@@ -210,7 +210,7 @@
 * **`RND`** [Exploration by Random Network Distillation](https://arxiv.org/abs/1810.12894), Burda Y. et al. (OpenAI) (2018).  [🎞️](https://openai.com/blog/reinforcement-learning-with-prediction-based-rewards/)
 * **`Go-Explore`** [Go-Explore: a New Approach for Hard-Exploration Problems](https://arxiv.org/abs/1901.10995), Ecoffet A. et al. (Uber) (2018). [🎞️](https://www.youtube.com/watch?v=gnGyUPd_4Eo)
 
-## Temporal Abstraction
+## Hierarchy and Temporal Abstraction
 
 * [Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning](http://www-anw.cs.umass.edu/~barto/courses/cs687/Sutton-Precup-Singh-AIJ99.pdf), Sutton R. et al. (1999).
 * [Intrinsically motivated learning of hierarchical collections of skills](http://www-anw.cs.umass.edu/pubs/2004/barto_sc_ICDL04.pdf), Barto A. et al. (2004).
@@ -219,6 +219,7 @@
 * **`FuNs`** [FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1703.01161), Vezhnevets A. et al. (2017).
 * [Combining Neural Networks and Tree Search for Task and Motion Planning in Challenging Environments](https://arxiv.org/abs/1703.07887), Paxton C. et al. (2017). [🎞️](https://www.youtube.com/watch?v=MM2U_SGMtk8)
 * **`DeepLoco`** [DeepLoco: Dynamic Locomotion Skills Using Hierarchical Deep Reinforcement Learning ](https://www.cs.ubc.ca/~van/papers/2017-TOG-deepLoco/), Peng X. et al. (2017). [🎞️](https://www.youtube.com/watch?v=hd1yvLWm6oA) | [🎞️](https://www.youtube.com/watch?v=x-HrYko_MRU)
+* [Hierarchical Policy Design for Sample-Efficient Learning of Robot Table Tennis Through Self-Play](https://arxiv.org/abs/1811.12927), Mahjourian R. et al (2018). [🎞️](https://sites.google.com/view/robottabletennis)
 
 ## Partial Observability
 
