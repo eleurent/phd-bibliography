@@ -329,6 +329,7 @@
 * [Watch This: Scalable Cost-Function Learning for Path Planning in Urban Environments](https://arxiv.org/abs/1607.02329), Wulfmeier M. (2016). [🎞️](https://www.youtube.com/watch?v=Sdfir_1T-UQ)
 * [Planning for Autonomous Cars that Leverage Effects on Human Actions](https://robotics.eecs.berkeley.edu/~sastry/pubs/Pdfs%20of%202016/SadighPlanning2016.pdf), Sadigh D. et al. (2016).
 * [A Learning-Based Framework for Handling Dilemmas in Urban Automated Driving](http://ieeexplore.ieee.org/document/7989172/), Lee S., Seo S. (2017).
+* [Learning Trajectory Prediction with Continuous Inverse Optimal Control via Langevin Sampling of Energy-Based Models](https://arxiv.org/abs/1904.05453), Xu Y. et al. (2019).
 
 
 
