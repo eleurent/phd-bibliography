@@ -234,6 +234,7 @@
 
 ## Transfer
 
+* **`IT&E`** [Robots that can adapt like animals](https://arxiv.org/abs/1407.3501), Cully A., Clune J., Tarapore D., Mouret J-B. (2014). [🎞️](https://www.youtube.com/watch?v=T-c17RKh3uE)
 * [Virtual to Real Reinforcement Learning for Autonomous Driving](https://arxiv.org/abs/1704.03952), Pan X. et al. (2017). [🎞️](https://www.youtube.com/watch?v=Bce2ZSlMuqY)
 * [Sim-to-Real: Learning Agile Locomotion For Quadruped Robots](https://arxiv.org/abs/1804.10332), Tan J. et al. (2018). [🎞️](https://www.youtube.com/watch?v=lUZUr7jxoqM)
 * **`ME-TRPO`** [Model-Ensemble Trust-Region Policy Optimization](https://arxiv.org/abs/1802.10592), Kurutach T. et al. (2018). [🎞️](https://www.youtube.com/watch?v=tpS8qj7yhoU)
@@ -241,6 +242,7 @@
 * [Learning Dexterous In-Hand Manipulation](https://blog.openai.com/learning-dexterity/), OpenAI (2018). [🎞️](https://www.youtube.com/watch?v=DKe8FumoD4E)
 * [Learning agile and dynamic motor skills for legged robots](https://robotics.sciencemag.org/content/4/26/eaau5872), Hwangbo J. et al. (ETH Zurich / Intel ISL) (2019). [🎞️](https://www.youtube.com/watch?v=ITfBKjBH46E)
 * [Robust Recovery Controller for a Quadrupedal Robot using Deep Reinforcement Learning](https://arxiv.org/abs/1901.07517), Lee J., Hwangbo J., Hutter M. (ETH Zurich RSL) (2019)
+* **`IT&E`** [Learning and adapting quadruped gaits with the "Intelligent Trial & Error" algorithm](https://hal.inria.fr/hal-02084619), Dalin E., Desreumaux P., Cully A. (2019). [🎞️](https://www.youtube.com/watch?v=v90CWJ_HsnM)
 
 ## Multi-agent
 
