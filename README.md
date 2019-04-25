@@ -232,6 +232,7 @@
 * [Probabilistic Decision-Making under Uncertainty for Autonomous Driving using Continuous POMDPs](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6957722), Brechtel S. et al. (2014).
 * **`MOMDP`** [Intention-Aware Motion Planning](http://ares.lids.mit.edu/fm/documents/intentionawaremotionplanning.pdf), Bandyopadhyay T. et al. (2013).
 * [The value of inferring the internal state of traffic participants for autonomous freeway driving](https://arxiv.org/abs/1702.00858), Sunberg Z. et al. (2017).
+* [Belief State Planning for Autonomously Navigating Urban Intersections](https://arxiv.org/abs/1704.04322), Bouton M., Cosgun A., Kochenderfer M. (2017).
 
 ## Transfer
 
