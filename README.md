@@ -109,6 +109,7 @@
 * **`BFTQ`** [A Fitted-Q Algorithm for Budgeted MDPs](https://hal.archives-ouvertes.fr/hal-01867353), Carrara N. et al. (2018).
 * **`MPC-HJI`** [On Infusing Reachability-Based Safety Assurance within Probabilistic Planning Frameworks for Human-Robot Vehicle Interactions](https://stanfordasl.github.io/wp-content/papercite-data/pdf/Leung.Schmerling.Chen.ea.ISER18.pdf), Leung K. et al. (2018).
 * **`LTL-RL`** [Reinforcement Learning with Probabilistic Guarantees for Autonomous Driving](https://arxiv.org/abs/1904.07189), Bouton M. et al. (2019).
+* [Safe Reinforcement Learning with Scene Decomposition for Navigating Complex Urban Environments](https://arxiv.org/abs/1904.11483v1), Bouton M. et al. (2019).
 
 ## Uncertain Dynamical Systems
 
