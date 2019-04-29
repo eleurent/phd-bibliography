@@ -46,10 +46,10 @@
       <text x="296.6797" xml:space="preserve" y="384.2406" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">DQN</text>
     </g>
     <g fill="rgb(255,204,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke="rgb(255,204,0)">
-      <rect x="134.0799" width="200" height="108.3288" y="-250.72" clip-path="url(#clipPath2)" stroke="none"/>
+      <rect x="134.0799" width="200" height="144.0976" y="-250.72" clip-path="url(#clipPath2)" stroke="none"/>
     </g>
     <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke-linecap="butt">
-      <rect fill="none" x="134.0799" width="200" height="108.3288" y="-250.72" clip-path="url(#clipPath2)"/>
+      <rect fill="none" x="134.0799" width="200" height="144.0976" y="-250.72" clip-path="url(#clipPath2)"/>
       <text x="173.0633" xml:space="preserve" y="-232.6555" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">Dynamic Programming</text>
     </g>
     <g fill="rgb(153,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke="rgb(153,204,255)">
@@ -130,18 +130,18 @@
       <text x="779.5051" xml:space="preserve" y="481.0281" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">PPO</text>
     </g>
     <g fill="rgb(255,204,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke="rgb(255,204,0)">
-      <rect x="352.9369" width="200" height="149.7937" y="-250.0433" clip-path="url(#clipPath2)" stroke="none"/>
+      <rect x="352.9369" width="200" height="143.4209" y="-250.0433" clip-path="url(#clipPath2)" stroke="none"/>
     </g>
     <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke-linecap="butt">
-      <rect fill="none" x="352.9369" width="200" height="149.7937" y="-250.0433" clip-path="url(#clipPath2)"/>
+      <rect fill="none" x="352.9369" width="200" height="143.4209" y="-250.0433" clip-path="url(#clipPath2)"/>
       <text x="413.2542" xml:space="preserve" y="-231.9788" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">Control Theory</text>
     </g>
     <g fill="rgb(153,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke="rgb(153,204,255)">
-      <rect x="377.9593" width="153" height="30" y="-180.5297" clip-path="url(#clipPath2)" stroke="none"/>
+      <rect x="377.9593" width="153" height="30" y="-184.3091" clip-path="url(#clipPath2)" stroke="none"/>
     </g>
     <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke-linecap="butt">
-      <rect fill="none" x="377.9593" width="153" height="30" y="-180.5297" clip-path="url(#clipPath2)"/>
-      <text x="416.7836" xml:space="preserve" y="-160.8158" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">LQ framework</text>
+      <rect fill="none" x="377.9593" width="153" height="30" y="-184.3091" clip-path="url(#clipPath2)"/>
+      <text x="416.7836" xml:space="preserve" y="-164.5953" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">LQ framework</text>
     </g>
     <g fill="silver" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke="silver">
       <rect x="109.3326" y="1012.7187" clip-path="url(#clipPath2)" width="449.937" rx="4" ry="4" height="290.9583" stroke="none"/>
@@ -214,18 +214,18 @@
       <text x="209.451" xml:space="preserve" y="1145.056" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">DQfD</text>
     </g>
     <g fill="rgb(153,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke="rgb(153,204,255)">
-      <rect x="377.9593" width="153" height="30" y="-218.2267" clip-path="url(#clipPath2)" stroke="none"/>
+      <rect x="377.9593" width="153" height="30" y="-221.3111" clip-path="url(#clipPath2)" stroke="none"/>
     </g>
     <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke-linecap="butt">
-      <rect fill="none" x="377.9593" width="153" height="30" y="-218.2267" clip-path="url(#clipPath2)"/>
-      <text x="418.4359" xml:space="preserve" y="-198.5128" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">HJB equation</text>
+      <rect fill="none" x="377.9593" width="153" height="30" y="-221.3111" clip-path="url(#clipPath2)"/>
+      <text x="418.4359" xml:space="preserve" y="-201.5972" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">HJB equation</text>
     </g>
     <g fill="rgb(153,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke="rgb(153,204,255)">
-      <rect x="377.9593" width="153" height="30" y="-142.8326" clip-path="url(#clipPath2)" stroke="none"/>
+      <rect x="377.9593" width="153" height="30" y="-147.3072" clip-path="url(#clipPath2)" stroke="none"/>
     </g>
     <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke-linecap="butt">
-      <rect fill="none" x="377.9593" width="153" height="30" y="-142.8326" clip-path="url(#clipPath2)"/>
-      <text x="446.7924" xml:space="preserve" y="-123.1188" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">PI²</text>
+      <rect fill="none" x="377.9593" width="153" height="30" y="-147.3072" clip-path="url(#clipPath2)"/>
+      <text x="446.7924" xml:space="preserve" y="-127.5934" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">PI²</text>
     </g>
     <g fill="rgb(255,204,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke="rgb(255,204,0)">
       <rect x="692.176" width="200" height="157.7453" y="543.9559" clip-path="url(#clipPath2)" stroke="none"/>
@@ -270,25 +270,25 @@
       <text x="825.2367" xml:space="preserve" y="-231.9788" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">Monte Carlo Planning</text>
     </g>
     <g fill="rgb(153,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke="rgb(153,204,255)">
-      <rect x="806.4369" width="70.469" height="30" y="-146.3257" clip-path="url(#clipPath2)" stroke="none"/>
+      <rect x="806.4369" width="70.469" height="30" y="-147.3072" clip-path="url(#clipPath2)" stroke="none"/>
     </g>
     <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke-linecap="butt">
-      <rect fill="none" x="806.4369" width="70.469" height="30" y="-146.3257" clip-path="url(#clipPath2)"/>
-      <text x="829.3403" xml:space="preserve" y="-126.6119" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">UCT</text>
+      <rect fill="none" x="806.4369" width="70.469" height="30" y="-147.3072" clip-path="url(#clipPath2)"/>
+      <text x="829.3403" xml:space="preserve" y="-127.5934" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">UCT</text>
     </g>
     <g fill="rgb(153,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke="rgb(153,204,255)">
-      <rect x="806.4369" width="153" height="30" y="-219.8161" clip-path="url(#clipPath2)" stroke="none"/>
+      <rect x="806.4369" width="153" height="30" y="-221.3111" clip-path="url(#clipPath2)" stroke="none"/>
     </g>
     <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke-linecap="butt">
-      <rect fill="none" x="806.4369" width="153" height="30" y="-219.8161" clip-path="url(#clipPath2)"/>
-      <text x="837.2455" xml:space="preserve" y="-200.1022" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">Sparse Sampling</text>
+      <rect fill="none" x="806.4369" width="153" height="30" y="-221.3111" clip-path="url(#clipPath2)"/>
+      <text x="837.2455" xml:space="preserve" y="-201.5972" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">Sparse Sampling</text>
     </g>
     <g fill="rgb(153,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke="rgb(153,204,255)">
-      <rect x="888.9679" width="70.469" height="30" y="-109.8372" clip-path="url(#clipPath2)" stroke="none"/>
+      <rect x="888.9679" width="70.469" height="30" y="-110.3053" clip-path="url(#clipPath2)" stroke="none"/>
     </g>
     <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke-linecap="butt">
-      <rect fill="none" x="888.9679" width="70.469" height="30" y="-109.8372" clip-path="url(#clipPath2)"/>
-      <text x="895.5295" xml:space="preserve" y="-90.1234" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">TrailBlazer</text>
+      <rect fill="none" x="888.9679" width="70.469" height="30" y="-110.3053" clip-path="url(#clipPath2)"/>
+      <text x="895.5295" xml:space="preserve" y="-90.5914" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">TrailBlazer</text>
     </g>
     <g fill="rgb(255,204,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke="rgb(255,204,0)">
       <rect x="145.3361" width="297.6398" height="187.9396" y="590.0397" clip-path="url(#clipPath2)" stroke="none"/>
@@ -368,25 +368,25 @@
       <text x="209.6333" xml:space="preserve" y="964.2146" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">POMCP</text>
     </g>
     <g fill="rgb(255,204,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke="rgb(255,204,0)">
-      <rect x="567.9369" width="200" height="115.1534" y="-250.0433" clip-path="url(#clipPath2)" stroke="none"/>
+      <rect x="567.9369" width="200" height="108.3288" y="-250.0433" clip-path="url(#clipPath2)" stroke="none"/>
     </g>
     <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke-linecap="butt">
-      <rect fill="none" x="567.9369" width="200" height="115.1534" y="-250.0433" clip-path="url(#clipPath2)"/>
+      <rect fill="none" x="567.9369" width="200" height="108.3288" y="-250.0433" clip-path="url(#clipPath2)"/>
       <text x="602.5756" xml:space="preserve" y="-231.9788" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">Model Predictive Control</text>
     </g>
     <g fill="rgb(153,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke="rgb(153,204,255)">
-      <rect x="591.4369" width="153" height="30" y="-217.3355" clip-path="url(#clipPath2)" stroke="none"/>
+      <rect x="591.4369" width="153" height="30" y="-221.3111" clip-path="url(#clipPath2)" stroke="none"/>
     </g>
     <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke-linecap="butt">
-      <rect fill="none" x="591.4369" width="153" height="30" y="-217.3355" clip-path="url(#clipPath2)"/>
-      <text x="651.267" xml:space="preserve" y="-197.6216" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">LMPC</text>
+      <rect fill="none" x="591.4369" width="153" height="30" y="-221.3111" clip-path="url(#clipPath2)"/>
+      <text x="651.267" xml:space="preserve" y="-201.5972" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">LMPC</text>
     </g>
     <g fill="rgb(153,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke="rgb(153,204,255)">
-      <rect x="591.4369" width="153" height="30" y="-176.845" clip-path="url(#clipPath2)" stroke="none"/>
+      <rect x="591.4369" width="153" height="30" y="-184.3091" clip-path="url(#clipPath2)" stroke="none"/>
     </g>
     <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke-linecap="butt">
-      <rect fill="none" x="591.4369" width="153" height="30" y="-176.845" clip-path="url(#clipPath2)"/>
-      <text x="650.2709" xml:space="preserve" y="-157.1311" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">NMPC</text>
+      <rect fill="none" x="591.4369" width="153" height="30" y="-184.3091" clip-path="url(#clipPath2)"/>
+      <text x="650.2709" xml:space="preserve" y="-164.5953" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">NMPC</text>
     </g>
     <g fill="rgb(153,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke="rgb(153,204,255)">
       <rect x="367.0808" width="153" height="30" y="1241.2908" clip-path="url(#clipPath2)" stroke="none"/>
@@ -529,32 +529,32 @@
       <text x="924.0059" xml:space="preserve" y="1176.6183" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">VO</text>
     </g>
     <g fill="rgb(153,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke="rgb(153,204,255)">
-      <rect x="806.4369" width="70.469" height="30" y="-109.8372" clip-path="url(#clipPath2)" stroke="none"/>
+      <rect x="806.4369" width="70.469" height="30" y="-110.3053" clip-path="url(#clipPath2)" stroke="none"/>
     </g>
     <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke-linecap="butt">
-      <rect fill="none" x="806.4369" width="70.469" height="30" y="-109.8372" clip-path="url(#clipPath2)"/>
-      <text x="829.3286" xml:space="preserve" y="-90.1234" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">St0p</text>
+      <rect fill="none" x="806.4369" width="70.469" height="30" y="-110.3053" clip-path="url(#clipPath2)"/>
+      <text x="829.3286" xml:space="preserve" y="-90.5914" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">St0p</text>
     </g>
     <g fill="rgb(153,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke="rgb(153,204,255)">
-      <rect x="888.9679" width="70.469" height="30" y="-146.3257" clip-path="url(#clipPath2)" stroke="none"/>
+      <rect x="888.9679" width="70.469" height="30" y="-147.3072" clip-path="url(#clipPath2)" stroke="none"/>
     </g>
     <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke-linecap="butt">
-      <rect fill="none" x="888.9679" width="70.469" height="30" y="-146.3257" clip-path="url(#clipPath2)"/>
-      <text x="907.5295" xml:space="preserve" y="-126.6119" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">OLOP</text>
+      <rect fill="none" x="888.9679" width="70.469" height="30" y="-147.3072" clip-path="url(#clipPath2)"/>
+      <text x="907.5295" xml:space="preserve" y="-127.5934" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">OLOP</text>
     </g>
     <g fill="rgb(153,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke="rgb(153,204,255)">
-      <rect x="806.4369" width="70.469" height="30" y="-182.8142" clip-path="url(#clipPath2)" stroke="none"/>
+      <rect x="806.4369" width="70.469" height="30" y="-184.3091" clip-path="url(#clipPath2)" stroke="none"/>
     </g>
     <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke-linecap="butt">
-      <rect fill="none" x="806.4369" width="70.469" height="30" y="-182.8142" clip-path="url(#clipPath2)"/>
-      <text x="828.6694" xml:space="preserve" y="-163.1003" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">ODP</text>
+      <rect fill="none" x="806.4369" width="70.469" height="30" y="-184.3091" clip-path="url(#clipPath2)"/>
+      <text x="828.6694" xml:space="preserve" y="-164.5953" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">ODP</text>
     </g>
     <g fill="rgb(153,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke="rgb(153,204,255)">
-      <rect x="888.9679" width="70.469" height="30" y="-182.8142" clip-path="url(#clipPath2)" stroke="none"/>
+      <rect x="888.9679" width="70.469" height="30" y="-184.3091" clip-path="url(#clipPath2)" stroke="none"/>
     </g>
     <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke-linecap="butt">
-      <rect fill="none" x="888.9679" width="70.469" height="30" y="-182.8142" clip-path="url(#clipPath2)"/>
-      <text x="911.2004" xml:space="preserve" y="-163.1003" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">OPC</text>
+      <rect fill="none" x="888.9679" width="70.469" height="30" y="-184.3091" clip-path="url(#clipPath2)"/>
+      <text x="911.2004" xml:space="preserve" y="-164.5953" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">OPC</text>
     </g>
     <g fill="silver" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke="silver">
       <rect x="109.3326" y="-33.8512" clip-path="url(#clipPath2)" width="902.2086" rx="4" ry="4" height="232.4953" stroke="none"/>
@@ -758,6 +758,13 @@
     <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke-linecap="butt">
       <rect fill="none" x="145.7323" width="157.4375" height="30" y="1247.8647" clip-path="url(#clipPath2)"/>
       <text x="209.4422" xml:space="preserve" y="1267.5786" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">R2P2</text>
+    </g>
+    <g fill="rgb(153,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke="rgb(153,204,255)">
+      <rect x="157.5799" width="153" height="30" y="-147.3072" clip-path="url(#clipPath2)" stroke="none"/>
+    </g>
+    <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-94,297)" stroke-linecap="butt">
+      <rect fill="none" x="157.5799" width="153" height="30" y="-147.3072" clip-path="url(#clipPath2)"/>
+      <text x="179.7225" xml:space="preserve" y="-127.5934" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">Linear Programming</text>
     </g>
   </g>
 </svg>
