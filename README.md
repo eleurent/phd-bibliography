@@ -41,7 +41,7 @@
 
 ![RL Diagram](https://rawgit.com/eleurent/phd-bibliography/master/reinforcement-learning.svg)
 
-# Optimal Control
+# Optimal Control :dart:
 
 ## Dynamic Programming
 
@@ -85,7 +85,7 @@
 
 
 
-# Safe Control
+# Safe Control :lock:
 
 ## Robust Control
 
@@ -121,9 +121,9 @@
 
 
 
-# Sequential Learning
+# Sequential Learning :shoe:
 
-## Multi-Armed Bandit
+## Multi-Armed Bandit :slot_machine:
 
 * **`UCB1/UCB2`** [Finite-time Analysis of the Multiarmed Bandit Problem](https://homes.di.unimi.it/~cesabian/Pubblicazioni/ml-02.pdf), Auer P., Cesa-Bianchi N., Fischer P. (2002).
 * **`GP-UCB`** [Gaussian Process Optimization in the Bandit Setting: No Regret and Experimental Design](https://arxiv.org/abs/0912.3995), Srinivas N., Krause A., Kakade S., Seeger M. (2009).
@@ -139,11 +139,11 @@
 
 
 
-# Reinforcement Learning
+# Reinforcement Learning :robot:
 
 * [Reinforcement learning: A survey](https://www.jair.org/media/301/live-301-1562-jair.pdf), Kaelbling L. et al. (1996).
 
-## Value-based
+## Value-based :chart_with_upwards_trend:
 
 * **`NFQ`** [Neural fitted Q iteration - First experiences with a data efficient neural Reinforcement Learning method](http://ml.informatik.uni-freiburg.de/former/_media/publications/rieecml05.pdf), Riedmiller M. (2005).
 * **`DQN`** [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf), Mnih V. et al. (2013). [🎞️](https://www.youtube.com/watch?v=iqXKQf2BOSE)
@@ -154,7 +154,7 @@
 * **`Rainbow`** [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/abs/1710.02298), Hessel M. et al. (2017).
 * **`Ape-X DQfD`** [Observe and Look Further: Achieving Consistent Performance on Atari](https://arxiv.org/abs/1805.11593), Pohlen T. et al. (2018). [🎞️](https://www.youtube.com/watch?v=-0xOdnoxAFo&index=4&list=PLnZpNNVLsMmOfqMwJLcpLpXKLr3yKZ8Ak)
 
-## Policy-based
+## Policy-based :muscle:
 
 ### Policy gradient
 
@@ -181,7 +181,7 @@
 * **`CMAES`** [Completely Derandomized Self-Adaptation in Evolution Strategies](https://dl.acm.org/citation.cfm?id=1108843), Hansen N., Ostermeier A. (2001).
 * **`NEAT`** [Evolving Neural Networks through Augmenting Topologies](http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf), Stanley K. (2002). [🎞️](https://www.youtube.com/watch?v=5lJuEW-5vr8)
 
-## Model-based
+## Model-based :world_map:
 
 * **`Dyna`** [Integrated Architectures for Learning, Planning, and Reacting Based on Approximating Dynamic Programming](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.84.6983&rep=rep1&type=pdf), Sutton R. (1990).
 * **`UCRL2`** [Near-optimal Regret Bounds for Reinforcement Learning](http://www.jmlr.org/papers/volume11/jaksch10a/jaksch10a.pdf), Jaksch T. (2010).
@@ -204,7 +204,7 @@
 * [Coupled Longitudinal and Lateral Control of a Vehicle using Deep Learning](https://arxiv.org/abs/1810.09365), Devineau G., Polack P., Alchté F., Moutarde F. (2018) [🎞️](https://www.youtube.com/watch?v=yyWy1uavlXs)
 * **`PlaNet`** [Learning Latent Dynamics for Planning from Pixels](https://planetrl.github.io/), Hafner et al. (2018).  [🎞️](https://www.youtube.com/watch?v=tZk1eof_VNA)
 
-## Exploration
+## Exploration :tent:
 
 * [Combating Reinforcement Learning's Sisyphean Curse with Intrinsic Fear](https://arxiv.org/abs/1611.01211), Lipton Z. et al. (2016).
 * **`HER`** [Hindsight Experience Replay](https://arxiv.org/abs/1707.01495), Andrychowicz M. et al. (2017). [🎞️](https://www.youtube.com/watch?v=Dz_HuzgMxzo)
@@ -212,7 +212,7 @@
 * **`RND`** [Exploration by Random Network Distillation](https://arxiv.org/abs/1810.12894), Burda Y. et al. (OpenAI) (2018).  [🎞️](https://openai.com/blog/reinforcement-learning-with-prediction-based-rewards/)
 * **`Go-Explore`** [Go-Explore: a New Approach for Hard-Exploration Problems](https://arxiv.org/abs/1901.10995), Ecoffet A. et al. (Uber) (2018). [🎞️](https://www.youtube.com/watch?v=gnGyUPd_4Eo)
 
-## Hierarchy and Temporal Abstraction
+## Hierarchy and Temporal Abstraction :clock2:
 
 * [Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning](http://www-anw.cs.umass.edu/~barto/courses/cs687/Sutton-Precup-Singh-AIJ99.pdf), Sutton R. et al. (1999).
 * [Intrinsically motivated learning of hierarchical collections of skills](http://www-anw.cs.umass.edu/pubs/2004/barto_sc_ICDL04.pdf), Barto A. et al. (2004).
@@ -223,7 +223,7 @@
 * **`DeepLoco`** [DeepLoco: Dynamic Locomotion Skills Using Hierarchical Deep Reinforcement Learning ](https://www.cs.ubc.ca/~van/papers/2017-TOG-deepLoco/), Peng X. et al. (2017). [🎞️](https://www.youtube.com/watch?v=hd1yvLWm6oA) | [🎞️](https://www.youtube.com/watch?v=x-HrYko_MRU)
 * [Hierarchical Policy Design for Sample-Efficient Learning of Robot Table Tennis Through Self-Play](https://arxiv.org/abs/1811.12927), Mahjourian R. et al (2018). [🎞️](https://sites.google.com/view/robottabletennis)
 
-## Partial Observability
+## Partial Observability :eye:
 
 * **`PBVI`** [Point-based Value Iteration: An anytime algorithm for POMDPs](https://www.ri.cmu.edu/pub_files/pub4/pineau_joelle_2003_3/pineau_joelle_2003_3.pdf), Pineau J. et al. (2003).
 * **`cPBVI`** [Point-Based Value Iteration for Continuous POMDPs](http://www.jmlr.org/papers/volume7/porta06a/porta06a.pdf), Porta J. et al. (2006).
@@ -235,7 +235,7 @@
 * [The value of inferring the internal state of traffic participants for autonomous freeway driving](https://arxiv.org/abs/1702.00858), Sunberg Z. et al. (2017).
 * [Belief State Planning for Autonomously Navigating Urban Intersections](https://arxiv.org/abs/1704.04322), Bouton M., Cosgun A., Kochenderfer M. (2017).
 
-## Transfer
+## Transfer :earth_americas:
 
 * **`IT&E`** [Robots that can adapt like animals](https://arxiv.org/abs/1407.3501), Cully A., Clune J., Tarapore D., Mouret J-B. (2014). [🎞️](https://www.youtube.com/watch?v=T-c17RKh3uE)
 * [Virtual to Real Reinforcement Learning for Autonomous Driving](https://arxiv.org/abs/1704.03952), Pan X. et al. (2017). [🎞️](https://www.youtube.com/watch?v=Bce2ZSlMuqY)
@@ -247,7 +247,7 @@
 * [Robust Recovery Controller for a Quadrupedal Robot using Deep Reinforcement Learning](https://arxiv.org/abs/1901.07517), Lee J., Hwangbo J., Hutter M. (ETH Zurich RSL) (2019)
 * **`IT&E`** [Learning and adapting quadruped gaits with the "Intelligent Trial & Error" algorithm](https://hal.inria.fr/hal-02084619), Dalin E., Desreumaux P., Mouret J-B. (2019). [🎞️](https://www.youtube.com/watch?v=v90CWJ_HsnM)
 
-## Multi-agent
+## Multi-agent :two_men_holding_hands:
 
 * [Autonomous Agents Modelling Other Agents: A Comprehensive Survey and Open Problems](https://arxiv.org/abs/1709.08071), Albrecht S., Stone P. (2017).
 * **`MILP`** [Time-optimal coordination of mobile robots along specified paths](https://arxiv.org/abs/1603.04610), Altché F. et al. (2016). [🎞️](https://www.youtube.com/watch?v=RiW2OFsdHOY)
@@ -283,7 +283,7 @@
 * [The Value Function Polytope in Reinforcement Learning](https://arxiv.org/abs/1901.11524), Dadashi R. et al. (2019).
 
 
-# Learning from Demonstrations
+# Learning from Demonstrations :mortar_board:
 
 ## Imitation Learning
 
@@ -297,7 +297,7 @@
 * **`DeepMimic`** [DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills](https://xbpeng.github.io/projects/DeepMimic/index.html), Peng X. B. et al. (2018). [🎞️](https://www.youtube.com/watch?v=vppFvq2quQ0&feature=youtu.be)
 * **`R2P2`** [Deep Imitative Models for Flexible Inference, Planning, and Control](https://arxiv.org/abs/1810.06544), Rhinehart N. et al. (2018). [🎞️](https://sites.google.com/view/imitativeforecastingcontrol)
 
-### Applications to Autonomous Driving
+### Applications to Autonomous Driving :car:
 
 * [ALVINN, an autonomous land vehicle in a neural network](https://papers.nips.cc/paper/95-alvinn-an-autonomous-land-vehicle-in-a-neural-network), Pomerleau D. (1989).
 * [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316), Bojarski M. et al. (2016). [🎞️](https://www.youtube.com/watch?v=qhUvQiKec2U)
@@ -320,7 +320,7 @@
 * **`RIRL`** [Repeated Inverse Reinforcement Learning](https://arxiv.org/abs/1705.05427), Amin K. et al. (2017).
 * [Bridging the Gap Between Imitation Learning and Inverse Reinforcement Learning](http://ieeexplore.ieee.org/document/7464854/), Piot B. et al. (2017).
 
-### Applications to Autonomous Driving
+### Applications to Autonomous Driving :taxi:
 
 * [Apprenticeship Learning for Motion Planning, with Application to Parking Lot Navigation](http://ieeexplore.ieee.org/document/4651222/), Abbeel P. et al. (2008).
 * [Navigate like a cabbie: Probabilistic reasoning from observed context-aware behavior](http://www.cs.cmu.edu/~bziebart/publications/navigate-bziebart.pdf), Ziebart B. et al. (2008).
@@ -336,7 +336,7 @@
 
 
 
-# Motion Planning
+# Motion Planning :running_man:
 
 ## Search
 
