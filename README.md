@@ -106,7 +106,7 @@
 * **`ICS`** [Will the Driver Seat Ever Be Empty?](https://hal.inria.fr/hal-00965176), Fraichard T. (2014).
 * **`RSS`** [On a Formal Model of Safe and Scalable Self-driving Cars](https://arxiv.org/abs/1708.06374), Shalev-Shwartz S. et al. (2017).
 * **`HJI-reachability`** [Safe learning for control: Combining disturbance estimation, reachability analysis and reinforcement learning with systematic exploration](http://kth.diva-portal.org/smash/get/diva2:1140173/FULLTEXT01.pdf), Heidenreich C. (2017).
-* **`CPO`** [https://arxiv.org/abs/1705.10528](https://arxiv.org/abs/1705.10528), Achiam J., Held D., Tamar A., Abbeel P. (2017). [:octocat:](https://github.com/jachiam/cpo)
+* **`CPO`** [Constrained Policy Optimization](https://arxiv.org/abs/1705.10528), Achiam J., Held D., Tamar A., Abbeel P. (2017). [:octocat:](https://github.com/jachiam/cpo)
 * **`BFTQ`** [A Fitted-Q Algorithm for Budgeted MDPs](https://hal.archives-ouvertes.fr/hal-01867353), Carrara N. et al. (2018).
 * **`MPC-HJI`** [On Infusing Reachability-Based Safety Assurance within Probabilistic Planning Frameworks for Human-Robot Vehicle Interactions](https://stanfordasl.github.io/wp-content/papercite-data/pdf/Leung.Schmerling.Chen.ea.ISER18.pdf), Leung K. et al. (2018).
 * **`LTL-RL`** [Reinforcement Learning with Probabilistic Guarantees for Autonomous Driving](https://arxiv.org/abs/1904.07189), Bouton M. et al. (2019).
