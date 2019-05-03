@@ -127,9 +127,10 @@
 
 ## Multi-Armed Bandit :slot_machine:
 
-* **`TS`** [On the Likelihood that One Unknown Probability Exceeds Another in View of the Evidence of Two Samples](https://www.jstor.org/stable/pdf/2332286.pdf) Thompson W. (1933).
+* **`TS`** [On the Likelihood that One Unknown Probability Exceeds Another in View of the Evidence of Two Samples](https://www.jstor.org/stable/pdf/2332286.pdf), Thompson W. (1933).
 * **`UCB1/UCB2`** [Finite-time Analysis of the Multiarmed Bandit Problem](https://homes.di.unimi.it/~cesabian/Pubblicazioni/ml-02.pdf), Auer P., Cesa-Bianchi N., Fischer P. (2002).
 * **`GP-UCB`** [Gaussian Process Optimization in the Bandit Setting: No Regret and Experimental Design](https://arxiv.org/abs/0912.3995), Srinivas N., Krause A., Kakade S., Seeger M. (2009).
+* [An Empirical Evaluation of Thompson Sampling](https://papers.nips.cc/paper/4321-an-empirical-evaluation-of-thompson-sampling), Chapelle O., Li L. (2011).
 * **`kl-UCB`** [The KL-UCB Algorithm for Bounded Stochastic Bandits and Beyond](https://arxiv.org/abs/1102.2490), Garivier A., Cappé O. (2011).
 * **`KL-UCB`** [Kullback-Leibler Upper Confidence Bounds for Optimal Sequential Allocation](https://projecteuclid.org/euclid.aos/1375362558), Cappé O. et al. (2013).
 * **`LUCB`** [PAC Subset Selection in Stochastic Multi-armed Bandits](https://www.cse.iitb.ac.in/~shivaram/papers/ktas_icml_2012.pdf), Kalyanakrishnan S. et al. (2012).
