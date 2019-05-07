@@ -246,6 +246,7 @@
 ## Transfer :earth_americas:
 
 * **`IT&E`** [Robots that can adapt like animals](https://arxiv.org/abs/1407.3501), Cully A., Clune J., Tarapore D., Mouret J-B. (2014). [🎞️](https://www.youtube.com/watch?v=T-c17RKh3uE)
+* **`MAML`** [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400), Finn C., Abbeel P., Levine S. (2017). [🎞️](https://sites.google.com/view/maml)
 * [Virtual to Real Reinforcement Learning for Autonomous Driving](https://arxiv.org/abs/1704.03952), Pan X. et al. (2017). [🎞️](https://www.youtube.com/watch?v=Bce2ZSlMuqY)
 * [Sim-to-Real: Learning Agile Locomotion For Quadruped Robots](https://arxiv.org/abs/1804.10332), Tan J. et al. (2018). [🎞️](https://www.youtube.com/watch?v=lUZUr7jxoqM)
 * **`ME-TRPO`** [Model-Ensemble Trust-Region Policy Optimization](https://arxiv.org/abs/1802.10592), Kurutach T. et al. (2018). [🎞️](https://www.youtube.com/watch?v=tpS8qj7yhoU)
