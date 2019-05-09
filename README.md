@@ -93,6 +93,7 @@
 * **`Robust DP`** [Robust Dynamic Programming](https://www.researchgate.net/publication/220442530/download), Iyengar G. (2005).
 * [Robust Planning and Optimization](https://www.researchgate.net/profile/Francisco_Perez-Galarce/post/can_anyone_recommend_a_report_or_article_on_two_stage_robust_optimization/attachment/59d62578c49f478072e9a500/AS%3A272164542976002%401441900491330/download/2011+-+Robust+planning+and+optimization.pdf), Laumanns M. (2011). (lecture notes)
 * [Robust Markov Decision Processes](https://pubsonline.informs.org/doi/pdf/10.1287/moor.1120.0566), Wiesemann W., Kuhn D., Rustem B. (2012).
+* [Safe and Robust Learning Control with Gaussian Processes](http://www.dynsyslab.org/wp-content/papercite-data/pdf/berkenkamp-ecc15.pdf), Berkenkamp F., Schoellig A. (2015). [🎞️](https://www.youtube.com/watch?v=YqhLnCm0KXY)
 * **`Coarse-Id`** [On the Sample Complexity of the Linear Quadratic Regulator](https://arxiv.org/abs/1710.01688), Dean S., Mania H., Matni N., Recht B., Tu S. (2017).
 * **`Tube-MPPI`** [Robust Sampling Based Model Predictive Control with Sparse Objective Information](http://www.roboticsproceedings.org/rss14/p42.pdf), Williams G. et al. (2018). [🎞️](https://www.youtube.com/watch?v=32v-e3dptjo)
 
