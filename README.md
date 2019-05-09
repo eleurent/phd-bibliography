@@ -245,6 +245,7 @@
 * **`MOMDP`** [Intention-Aware Motion Planning](http://ares.lids.mit.edu/fm/documents/intentionawaremotionplanning.pdf), Bandyopadhyay T. et al. (2013).
 * [The value of inferring the internal state of traffic participants for autonomous freeway driving](https://arxiv.org/abs/1702.00858), Sunberg Z. et al. (2017).
 * [Belief State Planning for Autonomously Navigating Urban Intersections](https://arxiv.org/abs/1704.04322), Bouton M., Cosgun A., Kochenderfer M. (2017).
+* [Probabilistic Decision-Making at Road Intersections: Formulation and Quantitative Evaluation](https://hal.inria.fr/hal-01940392), Barbier M., Laugier C., Simonin O., Ibanez J. (2018).
 
 ## Transfer :earth_americas:
 
