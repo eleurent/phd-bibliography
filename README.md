@@ -105,7 +105,7 @@
 ## Constrained Control
 
 * **`ICS`** [Will the Driver Seat Ever Be Empty?](https://hal.inria.fr/hal-00965176), Fraichard T. (2014).
-* **`SafeOPT`** [Safe Controller Optimization for Quadrotors with Gaussian Processes](https://arxiv.org/abs/1509.01066), Berkenkamp F., Schoellig A., Krause A. (2015). [🎞️](https://www.youtube.com/watch?v=GiqNQdzc5TI)
+* **`SafeOPT`** [Safe Controller Optimization for Quadrotors with Gaussian Processes](https://arxiv.org/abs/1509.01066), Berkenkamp F., Schoellig A., Krause A. (2015). [🎞️](https://www.youtube.com/watch?v=GiqNQdzc5TI) [:octocat:](https://github.com/befelix/SafeOpt)
 * **`RSS`** [On a Formal Model of Safe and Scalable Self-driving Cars](https://arxiv.org/abs/1708.06374), Shalev-Shwartz S. et al. (2017).
 * **`HJI-reachability`** [Safe learning for control: Combining disturbance estimation, reachability analysis and reinforcement learning with systematic exploration](http://kth.diva-portal.org/smash/get/diva2:1140173/FULLTEXT01.pdf), Heidenreich C. (2017).
 * **`CPO`** [Constrained Policy Optimization](https://arxiv.org/abs/1705.10528), Achiam J., Held D., Tamar A., Abbeel P. (2017). [:octocat:](https://github.com/jachiam/cpo)
