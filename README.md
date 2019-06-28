@@ -14,6 +14,7 @@
   * [Uncertain Dynamical Systems](#uncertain-dynamical-systems)
 * [Sequential Learning](#sequential-learning-shoe)
   * [Multi-Armed Bandit](#multi-armed-bandit-slot_machine)
+    * [Black-box Optimization](#black-box-optimization-black_large_square)
   * [Reinforcement Learning](#reinforcement-learning-robot)
     * [Value-based](#value-based-chart_with_upwards_trend)
     * [Policy-based](#policy-based-muscle)
@@ -136,17 +137,19 @@
 * **`UCB1 / UCB2`** [Finite-time Analysis of the Multiarmed Bandit Problem](https://homes.di.unimi.it/~cesabian/Pubblicazioni/ml-02.pdf), Auer P., Cesa-Bianchi N., Fischer P. (2002).
 * **`Empirical Bernstein / UCB-V`** [Exploration-exploitation tradeoff using variance estimates in multi-armed bandits](https://hal.inria.fr/hal-00711069/),  Audibert J-Y, Munos R., Szepesvari C. (2009).
 * [Empirical Bernstein Bounds and Sample Variance Penalization](https://arxiv.org/abs/0907.3740), Maurer A., Ponti M. (2009).
-* **`GP-UCB`** [Gaussian Process Optimization in the Bandit Setting: No Regret and Experimental Design](https://arxiv.org/abs/0912.3995), Srinivas N., Krause A., Kakade S., Seeger M. (2009).
 * [An Empirical Evaluation of Thompson Sampling](https://papers.nips.cc/paper/4321-an-empirical-evaluation-of-thompson-sampling), Chapelle O., Li L. (2011).
 * **`kl-UCB`** [The KL-UCB Algorithm for Bounded Stochastic Bandits and Beyond](https://arxiv.org/abs/1102.2490), Garivier A., Cappé O. (2011).
 * **`KL-UCB`** [Kullback-Leibler Upper Confidence Bounds for Optimal Sequential Allocation](https://projecteuclid.org/euclid.aos/1375362558), Cappé O. et al. (2013).
 * **`LUCB`** [PAC Subset Selection in Stochastic Multi-armed Bandits](https://www.cse.iitb.ac.in/~shivaram/papers/ktas_icml_2012.pdf), Kalyanakrishnan S. et al. (2012).
-* **`POO`** [Black-box optimization of noisy functions with unknown smoothness](https://hal.inria.fr/hal-01222915v4/), Grill J-B., Valko M., Munos R. (2015).
 * **`Track-and-Stop`** [Optimal Best Arm Identification with Fixed Confidence](https://arxiv.org/abs/1602.04589), Garivier A., Kaufmann E. (2016).
 * **`M-LUCB / M-Racing`** [Maximin Action Identification: A New Bandit Framework for Games](https://arxiv.org/abs/1602.04676), Garivier A., Kaufmann E., Koolen W. (2016).
 * **`LUCB-micro`** [Structured Best Arm Identification with Fixed Confidence](https://arxiv.org/abs/1706.05198), Huang R. et al. (2017).
-* [Bayesian Optimization in AlphaGo](https://arxiv.org/abs/1812.06855), Chen Y. et al. (2018)
 
+### Black-box Optimization :black_large_square:
+* **`GP-UCB`** [Gaussian Process Optimization in the Bandit Setting: No Regret and Experimental Design](https://arxiv.org/abs/0912.3995), Srinivas N., Krause A., Kakade S., Seeger M. (2009).
+* **`DOO/SOO`** [Optimistic Optimization of a Deterministic Function without the Knowledge of its Smoothness](https://papers.nips.cc/paper/4304-optimistic-optimization-of-a-deterministic-function-without-the-knowledge-of-its-smoothness), Munos R. (2011).
+* **`POO`** [Black-box optimization of noisy functions with unknown smoothness](https://hal.inria.fr/hal-01222915v4/), Grill J-B., Valko M., Munos R. (2015).
+* [Bayesian Optimization in AlphaGo](https://arxiv.org/abs/1812.06855), Chen Y. et al. (2018)
 
 
 
