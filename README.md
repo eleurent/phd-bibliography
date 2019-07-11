@@ -268,7 +268,7 @@
 
 ## Multi-agent :two_men_holding_hands:
 
-* **`Minimax-Q`** [Markov games as a framework for multi-agent reinforcement learning􏰮](https://www.cs.rutgers.edu/~mlittman/papers/ml94-final.pdf), M. Littman (1994).
+* **`Minimax-Q`** [Markov games as a framework for multi-agent reinforcement learning](https://www.cs.rutgers.edu/~mlittman/papers/ml94-final.pdf), M. Littman (1994).
 * [Autonomous Agents Modelling Other Agents: A Comprehensive Survey and Open Problems](https://arxiv.org/abs/1709.08071), Albrecht S., Stone P. (2017).
 * **`MILP`** [Time-optimal coordination of mobile robots along specified paths](https://arxiv.org/abs/1603.04610), Altché F. et al. (2016). [🎞️](https://www.youtube.com/watch?v=RiW2OFsdHOY)
 * **`MIQP`** [An Algorithm for Supervised Driving of Cooperative Semi-Autonomous Vehicles](https://arxiv.org/abs/1706.08046), Altché F. et al. (2017). [🎞️](https://www.youtube.com/watch?v=JJZKfHMUeCI)
