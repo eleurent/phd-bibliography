@@ -62,6 +62,7 @@
 * **`SOOP`** [Optimistic Planning for Continuous-Action Deterministic Systems](http://researchers.lille.inria.fr/munos/papers/files/adprl13-soop.pdf), Buşoniu L. et al. (2011).
 * **`OPSS`** [Optimistic planning for sparsely stochastic systems](https://www.dcsc.tudelft.nl/~bdeschutter/pub/rep/11_007.pdf), L. Buşoniu, R. Munos, B. De Schutter, and R. Babuska (2011).
 * **`HOOT`** [Sample-Based Planning for Continuous ActionMarkov Decision Processes](https://www.aaai.org/ocs/index.php/ICAPS/ICAPS11/paper/viewFile/2679/3175), Mansley C., Weinstein A., Littman M. (2011).
+* **`HOLOP`** [Bandit-Based Planning and Learning inContinuous-Action Markov Decision Processes](https://pdfs.semanticscholar.org/a445/d8cc503781c481c3f3c4ee1758b862b3e869.pdf), Weinstein A., Littman M. (2012).
 * **`LGP`** [Logic-Geometric Programming: An Optimization-Based Approach to Combined Task and Motion Planning](https://ipvs.informatik.uni-stuttgart.de/mlr/papers/15-toussaint-IJCAI.pdf), Toussaint M. (2015). [🎞️](https://www.youtube.com/watch?v=B2s85xfo2uE)
 * **`AlphaGo`** [Mastering the game of Go with deep neural networks and tree search](https://www.nature.com/articles/nature16961), Silver D. et al. (2016).
 * **`AlphaGo Zero`** [Mastering the game of Go without human knowledge](https://www.nature.com/articles/nature24270), Silver D. et al. (2017).
