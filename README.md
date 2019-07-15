@@ -154,7 +154,7 @@
 * **`HOO`** [X–Armed Bandits](https://arxiv.org/abs/1001.4475), Bubeck S., Munos R., Stoltz G., Szepesvari C. (2011).
 * **`StoSOO`** [Stochastic Simultaneous Optimistic Optimization](http://proceedings.mlr.press/v28/valko13.pdf), Valko M., Carpentier A., Munos R. (2013). 
 * **`POO`** [Black-box optimization of noisy functions with unknown smoothness](https://hal.inria.fr/hal-01222915v4/), Grill J-B., Valko M., Munos R. (2015).
-* [Bayesian Optimization in AlphaGo](https://arxiv.org/abs/1812.06855), Chen Y. et al. (2018)
+* **`EI-GP`** [Bayesian Optimization in AlphaGo](https://arxiv.org/abs/1812.06855), Chen Y. et al. (2018)
 
 
 
