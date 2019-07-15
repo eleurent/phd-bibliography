@@ -151,6 +151,7 @@
 ### Black-box Optimization :black_large_square:
 * **`GP-UCB`** [Gaussian Process Optimization in the Bandit Setting: No Regret and Experimental Design](https://arxiv.org/abs/0912.3995), Srinivas N., Krause A., Kakade S., Seeger M. (2009).
 * **`DOO/SOO`** [Optimistic Optimization of a Deterministic Function without the Knowledge of its Smoothness](https://papers.nips.cc/paper/4304-optimistic-optimization-of-a-deterministic-function-without-the-knowledge-of-its-smoothness), Munos R. (2011).
+* **`HOO`** [X–Armed Bandits](https://arxiv.org/abs/1001.4475), Bubeck S., Munos R., Stoltz G., Szepesvari C. (2011).
 * **`POO`** [Black-box optimization of noisy functions with unknown smoothness](https://hal.inria.fr/hal-01222915v4/), Grill J-B., Valko M., Munos R. (2015).
 * [Bayesian Optimization in AlphaGo](https://arxiv.org/abs/1812.06855), Chen Y. et al. (2018)
 
