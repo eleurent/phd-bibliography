@@ -59,6 +59,7 @@
 * [Bandit Algorithms for Tree Search](https://hal.inria.fr/inria-00136198v2), Coquelin P-A., Munos R. (2007).
 * **`OPD`** [Optimistic Planning for Deterministic Systems](https://hal.inria.fr/hal-00830182), Hren J., Munos R. (2008).
 * **`OLOP`** [Open Loop Optimistic Planning](http://sbubeck.com/COLT10_BM.pdf), Bubeck S., Munos R. (2010).
+* **`SOOP`** [Optimistic Planning for Continuous-Action Deterministic Systems](http://researchers.lille.inria.fr/munos/papers/files/adprl13-soop.pdf), Buşoniu L. et al. (2011).
 * **`OPSS`** [Optimistic planning for sparsely stochastic systems](https://www.dcsc.tudelft.nl/~bdeschutter/pub/rep/11_007.pdf), L. Buşoniu, R. Munos, B. De Schutter, and R. Babuska (2011).
 * **`HOOT`** [Sample-Based Planning for Continuous ActionMarkov Decision Processes](https://www.aaai.org/ocs/index.php/ICAPS/ICAPS11/paper/viewFile/2679/3175), Mansley C., Weinstein A., Littman M. (2011).
 * **`LGP`** [Logic-Geometric Programming: An Optimization-Based Approach to Combined Task and Motion Planning](https://ipvs.informatik.uni-stuttgart.de/mlr/papers/15-toussaint-IJCAI.pdf), Toussaint M. (2015). [🎞️](https://www.youtube.com/watch?v=B2s85xfo2uE)
@@ -68,7 +69,7 @@
 * **`TrailBlazer`** [Blazing the trails before beating the path: Sample-efficient Monte-Carlo planning](https://papers.nips.cc/paper/6253-blazing-the-trails-before-beating-the-path-sample-efficient-monte-carlo-planning.pdf), Grill J. B., Valko M., Munos R. (2017).
 * **`MCTSnets`** [Learning to search with MCTSnets](https://arxiv.org/abs/1802.04697), Guez A. et al. (2018).
 * **`ADI`** [Solving the Rubik's Cube Without Human Knowledge](https://arxiv.org/abs/1805.07470), McAleer S. et al. (2018).
-* **`OPC/SOPC`** [Continuous-action planning for discounted inﬁnite-horizon nonlinear optimal control with Lipschitz values](http://busoniu.net/files/papers/aut18.pdf), Busoniu L., Pall E., Munos R. (2018).
+* **`OPC/SOPC`** [Continuous-action planning for discounted inﬁnite-horizon nonlinear optimal control with Lipschitz values](http://busoniu.net/files/papers/aut18.pdf), Buşoniu L., Pall E., Munos R. (2018).
 
 ## Control Theory
 
