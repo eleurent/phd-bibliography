@@ -204,7 +204,6 @@
 ## Model-based :world_map:
 
 * **`Dyna`** [Integrated Architectures for Learning, Planning, and Reacting Based on Approximating Dynamic Programming](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.84.6983&rep=rep1&type=pdf), Sutton R. (1990).
-* **`UCRL2`** [Near-optimal Regret Bounds for Reinforcement Learning](http://www.jmlr.org/papers/volume11/jaksch10a/jaksch10a.pdf), Jaksch T. (2010).
 * **`PILCO`** [PILCO: A Model-Based and Data-Efficient Approach to Policy Search](http://mlg.eng.cam.ac.uk/pub/pdf/DeiRas11.pdf), Deisenroth M., Rasmussen C. (2011). ([talk](https://www.youtube.com/watch?v=f7y60SEZfXc))
 * **`DBN`** [Probabilistic MDP-behavior planning for cars](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6082928), Brechtel S. et al. (2011).
 * **`GPS`** [End-to-End Training of Deep Visuomotor Policies](https://arxiv.org/abs/1504.00702), Levine S. et al. (2015). [🎞️](https://www.youtube.com/watch?v=Q4bMcUk6pcw)
@@ -226,6 +225,7 @@
 
 ## Exploration :tent:
 
+* **`UCRL2`** [Near-optimal Regret Bounds for Reinforcement Learning](http://www.jmlr.org/papers/volume11/jaksch10a/jaksch10a.pdf), Jaksch T. (2010).
 * [Combating Reinforcement Learning's Sisyphean Curse with Intrinsic Fear](https://arxiv.org/abs/1611.01211), Lipton Z. et al. (2016).
 * **`HER`** [Hindsight Experience Replay](https://arxiv.org/abs/1707.01495), Andrychowicz M. et al. (2017). [🎞️](https://www.youtube.com/watch?v=Dz_HuzgMxzo)
 * **`VHER`** [Visual Hindsight Experience Replay](https://arxiv.org/abs/1901.11529), Sahni H. et al. (2019).
