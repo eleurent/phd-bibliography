@@ -49,6 +49,7 @@
 * (book) [Dynamic Programming](https://press.princeton.edu/titles/9234.html), Bellman R. (1957).
 * (book) [Dynamic Programming and Optimal Control, Volumes 1 and 2](http://web.mit.edu/dimitrib/www/dpchapter.html), Bertsekas D. (1995).
 * (book) [Markov Decision Processes - Discrete Stochastic Dynamic Programming](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118625870.html), Puterman M. (1995).
+* [An Upper Bound on the Loss from Approximate Optimal-Value Functions](https://www.cis.upenn.edu/~mkearns/teaching/cis620/papers/SinghYee.pdf), Singh S., Yee R. (1994).
 
 ## Approximate Planning
 
