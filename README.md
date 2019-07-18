@@ -218,7 +218,7 @@
 * **`DistGBP`** [Model-Based Planning with Discrete and Continuous Actions](https://arxiv.org/abs/1705.07177), Henaff M. et al. (2017). [🎞️ 1](https://www.youtube.com/watch?v=9Xh2TRQ_4nM) | [2](https://www.youtube.com/watch?v=XLdme0TTjiw)
 * [Prediction and Control with Temporal Segment Models](https://arxiv.org/abs/1703.04070), Mishra N. et al. (2017).
 * **`Predictron`** [The Predictron: End-To-End Learning and Planning](https://arxiv.org/abs/1612.08810), Silver D. et al. (2017). [🎞️](https://www.youtube.com/watch?v=BeaLdaN2C3Q)
-* **`MPPI`** [Information Theoretic MPC for Model-Based Reinforcement Learning](https://ieeexplore.ieee.org/document/7989202/), Williams G. et al. (2017). [🎞️](https://www.youtube.com/watch?v=f2at-cqaJMM)
+* **`MPPI`** [Information Theoretic MPC for Model-Based Reinforcement Learning](https://ieeexplore.ieee.org/document/7989202/), Williams G. et al. (2017). [:octocat:](https://github.com/ferreirafabio/mppi_pendulum) [🎞️](https://www.youtube.com/watch?v=f2at-cqaJMM)
 * [Learning Real-World Robot Policies by Dreaming](https://arxiv.org/abs/1805.07813), Piergiovanni A. et al. (2018).
 * [Coupled Longitudinal and Lateral Control of a Vehicle using Deep Learning](https://arxiv.org/abs/1810.09365), Devineau G., Polack P., Alchté F., Moutarde F. (2018) [🎞️](https://www.youtube.com/watch?v=yyWy1uavlXs)
 * **`PlaNet`** [Learning Latent Dynamics for Planning from Pixels](https://planetrl.github.io/), Hafner et al. (2018).  [🎞️](https://www.youtube.com/watch?v=tZk1eof_VNA)
