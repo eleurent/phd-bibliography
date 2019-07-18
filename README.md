@@ -78,7 +78,7 @@
 * (book) [Constrained Control and Estimation](http://www.springer.com/gp/book/9781852335489),  Goodwin G. (2005).
 * **`PI²`** [A Generalized Path Integral Control Approach to Reinforcement Learning](http://www.jmlr.org/papers/volume11/theodorou10a/theodorou10a.pdf), Theodorou E. et al. (2010).
 * **`PI²-CMA`** [Path Integral Policy Improvement with Covariance Matrix Adaptation](https://arxiv.org/abs/1206.4621), Stulp F., Sigaud O. (2010).
-* **`iLQG`** [A generalized iterative LQG method for locally-optimal feedback control of constrained nonlinear stochastic systems](http://maeresearch.ucsd.edu/skelton/publications/weiwei_ilqg_CDC43.pdf), Todorov E. (2005).
+* **`iLQG`** [A generalized iterative LQG method for locally-optimal feedback control of constrained nonlinear stochastic systems](http://maeresearch.ucsd.edu/skelton/publications/weiwei_ilqg_CDC43.pdf), Todorov E. (2005). [:octocat:](https://github.com/neka-nat/ilqr-gym)
 * **`iLQG+`** [Synthesis and stabilization of complex behaviors through online trajectory optimization](https://homes.cs.washington.edu/~todorov/papers/TassaIROS12.pdf), Tassa Y. (2012).
 
 ## Model Predictive Control
