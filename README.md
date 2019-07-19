@@ -209,6 +209,7 @@
 * **`GPS`** [End-to-End Training of Deep Visuomotor Policies](https://arxiv.org/abs/1504.00702), Levine S. et al. (2015). [🎞️](https://www.youtube.com/watch?v=Q4bMcUk6pcw)
 * **`DeepMPC`** [DeepMPC: Learning Deep Latent Features for Model Predictive Control](https://www.cs.stanford.edu/people/asaxena/papers/deepmpc_rss2015.pdf), Lenz I. et al. (2015). [🎞️](https://www.youtube.com/watch?v=BwA90MmkvPU)
 * **`SVG`** [Learning Continuous Control Policies by Stochastic Value Gradients](https://arxiv.org/abs/1510.09142), Heess N. et al. (2015). [🎞️](https://www.youtube.com/watch?v=PYdL7bcn_cM)
+* **`FARNN`** [Nonlinear Systems Identification Using Deep Dynamic Neural Networks](https://arxiv.org/abs/1610.01439), Ogunmolu O. et al. (2016). [:octocat:](https://github.com/lakehanne/FARNN)
 * [Optimal control with learned local models: Application to dexterous manipulation](https://homes.cs.washington.edu/~todorov/papers/KumarICRA16.pdf), Kumar V. et al. (2016). [🎞️](https://www.youtube.com/watch?v=bD5z1I1TU3w)
 * **`BPTT`** [Long-term Planning by Short-term Prediction](https://arxiv.org/abs/1602.01580), Shalev-Shwartz S. et al. (2016). [🎞️ 1](https://www.youtube.com/watch?v=Nqmv1anUaF4) | [2](https://www.youtube.com/watch?v=UgGZ9lMvey8)
 * [Deep visual foresight for planning robot motion](https://arxiv.org/abs/1610.00696), Finn C., Levine S. (2016). [🎞️](https://www.youtube.com/watch?v=6k7GHG4IUCY)
