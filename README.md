@@ -256,6 +256,7 @@
 * [Solving Continuous POMDPs: Value Iteration with Incremental Learning of an Efficient Space Representation](http://proceedings.mlr.press/v28/brechtel13.pdf), Brechtel S. et al. (2013).
 * [Probabilistic Decision-Making under Uncertainty for Autonomous Driving using Continuous POMDPs](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6957722), Brechtel S. et al. (2014).
 * **`MOMDP`** [Intention-Aware Motion Planning](http://ares.lids.mit.edu/fm/documents/intentionawaremotionplanning.pdf), Bandyopadhyay T. et al. (2013).
+* **`DNC`** [Hybrid computing using a neural network with dynamic external memory](https://www.nature.com/articles/nature20101), Graves A. et al (2016). [🎞️](https://www.youtube.com/watch?v=B9U8sI7TcMY)
 * [The value of inferring the internal state of traffic participants for autonomous freeway driving](https://arxiv.org/abs/1702.00858), Sunberg Z. et al. (2017).
 * [Belief State Planning for Autonomously Navigating Urban Intersections](https://arxiv.org/abs/1704.04322), Bouton M., Cosgun A., Kochenderfer M. (2017).
 * [Probabilistic Decision-Making at Road Intersections: Formulation and Quantitative Evaluation](https://hal.inria.fr/hal-01940392), Barbier M., Laugier C., Simonin O., Ibanez J. (2018).
