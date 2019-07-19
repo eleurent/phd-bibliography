@@ -257,6 +257,7 @@
 * [The value of inferring the internal state of traffic participants for autonomous freeway driving](https://arxiv.org/abs/1702.00858), Sunberg Z. et al. (2017).
 * [Belief State Planning for Autonomously Navigating Urban Intersections](https://arxiv.org/abs/1704.04322), Bouton M., Cosgun A., Kochenderfer M. (2017).
 * [Probabilistic Decision-Making at Road Intersections: Formulation and Quantitative Evaluation](https://hal.inria.fr/hal-01940392), Barbier M., Laugier C., Simonin O., Ibanez J. (2018).
+* [Beauty and the Beast: Optimal Methods Meet Learning for Drone Racing](https://arxiv.org/abs/1810.06224), Kaufmann E. et al. (2018). [🎞️](https://www.youtube.com/watch?v=UuQvijZcUSc)
 
 ## Transfer :earth_americas:
 
