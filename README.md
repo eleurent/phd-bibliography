@@ -247,6 +247,7 @@
 * **`DeepLoco`** [DeepLoco: Dynamic Locomotion Skills Using Hierarchical Deep Reinforcement Learning ](https://www.cs.ubc.ca/~van/papers/2017-TOG-deepLoco/), Peng X. et al. (2017). [🎞️](https://www.youtube.com/watch?v=hd1yvLWm6oA) | [🎞️](https://www.youtube.com/watch?v=x-HrYko_MRU)
 * [Hierarchical Policy Design for Sample-Efficient Learning of Robot Table Tennis Through Self-Play](https://arxiv.org/abs/1811.12927), Mahjourian R. et al (2018). [🎞️](https://sites.google.com/view/
 * **`DAC`** [DAC: The Double Actor-Critic Architecture for Learning Options](https://arxiv.org/abs/1904.12691), Zhang S., Whiteson S. (2019). 
+* [Multi-Agent Manipulation via Locomotion using Hierarchical Sim2Real](https://arxiv.org/abs/1908.05224), Nachum O. et al (2019). [🎞️](https://sites.google.com/view/manipulation-via-locomotion)
 
 ## Partial Observability :eye:
 
