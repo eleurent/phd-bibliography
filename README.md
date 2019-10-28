@@ -141,18 +141,23 @@
 * **`TS`** [On the Likelihood that One Unknown Probability Exceeds Another in View of the Evidence of Two Samples](https://www.jstor.org/stable/pdf/2332286.pdf), Thompson W. (1933).
 * [Exploration and Exploitation in Organizational Learning](https://www3.nd.edu/~ggoertz/abmir/march1991.pdf), March J. (1991).
 * **`UCB1 / UCB2`** [Finite-time Analysis of the Multiarmed Bandit Problem](https://homes.di.unimi.it/~cesabian/Pubblicazioni/ml-02.pdf), Auer P., Cesa-Bianchi N., Fischer P. (2002).
-* **`Successive Elimination`** [Action Elimination and Stopping Conditions for the Multi-Armed Bandit and Reinforcement Learning Problems](http://jmlr.csail.mit.edu/papers/volume7/evendar06a/evendar06a.pdf), Even-Dar E. et al. (2006).
 * **`Empirical Bernstein / UCB-V`** [Exploration-exploitation tradeoff using variance estimates in multi-armed bandits](https://hal.inria.fr/hal-00711069/),  Audibert J-Y, Munos R., Szepesvari C. (2009).
 * [Empirical Bernstein Bounds and Sample Variance Penalization](https://arxiv.org/abs/0907.3740), Maurer A., Ponti M. (2009).
 * [An Empirical Evaluation of Thompson Sampling](https://papers.nips.cc/paper/4321-an-empirical-evaluation-of-thompson-sampling), Chapelle O., Li L. (2011).
 * **`kl-UCB`** [The KL-UCB Algorithm for Bounded Stochastic Bandits and Beyond](https://arxiv.org/abs/1102.2490), Garivier A., Cappé O. (2011).
 * **`KL-UCB`** [Kullback-Leibler Upper Confidence Bounds for Optimal Sequential Allocation](https://projecteuclid.org/euclid.aos/1375362558), Cappé O. et al. (2013).
+
+### Best Arm Identification :strong:
+
+* **`Successive Elimination`** [Action Elimination and Stopping Conditions for the Multi-Armed Bandit and Reinforcement Learning Problems](http://jmlr.csail.mit.edu/papers/volume7/evendar06a/evendar06a.pdf), Even-Dar E. et al. (2006).
 * **`LUCB`** [PAC Subset Selection in Stochastic Multi-armed Bandits](https://www.cse.iitb.ac.in/~shivaram/papers/ktas_icml_2012.pdf), Kalyanakrishnan S. et al. (2012).
-* **`Track-and-Stop`** [Optimal Best Arm Identification with Fixed Confidence](https://arxiv.org/abs/1602.04589), Garivier A., Kaufmann E. (2016).
+* **`Sequential Halving`** [Almost Optimal Exploration in Multi-Armed Bandits](http://proceedings.mlr.press/v28/karnin13.pdf), Karnin Z. et al (2013).
 * **`M-LUCB / M-Racing`** [Maximin Action Identification: A New Bandit Framework for Games](https://arxiv.org/abs/1602.04676), Garivier A., Kaufmann E., Koolen W. (2016).
+* **`Track-and-Stop`** [Optimal Best Arm Identification with Fixed Confidence](https://arxiv.org/abs/1602.04589), Garivier A., Kaufmann E. (2016).
 * **`LUCB-micro`** [Structured Best Arm Identification with Fixed Confidence](https://arxiv.org/abs/1706.05198), Huang R. et al. (2017).
 
 ### Black-box Optimization :black_large_square:
+
 * **`GP-UCB`** [Gaussian Process Optimization in the Bandit Setting: No Regret and Experimental Design](https://arxiv.org/abs/0912.3995), Srinivas N., Krause A., Kakade S., Seeger M. (2009).
 * **`DOO/SOO`** [Optimistic Optimization of a Deterministic Function without the Knowledge of its Smoothness](https://papers.nips.cc/paper/4304-optimistic-optimization-of-a-deterministic-function-without-the-knowledge-of-its-smoothness), Munos R. (2011).
 * **`StoOO`** [From Bandits to Monte-Carlo Tree Search: The Optimistic Principle Applied to Optimization and Planning](https://hal.archives-ouvertes.fr/hal-00747575v4/), Munos R. (2014).
