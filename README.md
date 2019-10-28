@@ -14,6 +14,7 @@
   * [Uncertain Dynamical Systems](#uncertain-dynamical-systems)
 * [Sequential Learning](#sequential-learning-shoe)
   * [Multi-Armed Bandit](#multi-armed-bandit-slot_machine)
+    * [Best Arm Identification](#best-arm-identification-muscle)
     * [Black-box Optimization](#black-box-optimization-black_large_square)
   * [Reinforcement Learning](#reinforcement-learning-robot)
     * [Value-based](#value-based-chart_with_upwards_trend)
@@ -147,10 +148,11 @@
 * **`kl-UCB`** [The KL-UCB Algorithm for Bounded Stochastic Bandits and Beyond](https://arxiv.org/abs/1102.2490), Garivier A., Cappé O. (2011).
 * **`KL-UCB`** [Kullback-Leibler Upper Confidence Bounds for Optimal Sequential Allocation](https://projecteuclid.org/euclid.aos/1375362558), Cappé O. et al. (2013).
 
-### Best Arm Identification :strong:
+### Best Arm Identification :muscle:
 
 * **`Successive Elimination`** [Action Elimination and Stopping Conditions for the Multi-Armed Bandit and Reinforcement Learning Problems](http://jmlr.csail.mit.edu/papers/volume7/evendar06a/evendar06a.pdf), Even-Dar E. et al. (2006).
 * **`LUCB`** [PAC Subset Selection in Stochastic Multi-armed Bandits](https://www.cse.iitb.ac.in/~shivaram/papers/ktas_icml_2012.pdf), Kalyanakrishnan S. et al. (2012).
+* **`UGapE`** [Best Arm Identification: A Unified Approach to Fixed Budget and Fixed Confidence](https://hal.archives-ouvertes.fr/hal-00747005), Gabillon V., Ghavamzadeh M., Lazaric A. (2012).
 * **`Sequential Halving`** [Almost Optimal Exploration in Multi-Armed Bandits](http://proceedings.mlr.press/v28/karnin13.pdf), Karnin Z. et al (2013).
 * **`M-LUCB / M-Racing`** [Maximin Action Identification: A New Bandit Framework for Games](https://arxiv.org/abs/1602.04676), Garivier A., Kaufmann E., Koolen W. (2016).
 * **`Track-and-Stop`** [Optimal Best Arm Identification with Fixed Confidence](https://arxiv.org/abs/1602.04589), Garivier A., Kaufmann E. (2016).
