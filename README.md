@@ -73,6 +73,7 @@
 * **`MCTSnets`** [Learning to search with MCTSnets](https://arxiv.org/abs/1802.04697), Guez A. et al. (2018).
 * **`ADI`** [Solving the Rubik's Cube Without Human Knowledge](https://arxiv.org/abs/1805.07470), McAleer S. et al. (2018).
 * **`OPC/SOPC`** [Continuous-action planning for discounted inﬁnite-horizon nonlinear optimal control with Lipschitz values](http://busoniu.net/files/papers/aut18.pdf), Buşoniu L., Pall E., Munos R. (2018).
+* [Real-time tree search with pessimistic scenarios: Winning the NeurIPS 2018 Pommerman Competition](http://proceedings.mlr.press/v101/osogami19a.html), Osogami T., Takahashi T. (2019)
 
 ## Control Theory
 
