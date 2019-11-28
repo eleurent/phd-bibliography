@@ -237,6 +237,7 @@
 * **`PlaNet`** [Learning Latent Dynamics for Planning from Pixels](https://planetrl.github.io/), Hafner et al. (2018).  [🎞️](https://www.youtube.com/watch?v=tZk1eof_VNA)
 * **`NeuralLander`** [Neural Lander: Stable Drone Landing Control using Learned Dynamics](https://arxiv.org/abs/1811.08027), Shi G. et al. (2018). [🎞️](https://www.youtube.com/watch?v=FLLsG0S78ik)
 * **`DBN+POMCP`** [Towards Human-Like Prediction and Decision-Making for Automated Vehicles in Highway Scenarios ](https://tel.archives-ouvertes.fr/tel-02184362), Sierra Gonzalez D. (2019).
+* [Planning with Goal-Conditioned Policies](https://sites.google.com/view/goal-planning), Nasiriany S. et al. (2019). [🎞️](https://sites.google.com/view/goal-planning#h.p_0m-H0QfKVj4n)
 
 ## Exploration :tent:
 
