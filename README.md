@@ -148,6 +148,7 @@
 * [An Empirical Evaluation of Thompson Sampling](https://papers.nips.cc/paper/4321-an-empirical-evaluation-of-thompson-sampling), Chapelle O., Li L. (2011).
 * **`kl-UCB`** [The KL-UCB Algorithm for Bounded Stochastic Bandits and Beyond](https://arxiv.org/abs/1102.2490), Garivier A., Cappé O. (2011).
 * **`KL-UCB`** [Kullback-Leibler Upper Confidence Bounds for Optimal Sequential Allocation](https://projecteuclid.org/euclid.aos/1375362558), Cappé O. et al. (2013).
+* **`OFUL`** [Improved Algorithms for Linear Stochastic Bandits](https://papers.nips.cc/paper/4417-improved-algorithms-for-linear-stochastic-bandits), Abbasi-yadkori Y., Pal D., Szepesvári C. (2011).
 
 ### Best Arm Identification :muscle:
 
