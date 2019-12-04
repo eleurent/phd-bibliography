@@ -150,6 +150,7 @@
 * **`KL-UCB`** [Kullback-Leibler Upper Confidence Bounds for Optimal Sequential Allocation](https://projecteuclid.org/euclid.aos/1375362558), Cappé O. et al. (2013).
 * **`OFUL`** [Improved Algorithms for Linear Stochastic Bandits](https://papers.nips.cc/paper/4417-improved-algorithms-for-linear-stochastic-bandits), Abbasi-yadkori Y., Pal D., Szepesvári C. (2011).
 * **`IDS`** [Information Directed Sampling and Bandits with Heteroscedastic Noise](https://arxiv.org/abs/1801.09667) Kirschner J., Krause A. (2018).
+* [Self-normalization techniques for streaming confident regression](https://hal.archives-ouvertes.fr/hal-01349727v2), Maillard O.-A. (2017).
 
 ### Best Arm Identification :muscle:
 
