@@ -252,6 +252,7 @@
 * **`VHER`** [Visual Hindsight Experience Replay](https://arxiv.org/abs/1901.11529), Sahni H. et al. (2019).
 * **`RND`** [Exploration by Random Network Distillation](https://arxiv.org/abs/1810.12894), Burda Y. et al. (OpenAI) (2018).  [🎞️](https://openai.com/blog/reinforcement-learning-with-prediction-based-rewards/)
 * **`Go-Explore`** [Go-Explore: a New Approach for Hard-Exploration Problems](https://arxiv.org/abs/1901.10995), Ecoffet A. et al. (Uber) (2018). [🎞️](https://www.youtube.com/watch?v=gnGyUPd_4Eo)
+* **`C51-IDS`** [Information-Directed Exploration for Deep Reinforcement Learning](https://arxiv.org/abs/1812.07544), Nikolov N., Kirschner J., Berkenkamp F., Krause A. (2019). [:octocat:](https://github.com/nikonikolov/rltf)
 
 ## Hierarchy and Temporal Abstraction :clock2:
 
