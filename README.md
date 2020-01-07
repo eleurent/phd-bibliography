@@ -246,6 +246,7 @@
 ## Exploration :tent:
 
 * **`UCRL2`** [Near-optimal Regret Bounds for Reinforcement Learning](http://www.jmlr.org/papers/volume11/jaksch10a/jaksch10a.pdf), Jaksch T. (2010).
+* **`LQ-OFU`** [Regret Bounds for the Adaptive Control of Linear Quadratic Systems](http://proceedings.mlr.press/v19/abbasi-yadkori11a/abbasi-yadkori11a.pdf), Abbasi-Yadkori Y., Szepesvari C. (2011).
 * [Combating Reinforcement Learning's Sisyphean Curse with Intrinsic Fear](https://arxiv.org/abs/1611.01211), Lipton Z. et al. (2016).
 * **`Pseudo-count`** [Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/abs/1606.01868), Bellemare M. et al (2016). [🎞️](https://www.youtube.com/watch?v=0yI2wJ6F8r0) 
 * **`HER`** [Hindsight Experience Replay](https://arxiv.org/abs/1707.01495), Andrychowicz M. et al. (2017). [🎞️](https://www.youtube.com/watch?v=Dz_HuzgMxzo)
