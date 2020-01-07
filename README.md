@@ -103,6 +103,8 @@
 * [Robust Markov Decision Processes](https://pubsonline.informs.org/doi/pdf/10.1287/moor.1120.0566), Wiesemann W., Kuhn D., Rustem B. (2012).
 * [Safe and Robust Learning Control with Gaussian Processes](http://www.dynsyslab.org/wp-content/papercite-data/pdf/berkenkamp-ecc15.pdf), Berkenkamp F., Schoellig A. (2015). [🎞️](https://www.youtube.com/watch?v=YqhLnCm0KXY)
 * **`Coarse-Id`** [On the Sample Complexity of the Linear Quadratic Regulator](https://arxiv.org/abs/1710.01688), Dean S., Mania H., Matni N., Recht B., Tu S. (2017).
+* [Regret Bounds for Robust Adaptive Control of the Linear Quadratic Regulator](http://papers.nips.cc/paper/7673-regret-bounds-for-robust-adaptive-control-of-the-linear-quadratic-regulator), Dean S. et al (2018).
+* [Safely Learning to Control the Constrained Linear Quadratic Regulator](https://ieeexplore.ieee.org/abstract/document/8814865), Dean S. et al (2019).
 * **`Tube-MPPI`** [Robust Sampling Based Model Predictive Control with Sparse Objective Information](http://www.roboticsproceedings.org/rss14/p42.pdf), Williams G. et al. (2018). [🎞️](https://www.youtube.com/watch?v=32v-e3dptjo)
 
 ## Risk-Averse Control
