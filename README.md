@@ -4,7 +4,7 @@
 
 * [Optimal Control](#optimal-control-dart)
   * [Dynamic Programming](#dynamic-programming)
-  * [Approximate Planning](#approximate-planning)
+  * [Tree-Based Planning](#tree-based-planning)
   * [Control Theory](#control-theory)
   * [Model Predictive Control](#model-predictive-control)
 * [Safe Control](#safe-control-lock)
