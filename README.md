@@ -52,7 +52,7 @@
 * (book) [Markov Decision Processes - Discrete Stochastic Dynamic Programming](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118625870.html), Puterman M. (1995).
 * [An Upper Bound on the Loss from Approximate Optimal-Value Functions](https://www.cis.upenn.edu/~mkearns/teaching/cis620/papers/SinghYee.pdf), Singh S., Yee R. (1994).
 
-## Approximate Planning
+## Tree-Based Planning
 
 * **`ExpectiMinimax`** [Optimal strategy in games with chance nodes](http://www.inf.u-szeged.hu/actacybernetica/edb/vol18n2/pdf/Melko_2007_ActaCybernetica.pdf), Melkó E., Nagy B. (2007).
 * **`Sparse sampling`** [A sparse sampling algorithm for near-optimal planning in large Markov decision processes](https://www.cis.upenn.edu/~mkearns/papers/sparsesampling-journal.pdf), Kearns M. et al. (2002).
@@ -65,6 +65,7 @@
 * **`OPSS`** [Optimistic planning for sparsely stochastic systems](https://www.dcsc.tudelft.nl/~bdeschutter/pub/rep/11_007.pdf), L. Buşoniu, R. Munos, B. De Schutter, and R. Babuska (2011).
 * **`HOOT`** [Sample-Based Planning for Continuous ActionMarkov Decision Processes](https://www.aaai.org/ocs/index.php/ICAPS/ICAPS11/paper/viewFile/2679/3175), Mansley C., Weinstein A., Littman M. (2011).
 * **`HOLOP`** [Bandit-Based Planning and Learning inContinuous-Action Markov Decision Processes](https://pdfs.semanticscholar.org/a445/d8cc503781c481c3f3c4ee1758b862b3e869.pdf), Weinstein A., Littman M. (2012).
+* **`BRUE`** [Simple Regret Optimization in Online Planning for Markov Decision Processes](https://www.jair.org/index.php/jair/article/view/10905/26003), Feldman Z. and Domshlak C. (2014).
 * **`LGP`** [Logic-Geometric Programming: An Optimization-Based Approach to Combined Task and Motion Planning](https://ipvs.informatik.uni-stuttgart.de/mlr/papers/15-toussaint-IJCAI.pdf), Toussaint M. (2015). [🎞️](https://www.youtube.com/watch?v=B2s85xfo2uE)
 * **`AlphaGo`** [Mastering the game of Go with deep neural networks and tree search](https://www.nature.com/articles/nature16961), Silver D. et al. (2016).
 * **`AlphaGo Zero`** [Mastering the game of Go without human knowledge](https://www.nature.com/articles/nature24270), Silver D. et al. (2017).
