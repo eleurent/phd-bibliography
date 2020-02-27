@@ -51,6 +51,7 @@
 * (book) [Dynamic Programming and Optimal Control, Volumes 1 and 2](http://web.mit.edu/dimitrib/www/dpchapter.html), Bertsekas D. (1995).
 * (book) [Markov Decision Processes - Discrete Stochastic Dynamic Programming](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118625870.html), Puterman M. (1995).
 * [An Upper Bound on the Loss from Approximate Optimal-Value Functions](https://www.cis.upenn.edu/~mkearns/teaching/cis620/papers/SinghYee.pdf), Singh S., Yee R. (1994).
+* [Stochastic optimization of sailing trajectories in an upwind regatta](https://link.springer.com/article/10.1057%2Fjors.2014.40), Dalang R. et al. (2015).
 
 ## Tree-Based Planning
 
