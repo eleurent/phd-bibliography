@@ -129,6 +129,7 @@
 * [Safe Reinforcement Learning with Scene Decomposition for Navigating Complex Urban Environments](https://arxiv.org/abs/1904.11483v1), Bouton M. et al. (2019).
 * [Batch Policy Learning under Constraints](https://arxiv.org/abs/1903.08738), Le H., Voloshin C., Yue Y. (2019).
 * [Safely Learning to Control the Constrained Linear Quadratic Regulator](https://ieeexplore.ieee.org/abstract/document/8814865), Dean S. et al (2019).
+* [Learning to Walk in the Real World with Minimal Human Effort](https://arxiv.org/abs/2002.08550), Ha S. et al. (2020) [🎞️](https://youtu.be/cwyiq6dCgOc)
 
 ## Uncertain Dynamical Systems
 
