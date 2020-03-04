@@ -126,7 +126,7 @@
 * **`BFTQ`** [A Fitted-Q Algorithm for Budgeted MDPs](https://hal.archives-ouvertes.fr/hal-01867353), Carrara N. et al. (2018).
 * **`MPC-HJI`** [On Infusing Reachability-Based Safety Assurance within Probabilistic Planning Frameworks for Human-Robot Vehicle Interactions](https://stanfordasl.github.io/wp-content/papercite-data/pdf/Leung.Schmerling.Chen.ea.ISER18.pdf), Leung K. et al. (2018).
 * **`LTL-RL`** [Reinforcement Learning with Probabilistic Guarantees for Autonomous Driving](https://arxiv.org/abs/1904.07189), Bouton M. et al. (2019).
-* [Safe Reinforcement Learning with Scene Decomposition for Navigating Complex Urban Environments](https://arxiv.org/abs/1904.11483v1), Bouton M. et al. (2019).
+* [Safe Reinforcement Learning with Scene Decomposition for Navigating Complex Urban Environments](https://arxiv.org/abs/1904.11483v1), Bouton M. et al. (2019). [:octocat:](https://github.com/sisl/AutomotivePOMDPs.jl)
 * [Batch Policy Learning under Constraints](https://arxiv.org/abs/1903.08738), Le H., Voloshin C., Yue Y. (2019).
 * [Safely Learning to Control the Constrained Linear Quadratic Regulator](https://ieeexplore.ieee.org/abstract/document/8814865), Dean S. et al (2019).
 * [Learning to Walk in the Real World with Minimal Human Effort](https://arxiv.org/abs/2002.08550), Ha S. et al. (2020) [🎞️](https://youtu.be/cwyiq6dCgOc)
