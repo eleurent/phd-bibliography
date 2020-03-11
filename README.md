@@ -318,6 +318,7 @@
 * [Cooperative Motion Planning for Non-Holonomic Agents with Value Iteration Networks](https://arxiv.org/abs/1709.05273), Rehder E. et al. (2017).
 * **`MPPO`** [Towards Optimally Decentralized Multi-Robot Collision Avoidance via Deep Reinforcement Learning](https://arxiv.org/abs/1709.10082), Long P. et al. (2017). [🎞️](https://sites.google.com/view/drlmaca)
 * **`COMA`** [Counterfactual Multi-Agent Policy Gradients](https://arxiv.org/abs/1709.05273), Foerster J. et al. (2017).
+* **`MADDPG`** [Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments](https://arxiv.org/abs/1706.02275), Lowe R. et al (2017). [:octocat:](https://github.com/openai/maddpg) 
 * **`FTW`** [Human-level performance in first-person multiplayer games with population-based deep reinforcement learning](https://arxiv.org/abs/1807.01281), Jaderberg M. et al. (2018). [🎞️](https://www.youtube.com/watch?v=dltN4MxV1RI)
 
 ## Representation Learning
