@@ -304,6 +304,7 @@
 * [Learning agile and dynamic motor skills for legged robots](https://robotics.sciencemag.org/content/4/26/eaau5872), Hwangbo J. et al. (ETH Zurich / Intel ISL) (2019). [🎞️](https://www.youtube.com/watch?v=ITfBKjBH46E)
 * [Robust Recovery Controller for a Quadrupedal Robot using Deep Reinforcement Learning](https://arxiv.org/abs/1901.07517), Lee J., Hwangbo J., Hutter M. (ETH Zurich RSL) (2019)
 * **`IT&E`** [Learning and adapting quadruped gaits with the "Intelligent Trial & Error" algorithm](https://hal.inria.fr/hal-02084619), Dalin E., Desreumaux P., Mouret J-B. (2019). [🎞️](https://www.youtube.com/watch?v=v90CWJ_HsnM)
+* **`FAMLE`** [Fast Online Adaptation in Robotics through Meta-Learning Embeddings of Simulated Priors](https://arxiv.org/abs/2003.04663), Kaushik R., Anne T., Mouret J-B. (2020). [🎞️](https://www.youtube.com/watch?v=QIY1Sm7wHhE)
 
 ## Multi-agent :two_men_holding_hands:
 
