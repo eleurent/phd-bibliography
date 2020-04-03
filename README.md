@@ -247,6 +247,7 @@
 * **`DBN+POMCP`** [Towards Human-Like Prediction and Decision-Making for Automated Vehicles in Highway Scenarios ](https://tel.archives-ouvertes.fr/tel-02184362), Sierra Gonzalez D. (2019).
 * [Planning with Goal-Conditioned Policies](https://sites.google.com/view/goal-planning), Nasiriany S. et al. (2019). [🎞️](https://sites.google.com/view/goal-planning#h.p_0m-H0QfKVj4n)
 * [Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model](https://arxiv.org/abs/1911.08265), Schrittwiese J. et al. (2019).
+* **`BADGR`** [BADGR: An Autonomous Self-Supervised Learning-Based Navigation System](https://sites.google.com/view/badgr), Kahn G., Abbeel P., Levine S. (2020). [🎞️](https://www.youtube.com/watch?v=EMV0zEXbcc4) [:octocat:](https://github.com/gkahn13/badgr)
 
 ## Exploration :tent:
 
