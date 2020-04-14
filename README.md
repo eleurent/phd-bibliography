@@ -121,6 +121,7 @@
 * **`SafeMDP`** [Safe Exploration in Finite Markov Decision Processes with Gaussian Processes](https://arxiv.org/abs/1606.04753), Turchetta M., Berkenkamp F., Krause A. (2016). [:octocat:](https://github.com/befelix/SafeMDP)
 * **`RSS`** [On a Formal Model of Safe and Scalable Self-driving Cars](https://arxiv.org/abs/1708.06374), Shalev-Shwartz S. et al. (2017).
 * **`HJI-reachability`** [Safe learning for control: Combining disturbance estimation, reachability analysis and reinforcement learning with systematic exploration](http://kth.diva-portal.org/smash/get/diva2:1140173/FULLTEXT01.pdf), Heidenreich C. (2017).
+* [A General Safety Framework for Learning-Based Control in Uncertain Robotic Systems](https://arxiv.org/abs/1705.01292), Fisac J. et al (2017). [🎞️](https://www.youtube.com/watch?v=WAAxyeSk2bw&feature=youtu.be)
 * **`CPO`** [Constrained Policy Optimization](https://arxiv.org/abs/1705.10528), Achiam J., Held D., Tamar A., Abbeel P. (2017). [:octocat:](https://github.com/jachiam/cpo)
 * **`RCPO`** [Reward Constrained Policy Optimization](https://arxiv.org/abs/1805.11074), Tessler C., Mankowitz D., Mannor S. (2018).
 * **`BFTQ`** [A Fitted-Q Algorithm for Budgeted MDPs](https://hal.archives-ouvertes.fr/hal-01867353), Carrara N. et al. (2018).
