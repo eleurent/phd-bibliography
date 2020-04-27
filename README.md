@@ -365,6 +365,7 @@
 * **`DeepMimic`** [DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills](https://xbpeng.github.io/projects/DeepMimic/index.html), Peng X. B. et al. (2018). [🎞️](https://www.youtube.com/watch?v=vppFvq2quQ0&feature=youtu.be)
 * **`R2P2`** [Deep Imitative Models for Flexible Inference, Planning, and Control](https://arxiv.org/abs/1810.06544), Rhinehart N. et al. (2018). [🎞️](https://sites.google.com/view/imitativeforecastingcontrol)
 * [Learning Agile Robotic Locomotion Skills by Imitating Animals](https://xbpeng.github.io/projects/Robotic_Imitation/index.html), Bin Peng X. et al (2020). [🎞️](https://www.youtube.com/watch?v=lKYh6uuCwRY)
+* [Deep Imitative Models for Flexible Inference, Planning, and Control](https://openreview.net/pdf?id=Skl4mRNYDr), Rhinehart N., McAllister R., Levine S. (2020). 
 
 ### Applications to Autonomous Driving :car:
 
