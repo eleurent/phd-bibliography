@@ -17,6 +17,7 @@
     * [Best Arm Identification](#best-arm-identification-muscle)
     * [Black-box Optimization](#black-box-optimization-black_large_square)
   * [Reinforcement Learning](#reinforcement-learning-robot)
+    * [Theory](#theory-books)
     * [Value-based](#value-based-chart_with_upwards_trend)
     * [Policy-based](#policy-based-muscle)
       * [Policy Gradient](#policy-gradient)
@@ -186,6 +187,14 @@
 
 * [Reinforcement learning: A survey](https://www.jair.org/media/301/live-301-1562-jair.pdf), Kaelbling L. et al. (1996).
 
+## Theory :books:
+
+* **`UCRL2`** [Near-optimal Regret Bounds for Reinforcement Learning](http://www.jmlr.org/papers/volume11/jaksch10a/jaksch10a.pdf), Jaksch T. (2010).
+* **`OFU-LQ`** [Regret Bounds for the Adaptive Control of Linear Quadratic Systems](http://proceedings.mlr.press/v19/abbasi-yadkori11a/abbasi-yadkori11a.pdf), Abbasi-Yadkori Y., Szepesvari C. (2011).
+* [Exploration-Exploitation with Thompson Sampling in Linear Systems](https://tel.archives-ouvertes.fr/tel-01816069/), Abeille M. (2017). (phd thesis)
+* **`TS-LQ`** [Improved Regret Bounds for Thompson Sampling in Linear Quadratic Control Problems](http://proceedings.mlr.press/v80/abeille18a.html), Abeille M., Lazaric A. (2018).
+
+
 ## Value-based :chart_with_upwards_trend:
 
 * **`NFQ`** [Neural fitted Q iteration - First experiences with a data efficient neural Reinforcement Learning method](http://ml.informatik.uni-freiburg.de/former/_media/publications/rieecml05.pdf), Riedmiller M. (2005).
@@ -254,10 +263,6 @@
 
 ## Exploration :tent:
 
-* **`UCRL2`** [Near-optimal Regret Bounds for Reinforcement Learning](http://www.jmlr.org/papers/volume11/jaksch10a/jaksch10a.pdf), Jaksch T. (2010).
-* **`OFU-LQ`** [Regret Bounds for the Adaptive Control of Linear Quadratic Systems](http://proceedings.mlr.press/v19/abbasi-yadkori11a/abbasi-yadkori11a.pdf), Abbasi-Yadkori Y., Szepesvari C. (2011).
-* [Exploration-Exploitation with Thompson Sampling in Linear Systems](https://tel.archives-ouvertes.fr/tel-01816069/), Abeille M. (2017). (phd thesis)
-* **`TS-LQ`** [Improved Regret Bounds for Thompson Sampling in Linear Quadratic Control Problems](http://proceedings.mlr.press/v80/abeille18a.html), Abeille M., Lazaric A. (2018).
 * [Combating Reinforcement Learning's Sisyphean Curse with Intrinsic Fear](https://arxiv.org/abs/1611.01211), Lipton Z. et al. (2016).
 * **`Pseudo-count`** [Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/abs/1606.01868), Bellemare M. et al (2016). [🎞️](https://www.youtube.com/watch?v=0yI2wJ6F8r0) 
 * **`HER`** [Hindsight Experience Replay](https://arxiv.org/abs/1707.01495), Andrychowicz M. et al. (2017). [🎞️](https://www.youtube.com/watch?v=Dz_HuzgMxzo)
