@@ -186,14 +186,20 @@
 
 ## Theory :books:
 
-### Episodic
+
 * **`UCRL2`** [Near-optimal Regret Bounds for Reinforcement Learning](http://www.jmlr.org/papers/volume11/jaksch10a/jaksch10a.pdf), Jaksch T. (2010).
+* **`Q-Learning`** [Is Q-Learning Provably Efficient?](https://papers.nips.cc/paper/7735-is-q-learning-provably-efficient), Jin C., Allen-Zhu Z., Bubeck S., Jordan M. (2018).
 
-### Generative Model
 
-#### PAC
+### With a Generative Model
+
+#### PAC policy
 
 *  **`QVI`** [On the Sample Complexity of Reinforcement Learning with a Generative Model](https://arxiv.org/abs/1206.6461), Azar M., Munos R., Kappen B. (2012).
+
+### PAC action
+
+#### Expected regret
 
 ### Linear-Quadratic
 * **`OFU-LQ`** [Regret Bounds for the Adaptive Control of Linear Quadratic Systems](http://proceedings.mlr.press/v19/abbasi-yadkori11a/abbasi-yadkori11a.pdf), Abbasi-Yadkori Y., Szepesvari C. (2011).
