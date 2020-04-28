@@ -189,6 +189,11 @@
 ### Episodic
 * **`UCRL2`** [Near-optimal Regret Bounds for Reinforcement Learning](http://www.jmlr.org/papers/volume11/jaksch10a/jaksch10a.pdf), Jaksch T. (2010).
 
+### Generative Model
+
+#### PAC
+
+*  **`QVI`** [On the Sample Complexity of Reinforcement Learning with a Generative Model](https://arxiv.org/abs/1206.6461), Azar M., Munos R., Kappen B. (2012).
 
 ### Linear-Quadratic
 * **`OFU-LQ`** [Regret Bounds for the Adaptive Control of Linear Quadratic Systems](http://proceedings.mlr.press/v19/abbasi-yadkori11a/abbasi-yadkori11a.pdf), Abbasi-Yadkori Y., Szepesvari C. (2011).
