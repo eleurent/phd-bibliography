@@ -188,9 +188,8 @@
 
 
 * **`UCRL2`** [Near-optimal Regret Bounds for Reinforcement Learning](http://www.jmlr.org/papers/volume11/jaksch10a/jaksch10a.pdf), Jaksch T. (2010).
-*  **`UCBVI`** [Minimax Regret Bounds for Reinforcement Learning](http://proceedings.mlr.press/v70/azar17a.html), Azar M., Osband I., Munos R. (2017).
+* **`UCBVI`** [Minimax Regret Bounds for Reinforcement Learning](http://proceedings.mlr.press/v70/azar17a.html), Azar M., Osband I., Munos R. (2017).
 * **`Q-Learning`** [Is Q-Learning Provably Efficient?](https://papers.nips.cc/paper/7735-is-q-learning-provably-efficient), Jin C., Allen-Zhu Z., Bubeck S., Jordan M. (2018).
-
 
 ### With a Generative Model
 
@@ -198,7 +197,7 @@
 
 *  **`QVI`** [On the Sample Complexity of Reinforcement Learning with a Generative Model](https://arxiv.org/abs/1206.6461), Azar M., Munos R., Kappen B. (2012).
 
-### PAC action
+#### PAC action
 
 #### Expected regret
 
