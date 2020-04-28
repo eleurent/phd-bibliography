@@ -105,10 +105,7 @@
 * [Robust Planning and Optimization](https://www.researchgate.net/profile/Francisco_Perez-Galarce/post/can_anyone_recommend_a_report_or_article_on_two_stage_robust_optimization/attachment/59d62578c49f478072e9a500/AS%3A272164542976002%401441900491330/download/2011+-+Robust+planning+and+optimization.pdf), Laumanns M. (2011). (lecture notes)
 * [Robust Markov Decision Processes](https://pubsonline.informs.org/doi/pdf/10.1287/moor.1120.0566), Wiesemann W., Kuhn D., Rustem B. (2012).
 * [Safe and Robust Learning Control with Gaussian Processes](http://www.dynsyslab.org/wp-content/papercite-data/pdf/berkenkamp-ecc15.pdf), Berkenkamp F., Schoellig A. (2015). [🎞️](https://www.youtube.com/watch?v=YqhLnCm0KXY)
-* **`Coarse-Id`** [On the Sample Complexity of the Linear Quadratic Regulator](https://arxiv.org/abs/1710.01688), Dean S., Mania H., Matni N., Recht B., Tu S. (2017).
-* [Regret Bounds for Robust Adaptive Control of the Linear Quadratic Regulator](http://papers.nips.cc/paper/7673-regret-bounds-for-robust-adaptive-control-of-the-linear-quadratic-regulator), Dean S. et al (2018).
 * **`Tube-MPPI`** [Robust Sampling Based Model Predictive Control with Sparse Objective Information](http://www.roboticsproceedings.org/rss14/p42.pdf), Williams G. et al. (2018). [🎞️](https://www.youtube.com/watch?v=32v-e3dptjo)
-* [Robust exploration in linear quadratic reinforcement learning](https://papers.nips.cc/paper/9668-robust-exploration-in-linear-quadratic-reinforcement-learning), Umenberger J. et al (2019).
 
 ## Risk-Averse Control
 
@@ -189,11 +186,17 @@
 
 ## Theory :books:
 
+### Episodic
 * **`UCRL2`** [Near-optimal Regret Bounds for Reinforcement Learning](http://www.jmlr.org/papers/volume11/jaksch10a/jaksch10a.pdf), Jaksch T. (2010).
-* **`OFU-LQ`** [Regret Bounds for the Adaptive Control of Linear Quadratic Systems](http://proceedings.mlr.press/v19/abbasi-yadkori11a/abbasi-yadkori11a.pdf), Abbasi-Yadkori Y., Szepesvari C. (2011).
-* [Exploration-Exploitation with Thompson Sampling in Linear Systems](https://tel.archives-ouvertes.fr/tel-01816069/), Abeille M. (2017). (phd thesis)
-* **`TS-LQ`** [Improved Regret Bounds for Thompson Sampling in Linear Quadratic Control Problems](http://proceedings.mlr.press/v80/abeille18a.html), Abeille M., Lazaric A. (2018).
 
+
+### Linear-Quadratic
+* **`OFU-LQ`** [Regret Bounds for the Adaptive Control of Linear Quadratic Systems](http://proceedings.mlr.press/v19/abbasi-yadkori11a/abbasi-yadkori11a.pdf), Abbasi-Yadkori Y., Szepesvari C. (2011).
+* **`TS-LQ`** [Improved Regret Bounds for Thompson Sampling in Linear Quadratic Control Problems](http://proceedings.mlr.press/v80/abeille18a.html), Abeille M., Lazaric A. (2018).
+* [Exploration-Exploitation with Thompson Sampling in Linear Systems](https://tel.archives-ouvertes.fr/tel-01816069/), Abeille M. (2017). (phd thesis)
+* **`Coarse-Id`** [On the Sample Complexity of the Linear Quadratic Regulator](https://arxiv.org/abs/1710.01688), Dean S., Mania H., Matni N., Recht B., Tu S. (2017).
+* [Regret Bounds for Robust Adaptive Control of the Linear Quadratic Regulator](http://papers.nips.cc/paper/7673-regret-bounds-for-robust-adaptive-control-of-the-linear-quadratic-regulator), Dean S. et al (2018).
+* [Robust exploration in linear quadratic reinforcement learning](https://papers.nips.cc/paper/9668-robust-exploration-in-linear-quadratic-reinforcement-learning), Umenberger J. et al (2019).
 
 ## Value-based :chart_with_upwards_trend:
 
