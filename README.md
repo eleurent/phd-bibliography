@@ -187,10 +187,10 @@
 ## Theory :books:
 
 * [Expected mistake bound model for on-line reinforcement learning](https://pdfs.semanticscholar.org/13b8/1dd08aab636c3761c5eb4337dbe43aedaf31.pdf), Fiechter C-N. (1997).
-* **`UCRL2`** [Near-optimal Regret Bounds for Reinforcement Learning](http://www.jmlr.org/papers/volume11/jaksch10a/jaksch10a.pdf), Jaksch T. (2010). ![Setting](https://img.shields.io/badge/setting-communicating-green)
-* **`UCBVI`** [Minimax Regret Bounds for Reinforcement Learning](http://proceedings.mlr.press/v70/azar17a.html), Azar M., Osband I., Munos R. (2017). ![Setting](https://img.shields.io/badge/setting-average-green)![Setting](https://img.shields.io/badge/communicating-orange)
-* **`Q-Learning-UCB`** [Is Q-Learning Provably Efficient?](https://papers.nips.cc/paper/7735-is-q-learning-provably-efficient), Jin C., Allen-Zhu Z., Bubeck S., Jordan M. (2018).
-* **`LSVI-UCB`** [Provably Efficient Reinforcement Learning with Linear Function Approximation](https://arxiv.org/abs/1907.05388), Jin C., Yang Z., Wang Z., Jordan M. (2019).
+* **`UCRL2`** [Near-optimal Regret Bounds for Reinforcement Learning](http://www.jmlr.org/papers/volume11/jaksch10a/jaksch10a.pdf), Jaksch T. (2010). ![Setting](https://img.shields.io/badge/setting-average-green)![Setting](https://img.shields.io/badge/communicating-orange)
+* **`UCBVI`** [Minimax Regret Bounds for Reinforcement Learning](http://proceedings.mlr.press/v70/azar17a.html), Azar M., Osband I., Munos R. (2017). ![Setting](https://img.shields.io/badge/setting-episodic-green)!
+* **`Q-Learning-UCB`** [Is Q-Learning Provably Efficient?](https://papers.nips.cc/paper/7735-is-q-learning-provably-efficient), Jin C., Allen-Zhu Z., Bubeck S., Jordan M. (2018). ![Setting](https://img.shields.io/badge/setting-episodic-green)!
+* **`LSVI-UCB`** [Provably Efficient Reinforcement Learning with Linear Function Approximation](https://arxiv.org/abs/1907.05388), Jin C., Yang Z., Wang Z., Jordan M. (2019). ![Setting](https://img.shields.io/badge/setting-episodic-green)! ![Spaces](https://img.shields.io/badge/spaces-linear-green)!
 
 ### With a Generative Model
 
