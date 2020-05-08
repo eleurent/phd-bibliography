@@ -396,7 +396,7 @@
 * [End-to-End Deep Learning for Steering Autonomous Vehicles Considering Temporal Dependencies](https://arxiv.org/abs/1710.03804), Eraqi H. et al. (2017).
 * [Driving Like a Human: Imitation Learning for Path Planning using Convolutional Neural Networks](https://www.semanticscholar.org/paper/Driving-Like-a-Human%3A-Imitation-Learning-for-Path-Rehder-Quehl/a1150417083918c3f5f88b7ddad8841f2ce88188), Rehder E. et al. (2017).
 * [Imitating Driver Behavior with Generative Adversarial Networks](https://arxiv.org/abs/1701.06699), Kuefler A. et al. (2017).
-* **`PS-GAIL`** [Multi-Agent Imitation Learning for Driving Simulation](https://arxiv.org/abs/1803.01044), Bhattacharyya R. et al. (2018). [🎞️](https://github.com/sisl/ngsim_env/blob/master/media/single_multi_model_2_seed_1.gif)
+* **`PS-GAIL`** [Multi-Agent Imitation Learning for Driving Simulation](https://arxiv.org/abs/1803.01044), Bhattacharyya R. et al. (2018). [🎞️](https://github.com/sisl/ngsim_env/blob/master/media/single_multi_model_2_seed_1.gif) [:octocat:](https://github.com/sisl/ngsim_env)
 
 ## Inverse Reinforcement Learning
 
