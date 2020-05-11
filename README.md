@@ -308,6 +308,7 @@
 * **`cPBVI`** [Point-Based Value Iteration for Continuous POMDPs](http://www.jmlr.org/papers/volume7/porta06a/porta06a.pdf), Porta J. et al. (2006).
 * **`POMCP`** [Monte-Carlo Planning in Large POMDPs](https://papers.nips.cc/paper/4031-monte-carlo-planning-in-large-pomdps), Silver D., Veness J. (2010).
 * [A POMDP Approach to Robot Motion Planning under Uncertainty](http://users.isr.ist.utl.pt/~mtjspaan/POMDPPractioners/pomdp2010_submission_5.pdf), Du Y. et al. (2010).
+* [Probabilistic Online POMDP Decision Making for Lane Changes in Fully Automated Driving](https://users.cs.duke.edu/~pdinesh/sources/06728533.pdf), Ulbrich S., Maurer M. (2013).
 * [Solving Continuous POMDPs: Value Iteration with Incremental Learning of an Efficient Space Representation](http://proceedings.mlr.press/v28/brechtel13.pdf), Brechtel S. et al. (2013).
 * [Probabilistic Decision-Making under Uncertainty for Autonomous Driving using Continuous POMDPs](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6957722), Brechtel S. et al. (2014).
 * **`MOMDP`** [Intention-Aware Motion Planning](http://ares.lids.mit.edu/fm/documents/intentionawaremotionplanning.pdf), Bandyopadhyay T. et al. (2013).
