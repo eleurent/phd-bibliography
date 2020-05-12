@@ -377,6 +377,7 @@
 
 ## Imitation Learning
 
+* **`DAgger`** [A Reduction of Imitation Learning and Structured Predictionto No-Regret Online Learning](https://www.cs.cmu.edu/~sross1/publications/Ross-AIStats11-NoRegret.pdf), Ross S., Gordon G., Bagnell J. A. (2011).
 * **`QMDP-RCNN`** [Reinforcement Learning via Recurrent Convolutional Neural Networks](https://arxiv.org/abs/1701.02392), Shankar T. et al. (2016). ([talk](https://www.youtube.com/watch?v=gpwA3QNTPOQ))
 * **`DQfD`** [Learning from Demonstrations for Real World Reinforcement Learning](https://pdfs.semanticscholar.org/a7fb/199f85943b3fb6b5f7e9f1680b2e2a445cce.pdf), Hester T. et al. (2017). [🎞️](https://www.youtube.com/watch?v=JR6wmLaYuu4&list=PLdjpGm3xcO-0aqVf--sBZHxCKg-RZfa5T)
 * [Find Your Own Way: Weakly-Supervised Segmentation of Path Proposals for Urban Autonomy](https://arxiv.org/abs/1610.01238), Barnes D., Maddern W., Posner I. (2016). [🎞️](https://www.youtube.com/watch?v=rbZ8ck_1nZk)
