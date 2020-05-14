@@ -286,6 +286,7 @@
 * **`RND`** [Exploration by Random Network Distillation](https://arxiv.org/abs/1810.12894), Burda Y. et al. (OpenAI) (2018).  [🎞️](https://openai.com/blog/reinforcement-learning-with-prediction-based-rewards/)
 * **`Go-Explore`** [Go-Explore: a New Approach for Hard-Exploration Problems](https://arxiv.org/abs/1901.10995), Ecoffet A. et al. (Uber) (2018). [🎞️](https://www.youtube.com/watch?v=gnGyUPd_4Eo)
 * **`C51-IDS`** [Information-Directed Exploration for Deep Reinforcement Learning](https://arxiv.org/abs/1812.07544), Nikolov N., Kirschner J., Berkenkamp F., Krause A. (2019). [:octocat:](https://github.com/nikonikolov/rltf)
+* **`Plan2Explore`** [Planning to Explore via Self-Supervised World Models](https://ramanans1.github.io/plan2explore/), Sekar R. et al. (2020). [🎞️](https://www.youtube.com/watch?v=GftqnPWsCWw&feature=emb_title) [:octocat:](https://github.com/ramanans1/plan2explore)
 
 ## Hierarchy and Temporal Abstraction :clock2:
 
