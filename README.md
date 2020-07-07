@@ -198,6 +198,7 @@
 #### PAC policy
 
 *  **`QVI`** [On the Sample Complexity of Reinforcement Learning with a Generative Model](https://arxiv.org/abs/1206.6461), Azar M., Munos R., Kappen B. (2012).
+* [Model-Based Reinforcement Learning with a Generative Model is Minimax Optimal](https://arxiv.org/abs/1906.03804), Agarwal A. et al. (2019).
 
 #### PAC action
 
