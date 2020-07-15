@@ -131,7 +131,7 @@
 * [Batch Policy Learning under Constraints](https://arxiv.org/abs/1903.08738), Le H., Voloshin C., Yue Y. (2019).
 * [Safely Learning to Control the Constrained Linear Quadratic Regulator](https://ieeexplore.ieee.org/abstract/document/8814865), Dean S. et al (2019).
 * [Learning to Walk in the Real World with Minimal Human Effort](https://arxiv.org/abs/2002.08550), Ha S. et al. (2020) [🎞️](https://youtu.be/cwyiq6dCgOc)
-* [Responsive Safety in Reinforcement Learning by PID Lagrangian Methods](https://arxiv.org/abs/2007.03964), Stooke A., Achiam J., Abbeel P. (2020). [:octocat:](https://github.com/astooke/rlpyt/rlpyt/projects/safe)
+* [Responsive Safety in Reinforcement Learning by PID Lagrangian Methods](https://arxiv.org/abs/2007.03964), Stooke A., Achiam J., Abbeel P. (2020). [:octocat:](https://github.com/astooke/rlpyt/tree/master/rlpyt/projects/safe)
 
 ## Uncertain Dynamical Systems
 
