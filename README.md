@@ -250,6 +250,7 @@
 * **`CEM`** [Learning Tetris Using the Noisy Cross-Entropy Method](http://iew3.technion.ac.il/CE/files/papers/Learning%20Tetris%20Using%20the%20Noisy%20Cross-Entropy%20Method.pdf), Szita I., Lörincz A. (2006). [🎞️](https://www.youtube.com/watch?v=UZnDYGk1j2c)
 * **`CMAES`** [Completely Derandomized Self-Adaptation in Evolution Strategies](https://dl.acm.org/citation.cfm?id=1108843), Hansen N., Ostermeier A. (2001).
 * **`NEAT`** [Evolving Neural Networks through Augmenting Topologies](http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf), Stanley K. (2002). [🎞️](https://www.youtube.com/watch?v=5lJuEW-5vr8)
+* **`iCEM`** [Sample-efficient Cross-Entropy Method for Real-time Planning](https://arxiv.org/abs/2008.06389), Pinneri C. et al. (2020).
 
 ## Model-based :world_map:
 
