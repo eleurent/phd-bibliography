@@ -305,6 +305,7 @@
 * **`DAC`** [DAC: The Double Actor-Critic Architecture for Learning Options](https://arxiv.org/abs/1904.12691), Zhang S., Whiteson S. (2019). 
 * [Multi-Agent Manipulation via Locomotion using Hierarchical Sim2Real](https://arxiv.org/abs/1908.05224), Nachum O. et al (2019). [🎞️](https://sites.google.com/view/manipulation-via-locomotion)
 *  [SoftCon: Simulation and Control of Soft-Bodied Animals with Biomimetic Actuators](http://mrl.snu.ac.kr/publications/ProjectSoftCon/SoftCon.html), Min S. et al. (2020). [🎞️](https://www.youtube.com/watch?v=I2ylkhPSkT4) [:octocat:](https://github.com/seiing/SoftCon)
+* [Reinforcement Learning based Control of Imitative Policies for Near-Accident Driving](http://iliad.stanford.edu/pdfs/publications/cao2020reinforcement.pdf), Cao Z. et al. (2020). [🎞️ 1](https://www.youtube.com/watch?v=CY24zlC_HdI&feature=youtu.be), [2](https://www.youtube.com/watch?v=envT7b5YRts&feature=youtu.be)
 
 ## Partial Observability :eye:
 
