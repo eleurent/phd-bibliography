@@ -12,6 +12,7 @@
   * [Risk-Averse Control](#risk-averse-control)
   * [Constrained Control](#constrained-control)
   * [Uncertain Dynamical Systems](#uncertain-dynamical-systems)
+* [Game Theory](#game-theory-spades)
 * [Sequential Learning](#sequential-learning-shoe)
   * [Multi-Armed Bandit](#multi-armed-bandit-slot_machine)
     * [Best Arm Identification](#best-arm-identification-muscle)
@@ -139,6 +140,14 @@
 * [Trajectory computation of dynamic uncertain systems](https://ieeexplore.ieee.org/iel5/8969/28479/01272787.pdf), Adrot O., Flaus J-M. (2002).
 * [Simulation of Uncertain Dynamic Systems Described By Interval Models: a Survey](https://www.sciencedirect.com/science/article/pii/S1474667016362206), Puig V. et al. (2005).
 * [Design of interval observers for uncertain dynamical systems](https://hal.inria.fr/hal-01276439/file/Interval_Survey.pdf), Efimov D., Raïssi T. (2016).
+
+
+
+
+# Game Theory :spades:
+
+* [Hierarchical Game-Theoretic Planning for Autonomous Vehicles](https://arxiv.org/abs/1810.05766), Fisac J. et al. (2018).
+* [Efficient Iterative Linear-Quadratic Approximations for Nonlinear Multi-Player General-Sum Differential Games](https://arxiv.org/abs/1909.04694), Fridovich-Keil D. et al. (2019).
 
 
 
