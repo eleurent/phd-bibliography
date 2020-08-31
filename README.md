@@ -470,6 +470,7 @@
 
 * [Trajectory planning for Bertha - A local, continuous method](https://pdfs.semanticscholar.org/bdca/7fe83f8444bb4e75402a417053519758d36b.pdf), Ziegler J. et al. (2014).
 * [Learning Attractor Landscapes for Learning Motor Primitives](https://papers.nips.cc/paper/2140-learning-attractor-landscapes-for-learning-motor-primitives.pdf), Ijspeert A. et al. (2002).
+* [Online Motion Planning based on Nonlinear Model Predictive Control with Non-Euclidean Rotation Groups](https://arxiv.org/abs/2006.03534), Rösmann C. et al (2020). [:octocat:](https://github.com/rst-tu-dortmund/mpc_local_planner)
 
 ## Reactive
 
