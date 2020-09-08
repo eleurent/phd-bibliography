@@ -214,11 +214,6 @@
 * [On the Theory of Policy Gradient Methods: Optimality, Approximation, and Distribution Shift](https://arxiv.org/abs/1908.00261), Agarwal A. et al. (2019)
 * [PC-PG: Policy Cover Directed Exploration for Provable Policy Gradient Learning](https://arxiv.org/abs/2007.08459),  Agarwal A. et al. (2020)
 
-
-#### PAC action
-
-#### Expected regret
-
 ### Linear-Quadratic
 * **`OFU-LQ`** [Regret Bounds for the Adaptive Control of Linear Quadratic Systems](http://proceedings.mlr.press/v19/abbasi-yadkori11a/abbasi-yadkori11a.pdf), Abbasi-Yadkori Y., Szepesvari C. (2011).
 * **`TS-LQ`** [Improved Regret Bounds for Thompson Sampling in Linear Quadratic Control Problems](http://proceedings.mlr.press/v80/abeille18a.html), Abeille M., Lazaric A. (2018).
