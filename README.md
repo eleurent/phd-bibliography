@@ -113,6 +113,7 @@
 * [A Comprehensive Survey on Safe Reinforcement Learning](http://jmlr.org/papers/v16/garcia15a.html), García J., Fernández F. (2015).
 * **`RA-QMDP`** [Risk-averse Behavior Planning for Autonomous Driving under Uncertainty](https://arxiv.org/abs/1812.01254), Naghshvar M. et al. (2018).
 * **`StoROO`** [X-Armed Bandits: Optimizing Quantiles and Other Risks](https://arxiv.org/abs/1904.08205), Torossian L., Garivier A., Picheny V. (2019).
+* [Worst Cases Policy Gradients](https://arxiv.org/abs/1911.03618), Tang Y. C. et al. (2019).
 
 ## Constrained Control
 
