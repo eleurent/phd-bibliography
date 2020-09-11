@@ -365,6 +365,7 @@
 * **`COMA`** [Counterfactual Multi-Agent Policy Gradients](https://arxiv.org/abs/1709.05273), Foerster J. et al. (2017).
 * **`MADDPG`** [Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments](https://arxiv.org/abs/1706.02275), Lowe R. et al (2017). [:octocat:](https://github.com/openai/maddpg) 
 * **`FTW`** [Human-level performance in first-person multiplayer games with population-based deep reinforcement learning](https://arxiv.org/abs/1807.01281), Jaderberg M. et al. (2018). [🎞️](https://www.youtube.com/watch?v=dltN4MxV1RI)
+* [Towards Learning Multi-agent Negotiations via Self-Play](https://arxiv.org/abs/2001.10208), Tang Y. C. (2020).
 
 ## Representation Learning
 
