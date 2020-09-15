@@ -217,6 +217,8 @@
 * [PC-PG: Policy Cover Directed Exploration for Provable Policy Gradient Learning](https://arxiv.org/abs/2007.08459),  Agarwal A. et al. (2020)
 
 ### Linear-Quadratic
+
+* [PAC Adaptive Control of Linear Systems](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.49.339&rep=rep1&type=pdf), Fiechter C.-N. (1997)
 * **`OFU-LQ`** [Regret Bounds for the Adaptive Control of Linear Quadratic Systems](http://proceedings.mlr.press/v19/abbasi-yadkori11a/abbasi-yadkori11a.pdf), Abbasi-Yadkori Y., Szepesvari C. (2011).
 * **`TS-LQ`** [Improved Regret Bounds for Thompson Sampling in Linear Quadratic Control Problems](http://proceedings.mlr.press/v80/abeille18a.html), Abeille M., Lazaric A. (2018).
 * [Exploration-Exploitation with Thompson Sampling in Linear Systems](https://tel.archives-ouvertes.fr/tel-01816069/), Abeille M. (2017). (phd thesis)
