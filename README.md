@@ -279,7 +279,6 @@
 * [Deep visual foresight for planning robot motion](https://arxiv.org/abs/1610.00696), Finn C., Levine S. (2016). [🎞️](https://www.youtube.com/watch?v=6k7GHG4IUCY)
 * **`VIN`** [Value Iteration Networks](https://arxiv.org/abs/1602.02867), Tamar A. et al  (2016). [🎞️](https://www.youtube.com/watch?v=RcRkog93ZRU)
 * **`VPN`** [Value Prediction Network](https://arxiv.org/abs/1707.03497), Oh J. et al. (2017).
-* [An LSTM Network for Highway Trajectory Prediction](https://arxiv.org/abs/1801.07962), Altché F., de La Fortelle A. (2017).
 * **`DistGBP`** [Model-Based Planning with Discrete and Continuous Actions](https://arxiv.org/abs/1705.07177), Henaff M. et al. (2017). [🎞️ 1](https://www.youtube.com/watch?v=9Xh2TRQ_4nM) | [2](https://www.youtube.com/watch?v=XLdme0TTjiw)
 * [Prediction and Control with Temporal Segment Models](https://arxiv.org/abs/1703.04070), Mishra N. et al. (2017).
 * **`Predictron`** [The Predictron: End-To-End Learning and Planning](https://arxiv.org/abs/1612.08810), Silver D. et al. (2017). [🎞️](https://www.youtube.com/watch?v=BeaLdaN2C3Q)
