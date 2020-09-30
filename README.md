@@ -214,9 +214,9 @@
 * [Policy Gradient Methods for Reinforcement Learning with Function Approximation](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation), Sutton R. et al (2000).
 * [Approximately Optimal Approximate Reinforcement Learning](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf), Kakade S., Langford J. (2002).
 * [On the Theory of Policy Gradient Methods: Optimality, Approximation, and Distribution Shift](https://arxiv.org/abs/1908.00261), Agarwal A. et al. (2019)
-* [PC-PG: Policy Cover Directed Exploration for Provable Policy Gradient Learning](https://arxiv.org/abs/2007.08459),  Agarwal A. et al. (2020)
+* [PC-PG: Policy Cover Directed Exploration for Provable Policy Gradient Learning](https://arxiv.org/abs/2007.08459),  Agarwal A. et al. (2020) 
 
-### Linear-Quadratic
+### Linear Systems
 
 * [PAC Adaptive Control of Linear Systems](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.49.339&rep=rep1&type=pdf), Fiechter C.-N. (1997)
 * **`OFU-LQ`** [Regret Bounds for the Adaptive Control of Linear Quadratic Systems](http://proceedings.mlr.press/v19/abbasi-yadkori11a/abbasi-yadkori11a.pdf), Abbasi-Yadkori Y., Szepesvari C. (2011).
@@ -225,6 +225,8 @@
 * **`Coarse-Id`** [On the Sample Complexity of the Linear Quadratic Regulator](https://arxiv.org/abs/1710.01688), Dean S., Mania H., Matni N., Recht B., Tu S. (2017).
 * [Regret Bounds for Robust Adaptive Control of the Linear Quadratic Regulator](http://papers.nips.cc/paper/7673-regret-bounds-for-robust-adaptive-control-of-the-linear-quadratic-regulator), Dean S. et al (2018).
 * [Robust exploration in linear quadratic reinforcement learning](https://papers.nips.cc/paper/9668-robust-exploration-in-linear-quadratic-reinforcement-learning), Umenberger J. et al (2019).
+* [Online Control with Adversarial Disturbances](https://arxiv.org/abs/1902.08721), Agarwal N. et al (2019).  ![Noise](https://img.shields.io/badge/noise-adversarial-red)![Costs](https://img.shields.io/badge/costs-convex-green)
+* [Logarithmic Regret for Online Control](https://arxiv.org/abs/1909.05062), Agarwal N. et al (2019).  ![Noise](https://img.shields.io/badge/noise-adversarial-red)![Costs](https://img.shields.io/badge/costs-convex-green)
 
 ## Value-based :chart_with_upwards_trend:
 
