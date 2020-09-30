@@ -449,6 +449,7 @@
 * [Planning for Autonomous Cars that Leverage Effects on Human Actions](https://robotics.eecs.berkeley.edu/~sastry/pubs/Pdfs%20of%202016/SadighPlanning2016.pdf), Sadigh D. et al. (2016).
 * [A Learning-Based Framework for Handling Dilemmas in Urban Automated Driving](http://ieeexplore.ieee.org/document/7989172/), Lee S., Seo S. (2017).
 * [Learning Trajectory Prediction with Continuous Inverse Optimal Control via Langevin Sampling of Energy-Based Models](https://arxiv.org/abs/1904.05453), Xu Y. et al. (2019).
+* [Analyzing the Suitability of Cost Functions for Explaining and Imitating Human Driving Behavior based on Inverse Reinforcement Learning](https://ras.papercept.net/proceedings/ICRA20/0320.pdf), Naumann M. et al (2020).
 
 
 
