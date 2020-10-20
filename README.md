@@ -10,7 +10,8 @@
 * [Safe Control](#safe-control-lock)
   * [Robust Control](#robust-control)
   * [Risk-Averse Control](#risk-averse-control)
-  * [Constrained Control](#constrained-control)
+  * [Value-Constrained Control](#value-constrained-control)
+  * [State-Constrained Control and Stability](#state-constrained-control-and-stability)
   * [Uncertain Dynamical Systems](#uncertain-dynamical-systems)
 * [Game Theory](#game-theory-spades)
 * [Sequential Learning](#sequential-learning-shoe)
@@ -115,18 +116,15 @@
 * **`StoROO`** [X-Armed Bandits: Optimizing Quantiles and Other Risks](https://arxiv.org/abs/1904.08205), Torossian L., Garivier A., Picheny V. (2019).
 * [Worst Cases Policy Gradients](https://arxiv.org/abs/1911.03618), Tang Y. C. et al. (2019).
 
-## Constrained Control
+## Value-Constrained Control
 
 * **`ICS`** [Will the Driver Seat Ever Be Empty?](https://hal.inria.fr/hal-00965176), Fraichard T. (2014).
 * **`SafeOPT`** [Safe Controller Optimization for Quadrotors with Gaussian Processes](https://arxiv.org/abs/1509.01066), Berkenkamp F., Schoellig A., Krause A. (2015). [🎞️](https://www.youtube.com/watch?v=GiqNQdzc5TI) [:octocat:](https://github.com/befelix/SafeOpt)
 * **`SafeMDP`** [Safe Exploration in Finite Markov Decision Processes with Gaussian Processes](https://arxiv.org/abs/1606.04753), Turchetta M., Berkenkamp F., Krause A. (2016). [:octocat:](https://github.com/befelix/SafeMDP)
 * **`RSS`** [On a Formal Model of Safe and Scalable Self-driving Cars](https://arxiv.org/abs/1708.06374), Shalev-Shwartz S. et al. (2017).
-* **`HJI-reachability`** [Safe learning for control: Combining disturbance estimation, reachability analysis and reinforcement learning with systematic exploration](http://kth.diva-portal.org/smash/get/diva2:1140173/FULLTEXT01.pdf), Heidenreich C. (2017).
-* [A General Safety Framework for Learning-Based Control in Uncertain Robotic Systems](https://arxiv.org/abs/1705.01292), Fisac J. et al (2017). [🎞️](https://www.youtube.com/watch?v=WAAxyeSk2bw&feature=youtu.be)
 * **`CPO`** [Constrained Policy Optimization](https://arxiv.org/abs/1705.10528), Achiam J., Held D., Tamar A., Abbeel P. (2017). [:octocat:](https://github.com/jachiam/cpo)
 * **`RCPO`** [Reward Constrained Policy Optimization](https://arxiv.org/abs/1805.11074), Tessler C., Mankowitz D., Mannor S. (2018).
 * **`BFTQ`** [A Fitted-Q Algorithm for Budgeted MDPs](https://hal.archives-ouvertes.fr/hal-01867353), Carrara N. et al. (2018).
-* **`MPC-HJI`** [On Infusing Reachability-Based Safety Assurance within Probabilistic Planning Frameworks for Human-Robot Vehicle Interactions](https://stanfordasl.github.io/wp-content/papercite-data/pdf/Leung.Schmerling.Chen.ea.ISER18.pdf), Leung K. et al. (2018).
 * **`SafeMPC`** [Learning-based Model Predictive Control for Safe Exploration](https://arxiv.org/abs/1803.08287), Koller T, Berkenkamp F., Turchetta M. Krause A. (2018).
 * **`CCE`** [Constrained Cross-Entropy Method for Safe Reinforcement Learning](https://papers.nips.cc/paper/7974-constrained-cross-entropy-method-for-safe-reinforcement-learning), Wen M., Topcu U. (2018). [:octocat:](https://github.com/liuzuxin/safe-mbrl)
 * **`LTL-RL`** [Reinforcement Learning with Probabilistic Guarantees for Autonomous Driving](https://arxiv.org/abs/1904.07189), Bouton M. et al. (2019).
@@ -135,6 +133,14 @@
 * [Safely Learning to Control the Constrained Linear Quadratic Regulator](https://ieeexplore.ieee.org/abstract/document/8814865), Dean S. et al (2019).
 * [Learning to Walk in the Real World with Minimal Human Effort](https://arxiv.org/abs/2002.08550), Ha S. et al. (2020) [🎞️](https://youtu.be/cwyiq6dCgOc)
 * [Responsive Safety in Reinforcement Learning by PID Lagrangian Methods](https://arxiv.org/abs/2007.03964), Stooke A., Achiam J., Abbeel P. (2020). [:octocat:](https://github.com/astooke/rlpyt/tree/master/rlpyt/projects/safe)
+
+## State-Constrained Control and Stability
+
+* **`HJI-reachability`** [Safe learning for control: Combining disturbance estimation, reachability analysis and reinforcement learning with systematic exploration](http://kth.diva-portal.org/smash/get/diva2:1140173/FULLTEXT01.pdf), Heidenreich C. (2017).
+* **`MPC-HJI`** [On Infusing Reachability-Based Safety Assurance within Probabilistic Planning Frameworks for Human-Robot Vehicle Interactions](https://stanfordasl.github.io/wp-content/papercite-data/pdf/Leung.Schmerling.Chen.ea.ISER18.pdf), Leung K. et al. (2018).
+* [A General Safety Framework for Learning-Based Control in Uncertain Robotic Systems](https://arxiv.org/abs/1705.01292), Fisac J. et al (2017). [🎞️](https://www.youtube.com/watch?v=WAAxyeSk2bw&feature=youtu.be)
+* [Safe Model-based Reinforcement Learning with Stability Guarantees](https://arxiv.org/abs/1705.08551), Berkenkamp F. et al. (2017).
+* **`Lyapunov-Net`** [Safe Interactive Model-Based Learning](https://arxiv.org/abs/1911.06556), Gallieri M. et al. (2019).
 
 ## Uncertain Dynamical Systems
 
@@ -204,6 +210,7 @@
 * **`UCBVI`** [Minimax Regret Bounds for Reinforcement Learning](http://proceedings.mlr.press/v70/azar17a.html), Azar M., Osband I., Munos R. (2017). ![Setting](https://img.shields.io/badge/setting-episodic-green)
 * **`Q-Learning-UCB`** [Is Q-Learning Provably Efficient?](https://papers.nips.cc/paper/7735-is-q-learning-provably-efficient), Jin C., Allen-Zhu Z., Bubeck S., Jordan M. (2018). ![Setting](https://img.shields.io/badge/setting-episodic-green)
 * **`LSVI-UCB`** [Provably Efficient Reinforcement Learning with Linear Function Approximation](https://arxiv.org/abs/1907.05388), Jin C., Yang Z., Wang Z., Jordan M. (2019). ![Setting](https://img.shields.io/badge/setting-episodic-green) ![Spaces](https://img.shields.io/badge/spaces-linear-green)
+* [Lipschitz Continuity in Model-based Reinforcement Learning](https://arxiv.org/abs/1804.07193), Asadi K. et al (2018).
 
 ### Generative Model
 
