@@ -211,7 +211,6 @@
 * **`Q-Learning-UCB`** [Is Q-Learning Provably Efficient?](https://papers.nips.cc/paper/7735-is-q-learning-provably-efficient), Jin C., Allen-Zhu Z., Bubeck S., Jordan M. (2018). ![Setting](https://img.shields.io/badge/setting-episodic-green)
 * **`LSVI-UCB`** [Provably Efficient Reinforcement Learning with Linear Function Approximation](https://arxiv.org/abs/1907.05388), Jin C., Yang Z., Wang Z., Jordan M. (2019). ![Setting](https://img.shields.io/badge/setting-episodic-green) ![Spaces](https://img.shields.io/badge/spaces-linear-green)
 * [Lipschitz Continuity in Model-based Reinforcement Learning](https://arxiv.org/abs/1804.07193), Asadi K. et al (2018).
-* **`H-UCRL`** [Efficient Model-Based Reinforcement Learning through Optimistic Policy Search and Planning](https://proceedings.neurips.cc//paper_files/paper/2020/hash/a36b598abb934e4528412e5a2127b931-Abstract.html), Curi S., Berkenkamp F., Krause A. (2020). [:octocat:](https://github.com/sebascuri/hucrl)
 
 ### Generative Model
 
@@ -302,6 +301,7 @@
 * [Planning with Goal-Conditioned Policies](https://sites.google.com/view/goal-planning), Nasiriany S. et al. (2019). [🎞️](https://sites.google.com/view/goal-planning#h.p_0m-H0QfKVj4n)
 * **`MuZero`** [Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model](https://arxiv.org/abs/1911.08265), Schrittwiese J. et al. (2019). [:octocat:](https://github.com/werner-duvaud/muzero-general)
 * **`BADGR`** [BADGR: An Autonomous Self-Supervised Learning-Based Navigation System](https://sites.google.com/view/badgr), Kahn G., Abbeel P., Levine S. (2020). [🎞️](https://www.youtube.com/watch?v=EMV0zEXbcc4) [:octocat:](https://github.com/gkahn13/badgr)
+* **`H-UCRL`** [Efficient Model-Based Reinforcement Learning through Optimistic Policy Search and Planning](https://proceedings.neurips.cc//paper_files/paper/2020/hash/a36b598abb934e4528412e5a2127b931-Abstract.html), Curi S., Berkenkamp F., Krause A. (2020). [:octocat:](https://github.com/sebascuri/hucrl)
 
 
 ## Exploration :tent:
