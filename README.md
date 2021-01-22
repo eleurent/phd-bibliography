@@ -205,9 +205,9 @@
 ## Theory :books:
 
 * [Expected mistake bound model for on-line reinforcement learning](https://pdfs.semanticscholar.org/13b8/1dd08aab636c3761c5eb4337dbe43aedaf31.pdf), Fiechter C-N. (1997).
-* **`UCRL2`** [Near-optimal Regret Bounds for Reinforcement Learning](http://www.jmlr.org/papers/volume11/jaksch10a/jaksch10a.pdf), Jaksch T. (2010). ![Setting](https://img.shields.io/badge/setting-average-green)![Setting](https://img.shields.io/badge/communicating-orange)
+* **`UCRL2`** [Near-optimal Regret Bounds for Reinforcement Learning](http://www.jmlr.org/papers/volume11/jaksch10a/jaksch10a.pdf), Jaksch T. (2010). ![Setting](https://img.shields.io/badge/setting-average-green)![Setting](https://img.shields.io/badge/communicating-orange)![Bound](https://img.shields.io/badge/DS(AT)^0.5-orange)
 * **`PSRL`** [Why is Posterior Sampling Better than Optimism for Reinforcement Learning?](https://arxiv.org/abs/1607.00215), Osband I., Van Roy B. (2016). ![Setting](https://img.shields.io/badge/setting-episodic-green) ![Bayesian](https://img.shields.io/badge/bayesian-green)
-* **`UCBVI`** [Minimax Regret Bounds for Reinforcement Learning](http://proceedings.mlr.press/v70/azar17a.html), Azar M., Osband I., Munos R. (2017). ![Setting](https://img.shields.io/badge/setting-episodic-green)
+* **`UCBVI`** [Minimax Regret Bounds for Reinforcement Learning](http://proceedings.mlr.press/v70/azar17a.html), Azar M., Osband I., Munos R. (2017). ![Setting](https://img.shields.io/badge/setting-episodic-green)![Bound](https://img.shields.io/badge/H(SAT)^0.5-orange)
 * **`Q-Learning-UCB`** [Is Q-Learning Provably Efficient?](https://papers.nips.cc/paper/7735-is-q-learning-provably-efficient), Jin C., Allen-Zhu Z., Bubeck S., Jordan M. (2018). ![Setting](https://img.shields.io/badge/setting-episodic-green)
 * **`LSVI-UCB`** [Provably Efficient Reinforcement Learning with Linear Function Approximation](https://arxiv.org/abs/1907.05388), Jin C., Yang Z., Wang Z., Jordan M. (2019). ![Setting](https://img.shields.io/badge/setting-episodic-green) ![Spaces](https://img.shields.io/badge/spaces-linear-green)
 * [Lipschitz Continuity in Model-based Reinforcement Learning](https://arxiv.org/abs/1804.07193), Asadi K. et al (2018).
