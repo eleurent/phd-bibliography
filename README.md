@@ -315,6 +315,7 @@
 * **`Go-Explore`** [Go-Explore: a New Approach for Hard-Exploration Problems](https://arxiv.org/abs/1901.10995), Ecoffet A. et al. (Uber) (2018). [🎞️](https://www.youtube.com/watch?v=gnGyUPd_4Eo)
 * **`C51-IDS`** [Information-Directed Exploration for Deep Reinforcement Learning](https://arxiv.org/abs/1812.07544), Nikolov N., Kirschner J., Berkenkamp F., Krause A. (2019). [:octocat:](https://github.com/nikonikolov/rltf)
 * **`Plan2Explore`** [Planning to Explore via Self-Supervised World Models](https://ramanans1.github.io/plan2explore/), Sekar R. et al. (2020). [🎞️](https://www.youtube.com/watch?v=GftqnPWsCWw&feature=emb_title) [:octocat:](https://github.com/ramanans1/plan2explore)
+* **`RIDE`** [RIDE: Rewarding Impact-Driven Exploration for Procedurally-Generated Environments](https://openreview.net/pdf?id=rkg-TJBFPB), Raileanu R., Rocktäschel T., (2020). [:octocat:](https://github.com/facebookresearch/impact-driven-exploration)
 
 ## Hierarchy and Temporal Abstraction :clock2:
 
