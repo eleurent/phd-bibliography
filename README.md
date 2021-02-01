@@ -82,6 +82,7 @@
 
 ## Control Theory
 
+* (book) [The Mathematical Theory of Optimal Processes](https://books.google.fr/books?id=kwzq0F4cBVAC&printsec=frontcover&redir_esc=y#v=onepage&q&f=false), L. S. Pontryagin, Boltyanskii V. G., Gamkrelidze R. V., and Mishchenko E. F. (1962).
 * (book) [Constrained Control and Estimation](http://www.springer.com/gp/book/9781852335489),  Goodwin G. (2005).
 * **`PI²`** [A Generalized Path Integral Control Approach to Reinforcement Learning](http://www.jmlr.org/papers/volume11/theodorou10a/theodorou10a.pdf), Theodorou E. et al. (2010).
 * **`PI²-CMA`** [Path Integral Policy Improvement with Covariance Matrix Adaptation](https://arxiv.org/abs/1206.4621), Stulp F., Sigaud O. (2010).
