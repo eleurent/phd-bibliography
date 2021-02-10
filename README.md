@@ -409,6 +409,7 @@
 * [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review](https://arxiv.org/abs/1805.00909), Levine S. (2018).
 * [The Value Function Polytope in Reinforcement Learning](https://arxiv.org/abs/1901.11524), Dadashi R. et al. (2019).
 * [On Value Functions and the Agent-Environment Boundary](https://arxiv.org/abs/1905.13341), Jiang N. (2019).
+* [How to Train Your Robot with Deep Reinforcement Learning; Lessons We've Learned](https://arxiv.org/abs/2102.02915), Ibartz J. et al (2021).
 
 
 # Learning from Demonstrations :mortar_board:
