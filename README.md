@@ -109,7 +109,6 @@
 * [Robust Markov Decision Processes](https://pubsonline.informs.org/doi/pdf/10.1287/moor.1120.0566), Wiesemann W., Kuhn D., Rustem B. (2012).
 * [Safe and Robust Learning Control with Gaussian Processes](http://www.dynsyslab.org/wp-content/papercite-data/pdf/berkenkamp-ecc15.pdf), Berkenkamp F., Schoellig A. (2015). [🎞️](https://www.youtube.com/watch?v=YqhLnCm0KXY)
 * **`Tube-MPPI`** [Robust Sampling Based Model Predictive Control with Sparse Objective Information](http://www.roboticsproceedings.org/rss14/p42.pdf), Williams G. et al. (2018). [🎞️](https://www.youtube.com/watch?v=32v-e3dptjo)
-* [Enforcing robust control guarantees within neural network policies](https://arxiv.org/abs/2011.08105), Donti P. et al. (2021). [:octocat:](https://github.com/locuslab/robust-nn-control)
 
 ## Risk-Averse Control
 
@@ -143,6 +142,7 @@
 * [A General Safety Framework for Learning-Based Control in Uncertain Robotic Systems](https://arxiv.org/abs/1705.01292), Fisac J. et al (2017). [🎞️](https://www.youtube.com/watch?v=WAAxyeSk2bw&feature=youtu.be)
 * [Safe Model-based Reinforcement Learning with Stability Guarantees](https://arxiv.org/abs/1705.08551), Berkenkamp F. et al. (2017).
 * **`Lyapunov-Net`** [Safe Interactive Model-Based Learning](https://arxiv.org/abs/1911.06556), Gallieri M. et al. (2019).
+* [Enforcing robust control guarantees within neural network policies](https://arxiv.org/abs/2011.08105), Donti P. et al. (2021). [:octocat:](https://github.com/locuslab/robust-nn-control)
 
 ## Uncertain Dynamical Systems
 
