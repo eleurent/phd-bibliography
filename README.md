@@ -182,8 +182,10 @@
 * **`OFUL`** [Improved Algorithms for Linear Stochastic Bandits](https://papers.nips.cc/paper/4417-improved-algorithms-for-linear-stochastic-bandits), Abbasi-yadkori Y., Pal D., Szepesvári C. (2011).
 * [Contextual Bandits with Linear Payoff Functions](http://proceedings.mlr.press/v15/chu11a.html), Chu W. et al. (2011).
 * [Self-normalization techniques for streaming confident regression](https://hal.archives-ouvertes.fr/hal-01349727v2), Maillard O.-A. (2017).
+* [Learning from Delayed Outcomes via Proxies with Applications to Recommender Systems](https://arxiv.org/abs/1807.09387) Mann T. et al. (2018). (prediction setting)
 * [Weighted Linear Bandits for Non-Stationary Environments](https://arxiv.org/abs/1909.09146), Russac Y. et al. (2019).
 * [Linear bandits with Stochastic Delayed Feedback](http://proceedings.mlr.press/v119/vernade20a.html), Vernade C. et al. (2020).
+
 
 ### Best Arm Identification :muscle:
 
