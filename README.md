@@ -174,9 +174,16 @@
 * [An Empirical Evaluation of Thompson Sampling](https://papers.nips.cc/paper/4321-an-empirical-evaluation-of-thompson-sampling), Chapelle O., Li L. (2011).
 * **`kl-UCB`** [The KL-UCB Algorithm for Bounded Stochastic Bandits and Beyond](https://arxiv.org/abs/1102.2490), Garivier A., Cappé O. (2011).
 * **`KL-UCB`** [Kullback-Leibler Upper Confidence Bounds for Optimal Sequential Allocation](https://projecteuclid.org/euclid.aos/1375362558), Cappé O. et al. (2013).
-* **`OFUL`** [Improved Algorithms for Linear Stochastic Bandits](https://papers.nips.cc/paper/4417-improved-algorithms-for-linear-stochastic-bandits), Abbasi-yadkori Y., Pal D., Szepesvári C. (2011).
 * **`IDS`** [Information Directed Sampling and Bandits with Heteroscedastic Noise](https://arxiv.org/abs/1801.09667) Kirschner J., Krause A. (2018).
+
+#### Contextual
+
+* **`LinUCB`** [A Contextual-Bandit Approach to Personalized News Article Recommendation](https://arxiv.org/abs/1003.0146), Li L. et al. (2010).
+* **`OFUL`** [Improved Algorithms for Linear Stochastic Bandits](https://papers.nips.cc/paper/4417-improved-algorithms-for-linear-stochastic-bandits), Abbasi-yadkori Y., Pal D., Szepesvári C. (2011).
+* [Contextual Bandits with Linear Payoff Functions](http://proceedings.mlr.press/v15/chu11a.html), Chu W. et al. (2011).
 * [Self-normalization techniques for streaming confident regression](https://hal.archives-ouvertes.fr/hal-01349727v2), Maillard O.-A. (2017).
+* [Weighted Linear Bandits for Non-Stationary Environments](https://arxiv.org/abs/1909.09146), Russac Y. et al. (2019).
+* [Linear bandits with Stochastic Delayed Feedback](http://proceedings.mlr.press/v119/vernade20a.html), Vernade C. et al. (2020).
 
 ### Best Arm Identification :muscle:
 
