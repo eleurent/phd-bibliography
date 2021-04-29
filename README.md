@@ -413,7 +413,7 @@
 
 ## Offline
 
-* **`SPI-BB`** [https://arxiv.org/abs/1712.06924](https://arxiv.org/abs/1712.06924), Laroche R. et al (2019).
+* **`SPI-BB`** [Safe Policy Improvement with Baseline Bootstrapping](https://arxiv.org/abs/1712.06924), Laroche R. et al (2019).
 * **`AWAC`** [AWAC: Accelerating Online Reinforcement Learning with Offline Datasets](https://arxiv.org/abs/2006.09359), Nair A. et al (2020).
 
 ## Other
