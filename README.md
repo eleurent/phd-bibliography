@@ -32,6 +32,7 @@
     * [Transfer](#transfer-earth_americas)
     * [Multi-agent](#multi-agent-two_men_holding_hands)
     * [Representation Learning](#representation-learning)
+    * [offline](#offline)
 * [Learning from Demonstrations](#learning-from-demonstrations-mortar_board)
   * [Imitation Learning](#imitation-learning)
     * [Applications to Autonomous Driving](#applications-to-autonomous-driving-car)
