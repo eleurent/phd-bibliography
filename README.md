@@ -411,6 +411,10 @@
 * [Deep Neuroevolution of Recurrent and Discrete World Models](http://sebastianrisi.com/wp-content/uploads/risi_gecco19.pdf), Risi S., Stanley K.O. (2019). [🎞️](https://www.youtube.com/watch?v=a-tcsnZe-yE) [:octocat:](https://github.com/sebastianrisi/ga-world-models)
 * **`FERM`** [A Framework for Efficient Robotic Manipulation](https://sites.google.com/view/efficient-robotic-manipulation), Zhan A., Zhao R. et al. (2021). [:octocat:](https://github.com/PhilipZRH/ferm)
 
+## Offline
+
+* **`AWAC`** [AWAC: Accelerating Online Reinforcement Learning with Offline Datasets](https://arxiv.org/abs/2006.09359), Nair A. et al (2020).
+
 ## Other
 
 * [Is the Bellman residual a bad proxy?](https://arxiv.org/abs/1606.07636), Geist M., Piot B., Pietquin O. (2016).
