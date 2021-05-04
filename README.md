@@ -132,6 +132,7 @@
 * **`LTL-RL`** [Reinforcement Learning with Probabilistic Guarantees for Autonomous Driving](https://arxiv.org/abs/1904.07189), Bouton M. et al. (2019).
 * [Safe Reinforcement Learning with Scene Decomposition for Navigating Complex Urban Environments](https://arxiv.org/abs/1904.11483v1), Bouton M. et al. (2019). [:octocat:](https://github.com/sisl/AutomotivePOMDPs.jl)
 * [Batch Policy Learning under Constraints](https://arxiv.org/abs/1903.08738), Le H., Voloshin C., Yue Y. (2019).
+* [Value constrained model-free continuous control](https://arxiv.org/abs/1902.04623), Bohez S. et al (2019). [🎞️](https://sites.google.com/view/successatanycost)
 * [Safely Learning to Control the Constrained Linear Quadratic Regulator](https://ieeexplore.ieee.org/abstract/document/8814865), Dean S. et al (2019).
 * [Learning to Walk in the Real World with Minimal Human Effort](https://arxiv.org/abs/2002.08550), Ha S. et al. (2020) [🎞️](https://youtu.be/cwyiq6dCgOc)
 * [Responsive Safety in Reinforcement Learning by PID Lagrangian Methods](https://arxiv.org/abs/2007.03964), Stooke A., Achiam J., Abbeel P. (2020). [:octocat:](https://github.com/astooke/rlpyt/tree/master/rlpyt/projects/safe)
@@ -280,7 +281,7 @@
 * **`MACE`** [Terrain-Adaptive Locomotion Skills Using Deep Reinforcement Learning](https://www.cs.ubc.ca/~van/papers/2016-TOG-deepRL/index.html), Peng X., Berseth G., van de Panne M. (2016). [🎞️](https://www.youtube.com/watch?v=KPfzRSBzNX4) | [🎞️](https://www.youtube.com/watch?v=A0BmHoujP9k)
 * **`A3C`** [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783), Mnih V. et al 2016. [🎞️ 1](https://www.youtube.com/watch?v=Ajjc08-iPx8) | [2](https://www.youtube.com/watch?v=0xo1Ldx3L5Q) | [3](https://www.youtube.com/watch?v=nMR5mjCFZCw)
 * **`SAC`** [Soft Actor-Critic : Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/abs/1801.01290), Haarnoja T. et al. (2018). [🎞️](https://vimeo.com/252185258)
-* **`MPO`** [Maximum a Posteriori Policy Optimisation](https://arxiv.org/abs/1806.06920), Abdolmaleki A. et al (2021).
+* **`MPO`** [Maximum a Posteriori Policy Optimisation](https://arxiv.org/abs/1806.06920), Abdolmaleki A. et al (2018).
 
 ### Derivative-free
 
