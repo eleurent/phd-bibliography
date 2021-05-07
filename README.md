@@ -166,6 +166,8 @@
 
 # Sequential Learning :shoe:
 
+- [Prediction, Learning and Games](https://www.ii.uni.wroc.pl/~lukstafi/pmwiki/uploads/AGT/Prediction_Learning_and_Games.pdf), Cesa-Bianchi N., Lugosi G. (2006).
+
 ## Multi-Armed Bandit :slot_machine:
 
 * **`TS`** [On the Likelihood that One Unknown Probability Exceeds Another in View of the Evidence of Two Samples](https://www.jstor.org/stable/pdf/2332286.pdf), Thompson W. (1933).
