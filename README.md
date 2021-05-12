@@ -136,6 +136,7 @@
 * [Safely Learning to Control the Constrained Linear Quadratic Regulator](https://ieeexplore.ieee.org/abstract/document/8814865), Dean S. et al (2019).
 * [Learning to Walk in the Real World with Minimal Human Effort](https://arxiv.org/abs/2002.08550), Ha S. et al. (2020) [🎞️](https://youtu.be/cwyiq6dCgOc)
 * [Responsive Safety in Reinforcement Learning by PID Lagrangian Methods](https://arxiv.org/abs/2007.03964), Stooke A., Achiam J., Abbeel P. (2020). [:octocat:](https://github.com/astooke/rlpyt/tree/master/rlpyt/projects/safe)
+* **`Envelope MOQ-Learning`** [A Generalized Algorithm for Multi-Objective Reinforcement Learning and Policy Adaptation], Yang R. et al (2019).
 
 ## State-Constrained Control and Stability
 
