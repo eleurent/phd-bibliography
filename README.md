@@ -384,6 +384,7 @@
 * **`FAMLE`** [Fast Online Adaptation in Robotics through Meta-Learning Embeddings of Simulated Priors](https://arxiv.org/abs/2003.04663), Kaushik R., Anne T., Mouret J-B. (2020). [🎞️](https://www.youtube.com/watch?v=QIY1Sm7wHhE)
 * [Robust Deep Reinforcement Learning against Adversarial Perturbations on Observations](https://arxiv.org/abs/2003.08938), Zhang H. et al (2020). [:octocat:](https://github.com/chenhongge/StateAdvDRL)
 * [Learning quadrupedal locomotion over challenging terrain](https://robotics.sciencemag.org/content/5/47/eabc5986), Lee J. et al. (2020). [🎞️](https://www.youtube.com/watch?v=9j2a1oAHDL8)
+* **`PACOH`** [PACOH: Bayes-Optimal Meta-Learning with PAC-Guarantees](https://arxiv.org/abs/2002.05551), Rothfuss J., Fortuin V., Josifoski M., Krause A. (2021).
 
 ## Multi-agent :two_men_holding_hands:
 
