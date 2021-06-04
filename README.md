@@ -423,7 +423,7 @@
 * **`SPI-BB`** [Safe Policy Improvement with Baseline Bootstrapping](https://arxiv.org/abs/1712.06924), Laroche R. et al (2019).
 * **`AWAC`** [AWAC: Accelerating Online Reinforcement Learning with Offline Datasets](https://arxiv.org/abs/2006.09359), Nair A. et al (2020).
 * **`CQL`** [Conservative Q-Learning for Offline Reinforcement Learning](https://arxiv.org/abs/2006.04779), Kumar A. et al. (2020).
-* [Decision Transformer: Reinforcement Learning via Sequence Modeling](https://sites.google.com/berkeley.edu/decision-transformer), Chen L., Lu K. et al. (2021).
+* [Decision Transformer: Reinforcement Learning via Sequence Modeling](https://sites.google.com/berkeley.edu/decision-transformer), Chen L., Lu K. et al. (2021). [:octocat:](https://github.com/kzl/decision-transformer)
 * [Reinforcement Learning as One Big Sequence Modeling Problem](https://trajectory-transformer.github.io/), Janner M., Li Q., Levine S. (2021).
 
 ## Other
