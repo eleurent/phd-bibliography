@@ -240,6 +240,7 @@
 * [Approximately Optimal Approximate Reinforcement Learning](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf), Kakade S., Langford J. (2002).
 * [On the Theory of Policy Gradient Methods: Optimality, Approximation, and Distribution Shift](https://arxiv.org/abs/1908.00261), Agarwal A. et al. (2019)
 * [PC-PG: Policy Cover Directed Exploration for Provable Policy Gradient Learning](https://arxiv.org/abs/2007.08459),  Agarwal A. et al. (2020) 
+* [Is the Policy Gradient a Gradient?](https://arxiv.org/abs/1906.07073), Nota C., Thomas P. S. (2020).
 
 ### Linear Systems
 
@@ -285,6 +286,7 @@
 * **`A3C`** [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783), Mnih V. et al 2016. [🎞️ 1](https://www.youtube.com/watch?v=Ajjc08-iPx8) | [2](https://www.youtube.com/watch?v=0xo1Ldx3L5Q) | [3](https://www.youtube.com/watch?v=nMR5mjCFZCw)
 * **`SAC`** [Soft Actor-Critic : Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/abs/1801.01290), Haarnoja T. et al. (2018). [🎞️](https://vimeo.com/252185258)
 * **`MPO`** [Maximum a Posteriori Policy Optimisation](https://arxiv.org/abs/1806.06920), Abdolmaleki A. et al (2018).
+* [A Deeper Look at Discounting Mismatch in Actor-Critic Algorithms](https://arxiv.org/abs/2010.01069), Zhang S., Laroche R. et al. (2020).
 
 ### Derivative-free
 
