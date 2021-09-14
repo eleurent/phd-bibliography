@@ -407,6 +407,8 @@
 * **`FTW`** [Human-level performance in first-person multiplayer games with population-based deep reinforcement learning](https://arxiv.org/abs/1807.01281), Jaderberg M. et al. (2018). [🎞️](https://www.youtube.com/watch?v=dltN4MxV1RI)
 * [Towards Learning Multi-agent Negotiations via Self-Play](https://arxiv.org/abs/2001.10208), Tang Y. C. (2020).
 * **`MAPPO`** [The Surprising Effectiveness of MAPPO in Cooperative, Multi-Agent Games](https://arxiv.org/abs/2103.01955), Yu C. et al. (2021). |:octocat:](https://github.com/marlbenchmark/on-policy)
+* [Many-agent Reinforcement Learning](https://discovery.ucl.ac.uk/id/eprint/10124273/), Yang Y. (2021)
+
 
 ## Representation Learning
 
