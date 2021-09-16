@@ -146,6 +146,7 @@
 * [Safe Model-based Reinforcement Learning with Stability Guarantees](https://arxiv.org/abs/1705.08551), Berkenkamp F. et al. (2017).
 * **`Lyapunov-Net`** [Safe Interactive Model-Based Learning](https://arxiv.org/abs/1911.06556), Gallieri M. et al. (2019).
 * [Enforcing robust control guarantees within neural network policies](https://arxiv.org/abs/2011.08105), Donti P. et al. (2021). [:octocat:](https://github.com/locuslab/robust-nn-control)
+* **`ATACOM`** [Robot Reinforcement Learning on the Constraint Manifold](https://openreview.net/forum?id=zwo1-MdMl1P), Liu P. et al (2021).
 
 ## Uncertain Dynamical Systems
 
