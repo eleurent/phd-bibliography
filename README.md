@@ -110,6 +110,7 @@
 * [Robust Markov Decision Processes](https://pubsonline.informs.org/doi/pdf/10.1287/moor.1120.0566), Wiesemann W., Kuhn D., Rustem B. (2012).
 * [Safe and Robust Learning Control with Gaussian Processes](http://www.dynsyslab.org/wp-content/papercite-data/pdf/berkenkamp-ecc15.pdf), Berkenkamp F., Schoellig A. (2015). [🎞️](https://www.youtube.com/watch?v=YqhLnCm0KXY)
 * **`Tube-MPPI`** [Robust Sampling Based Model Predictive Control with Sparse Objective Information](http://www.roboticsproceedings.org/rss14/p42.pdf), Williams G. et al. (2018). [🎞️](https://www.youtube.com/watch?v=32v-e3dptjo)
+* [Safe Learning in Robotics: From Learning-Based Control to Safe Reinforcement Learning](https://arxiv.org/abs/2108.06266), Lukas Bronke et al. (2021). [:octocat:](https://github.com/utiasDSL/safe-control-gym)
 
 ## Risk-Averse Control
 
