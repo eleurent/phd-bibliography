@@ -424,6 +424,7 @@
 * [Making Sense of Vision and Touch: Self-Supervised Learning of Multimodal Representations for Contact-Rich Tasks](https://arxiv.org/pdf/1810.10191.pdf), Lee M. et al. (2018). [🎞️](https://www.youtube.com/watch?v=TjwDJ_R2204)
 * [Deep Neuroevolution of Recurrent and Discrete World Models](http://sebastianrisi.com/wp-content/uploads/risi_gecco19.pdf), Risi S., Stanley K.O. (2019). [🎞️](https://www.youtube.com/watch?v=a-tcsnZe-yE) [:octocat:](https://github.com/sebastianrisi/ga-world-models)
 * **`FERM`** [A Framework for Efficient Robotic Manipulation](https://sites.google.com/view/efficient-robotic-manipulation), Zhan A., Zhao R. et al. (2021). [:octocat:](https://github.com/PhilipZRH/ferm)
+* **`S4RL`** [S4RL: Surprisingly Simple Self-Supervision for Offline Reinforcement Learning](https://arxiv.org/abs/2103.06326), Sinha S. et al (2021).
 
 ## Offline
 
