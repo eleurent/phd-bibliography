@@ -4,6 +4,7 @@
 
 * [Optimal Control](#optimal-control-dart)
   * [Dynamic Programming](#dynamic-programming)
+  * [Linear Programming](#linear-programming)
   * [Tree-Based Planning](#tree-based-planning)
   * [Control Theory](#control-theory)
   * [Model Predictive Control](#model-predictive-control)
@@ -56,6 +57,11 @@
 * (book) [Markov Decision Processes - Discrete Stochastic Dynamic Programming](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118625870.html), Puterman M. (1995).
 * [An Upper Bound on the Loss from Approximate Optimal-Value Functions](https://www.cis.upenn.edu/~mkearns/teaching/cis620/papers/SinghYee.pdf), Singh S., Yee R. (1994).
 * [Stochastic optimization of sailing trajectories in an upwind regatta](https://link.springer.com/article/10.1057%2Fjors.2014.40), Dalang R. et al. (2015).
+
+## Linear Programming
+
+* (book) [Markov Decision Processes - Discrete Stochastic Dynamic Programming](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118625870.html), Puterman M. (1995).
+* **`REPS`** [Relative Entropy Policy Search](https://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/viewFile/1851/2264), Peters J. et al. (2010).
 
 ## Tree-Based Planning
 
