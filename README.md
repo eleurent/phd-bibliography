@@ -398,6 +398,7 @@
 * **`PACOH`** [PACOH: Bayes-Optimal Meta-Learning with PAC-Guarantees](https://arxiv.org/abs/2002.05551), Rothfuss J., Fortuin V., Josifoski M., Krause A. (2021).
 * [Model-Based Domain Generalization](https://arxiv.org/abs/2102.11436), Robey A. et al. (2021).
 * **`SimGAN`** [SimGAN: Hybrid Simulator Identification for Domain Adaptation via Adversarial Reinforcement Learning](https://arxiv.org/abs/2101.06005), Jiang Y. et al. (2021). [🎞️](https://www.youtube.com/watch?v=McKOGllO7nc&feature=youtu.be) [:octocat:](https://github.com/jyf588/SimGAN)
+* [Learning robust perceptive locomotion for quadrupedal robots in the wild](https://leggedrobotics.github.io/rl-perceptiveloco/), Miki T. et al. (2022).
 
 ## Multi-agent :two_men_holding_hands:
 
