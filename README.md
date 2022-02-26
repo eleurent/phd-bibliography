@@ -125,6 +125,7 @@
 * **`StoROO`** [X-Armed Bandits: Optimizing Quantiles and Other Risks](https://arxiv.org/abs/1904.08205), Torossian L., Garivier A., Picheny V. (2019).
 * [Worst Cases Policy Gradients](https://arxiv.org/abs/1911.03618), Tang Y. C. et al. (2019).
 * [Model-Free Risk-Sensitive Reinforcement Learning](https://arxiv.org/abs/2111.02907), Delétang G. et al. (2021).
+* [Optimal Thompson Sampling strategies for support-aware CVaR bandits](https://proceedings.mlr.press/v139/baudry21a.html), Baudry D., Gautron R., Kaufmann E., Maillard O. (2021).
 
 ## Value-Constrained Control
 
